@@ -1,0 +1,102 @@
+[
+  {
+    "professor_id": 515,
+    "professor_name": "Adam Cannon",
+    "public_url": "https://culpa.info/professor/515",
+    "api_url_page_1": "https://culpa.info/api/review/professor/515?page=1",
+    "raw_json_file": "documents/raw_json/adam_cannon.json",
+    "document_file": "documents/adam_cannon_reviews.txt",
+    "reported_review_count": 94,
+    "collected_review_count": 93
+  },
+  {
+    "professor_id": 3409,
+    "professor_name": "Paul Blaer",
+    "public_url": "https://culpa.info/professor/3409",
+    "api_url_page_1": "https://culpa.info/api/review/professor/3409?page=1",
+    "raw_json_file": "documents/raw_json/paul_blaer.json",
+    "document_file": "documents/paul_blaer_reviews.txt",
+    "reported_review_count": 84,
+    "collected_review_count": 84
+  },
+  {
+    "professor_id": 13639,
+    "professor_name": "Tony Dear",
+    "public_url": "https://culpa.info/professor/13639",
+    "api_url_page_1": "https://culpa.info/api/review/professor/13639?page=1",
+    "raw_json_file": "documents/raw_json/tony_dear.json",
+    "document_file": "documents/tony_dear_reviews.txt",
+    "reported_review_count": 45,
+    "collected_review_count": 45
+  },
+  {
+    "professor_id": 13076,
+    "professor_name": "Ansaf Salleb-Aouissi",
+    "public_url": "https://culpa.info/professor/13076",
+    "api_url_page_1": "https://culpa.info/api/review/professor/13076?page=1",
+    "raw_json_file": "documents/raw_json/ansaf_salleb_aouissi.json",
+    "document_file": "documents/ansaf_salleb_aouissi_reviews.txt",
+    "reported_review_count": 31,
+    "collected_review_count": 31
+  },
+  {
+    "professor_id": 45,
+    "professor_name": "Jason Nieh",
+    "public_url": "https://culpa.info/professor/45",
+    "api_url_page_1": "https://culpa.info/api/review/professor/45?page=1",
+    "raw_json_file": "documents/raw_json/jason_nieh.json",
+    "document_file": "documents/jason_nieh_reviews.txt",
+    "reported_review_count": 29,
+    "collected_review_count": 29
+  },
+  {
+    "professor_id": 1342,
+    "professor_name": "Clifford Stein",
+    "public_url": "https://culpa.info/professor/1342",
+    "api_url_page_1": "https://culpa.info/api/review/professor/1342?page=1",
+    "raw_json_file": "documents/raw_json/clifford_stein.json",
+    "document_file": "documents/clifford_stein_reviews.txt",
+    "reported_review_count": 29,
+    "collected_review_count": 29
+  },
+  {
+    "professor_id": 375,
+    "professor_name": "Luis Gravano",
+    "public_url": "https://culpa.info/professor/375",
+    "api_url_page_1": "https://culpa.info/api/review/professor/375?page=1",
+    "raw_json_file": "documents/raw_json/luis_gravano.json",
+    "document_file": "documents/luis_gravano_reviews.txt",
+    "reported_review_count": 18,
+    "collected_review_count": 18
+  },
+  {
+    "professor_id": 3429,
+    "professor_name": "Simha Sethumadhavan",
+    "public_url": "https://culpa.info/professor/3429",
+    "api_url_page_1": "https://culpa.info/api/review/professor/3429?page=1",
+    "raw_json_file": "documents/raw_json/simha_sethumadhavan.json",
+    "document_file": "documents/simha_sethumadhavan_reviews.txt",
+    "reported_review_count": 16,
+    "collected_review_count": 16
+  },
+  {
+    "professor_id": 1621,
+    "professor_name": "Tal Malkin",
+    "public_url": "https://culpa.info/professor/1621",
+    "api_url_page_1": "https://culpa.info/api/review/professor/1621?page=1",
+    "raw_json_file": "documents/raw_json/tal_malkin.json",
+    "document_file": "documents/tal_malkin_reviews.txt",
+    "reported_review_count": 16,
+    "collected_review_count": 16
+  },
+  {
+    "professor_id": 1724,
+    "professor_name": "Rocco Servedio",
+    "public_url": "https://culpa.info/professor/1724",
+    "api_url_page_1": "https://culpa.info/api/review/professor/1724?page=1",
+    "raw_json_file": "documents/raw_json/rocco_servedio.json",
+    "document_file": "documents/rocco_servedio_reviews.txt",
+    "reported_review_count": 15,
+    "collected_review_count": 15
+  }
+]

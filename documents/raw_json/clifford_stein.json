@@ -1,0 +1,964 @@
+[
+  {
+    "url": "https://culpa.info/api/review/professor/1342?page=1",
+    "payload": {
+      "number_of_reviews": 29,
+      "reviews": [
+        {
+          "agree_count": 1,
+          "content": "This guy is legitimately awful. Run. He doesn't really teach at all, he just stands at the front of the classroom fumbling around for an hour and fifteen minutes trying to make really lame jokes. The only thing I learned in this class is how to use a plug-in for google docs to use ChatGPT in it because even though he says on his syllabus that you can google things during exams, he fully lied, and we could not, so I used said plug-in to answer all my questions. From what I've heard from other sections, you could fully google things and use ChatGPT, so maybe go for them.",
+          "course_header": {
+            "course_code": "ORCA E2500",
+            "course_id": 10761,
+            "course_name": "FOUNDATIONS OF DATA SCIENCE"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 2,
+          "review_id": 85604,
+          "submission_date": "2024-11-16T20:42:06",
+          "workload": "6 Homeworks, 1 Semester project, 1 midterm, 1 final"
+        },
+        {
+          "agree_count": 0,
+          "content": "Prof Stein is a genius. He is witty, has pretty good lecture slides, and explains them in a very thorough manner. This course was taught 'alongside' Prof Andoni's Analysis of Algorithms 1 course, and twice this semester Prof Stein couldn't teach and he had Andoni fill in with his own slides. After experiencing both professors, I can confidently say that Stein is much more concise, thorough, and more familiar with the material. I mean, he is a co-author of the textbook...\r\n\r\nAs far as workload, there were 6 problem sets with the lowest one dropped. These took a substantial amount of time if you actually go through the process of thinking and devising/modifying algorithms to solve them (the alternative is to google them and either find the solution posted or something similar that you can pull off as a sort-of answer). Two midterms for 25% each, and one final for 35%. First midterm I did terribly, second I did average, and final I also scored average. On the homeworks, I started off scoring 2 SD's below median, and slowly worked my way up to the median/above. Constant and steady improvement is definitely key, as I walked away with a B. \r\n\r\nThe material is challenging, but office hours are helpful. Reading the textbook is a must... especially if you miss class, you have everything you need to know in the textbook. Stein follows it perfectly, and it is written in the same language he teaches in (duh! he wrote it!), so its easy to follow along.\r\n\r\nThis class was extremely helpful for interviewing. I took it Fall 2019, as I was applying to full-time CS roles. Definitely helpful for analyzing runtime, using algorithms, modifying algorithms, optimization, etc. I recommend taking it, the topics taught in this class are extremely helpful to someone looking to be a good programmer, engineer, algorithm designer, etc.",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 4,
+          "review_id": 81816,
+          "submission_date": "2020-01-15T01:25:09",
+          "workload": "6 HWs, 3-6 questions with 1-4 subquestions each. Usually a mix of proofs, modifying algorithms, or analyzing\r\n2 midterms, cumulative (but focusing on the material from that portion of the semester), 25% each\r\n1 final, cumulative (but with strong focus on last 1/3 of semester), 35%"
+        },
+        {
+          "agree_count": 0,
+          "content": "Not the most exciting class but Stein was great at explaining everything and making the class pretty engaging. The materail in the real world is hard (most problems are unsolved) but the class wasn't. Workload was pretty low - weekly problem sets were easily graded though not always easy. The midterm and final were just like the practice tests and both allowed cheat sheets so no memorization was necessary. The projects was pretty open ended - some required coding, some just analyzed a scheduling problem. Most people in the lass are second semester seniors so it definitely isn't a huge burden. ",
+          "course_header": {
+            "course_code": "IEOR E4405",
+            "course_id": 4360,
+            "course_name": "Production Scheduling"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 4,
+          "review_id": 80128,
+          "submission_date": "2017-07-07T19:36:39",
+          "workload": "- Almost weekly problem sets\r\n- Midterm\r\n- Project\r\n- Final "
+        },
+        {
+          "agree_count": 1,
+          "content": "Cliff\u2019s class was overall a solid, low workload course. While I don\u2019t find Production Scheduling an inherently exciting topic, I think Cliff did a good job of trying to keep everyone engaged.\r\n\r\nThroughout the class you simply look at different scenarios and consider the best ways to schedule things to meet certain objectives. The provided textbook is quite awful, and Cliff\u2019s slides are quite bare, so you will definitely want to go to class.He mostly uses the white board in class, and uses the slides just to remind himself of the example he is about to work through. That being said, he is good at providing the intuition of how to approach the various problems, and is surprisingly good at providing a silly metaphor to help you think through the logic (e.g: \u201cif we are running a race, and you are both faster and start closer to the finish line, it is obvious who will win\u201d). \r\n\r\nHe is also very aware that this class in in senior spring for most students, so he spent some time talking about job stuff, Columbia\u2019s basketball team, etc. \r\n\r\nHis exams aren\u2019t super difficult, but they also are not boringly algorithmic. He isn\u2019t just going to give you a type of problem you have seen and ask you to apply the algorithm found in class. That might be part of the problem but then he might modify an assumption or ask a more conceptual question, so you will have to synthesize learning from other algorithms to make a slight modification to the one at hand. This shouldn\u2019t be difficult or shocking for anyone, but I guess it is slightly annoying for those in senior spring who would rather just chill out. \r\nHe has 1 homework set a week that is not particularly difficult, and usually taken less than 3 hours to do, if not less. There is a final project for this class but you define the scope of it, so to some extent, it is as much work as you want it to be, subject to limitations of course. Overall this is a somewhat boring topic, presented in a clear way, by a good professor with a low workload. \r\n",
+          "course_header": {
+            "course_code": "IEOR E4405",
+            "course_id": 4360,
+            "course_name": "Production Scheduling"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 79304,
+          "submission_date": "2016-08-17T04:02:44",
+          "workload": "Weekly homework, 15%\r\n1 midterm, 30%\r\n1 final project, 20%\r\n1 final exam, 35%"
+        },
+        {
+          "agree_count": 2,
+          "content": "This was definitely one of the best, most rewarding classes I've taken at Columbia.  \r\n\r\nWhile the huge size of the class was definitely not optimal, Stein has mastered the art of teaching a large class.  The class definitely covers a lot of dense material, but the instructor did a great job picking out the important ideas without getting bogged down and trying to cover every last line of the textbook.  He's without question one of the best lecturers I've had at this school.  I know that often taking a class from the author of the textbook can mean that lecture notes seem like copies of the textbook, but that is not the case in this class.  I found his presentation a bit friendlier and more streamlines than the book, and he was also quite funny and brought great energy to the class.  The book could be terse, but it was definitely helpful to refer to after lectures for more details.\r\n\r\nAs people have mentioned previously, the workload is intense.  Each of the seven homework assignments are incredibly long.  I don't think I've ever spent so much time on homework assignments for a class.  I learned a ton from completing them, but they definitely could've been a bit shorter without compromising much value.  With that in mind, this is definitely not a class to undertake lightly.\r\n\r\nThe exams were much more straightforward than the assignments, and if you put a lot of effort into the assignments, it would be reflected on the exams.  It was very frustrating that so many people cheated on homework assignments for perfect scores.  I don't really have a good answer to this, as I too was very frustrated by it.  Seeing as this happened, giving a take home midterm might not have been the best idea.  The grading seemed fair to generous, especially for undergrads who were curved separately.\r\n\r\n",
+          "course_header": {
+            "course_code": "CSOR 4231",
+            "course_id": 4035,
+            "course_name": "csor 4231"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 4,
+          "review_id": 29361,
+          "submission_date": "2014-04-23T04:33:25",
+          "workload": "Extremely heavy workload.  7 massive homework assignments worth 30% of the grade, and a take home midterm and in class final each worth 35% of the grade."
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 27,
+          "content": "If I can describe Clifford Stein in one word, it would be asshole. He shows no respect for students, and assumes the worst out of all of them. The fact that he was willing to share that he single-handedly had 5 students expelled from Columbia for cheating was enough for me to know that he was a past nerd who is trying to instill a sense of revenge. I recieved back a few homeworks, and EVERY SINGLE PROBLEM is graded on a check, check plus, check minus scale, thus leaving you confused as to your final grade. If his intention was that homework was for learning, he wouldn't care what someone did on the homework.\n\nOn the other hand, he is prepared for class and does the examples and it is very easy to understand. However, he does all the examples COMPLETELY different from the textbook, leaving the student confused and in a sea of frustration.\n\nAlso, in class, he just goes silent when other students start to talk. He doesn't even accept if a student wants to ask the person next to him a question.\n\nI would say don't take this class, but if you are in IEOR, you're pretty much forced to, so good luck.",
+          "course_header": {
+            "course_code": "IEOR E3608",
+            "course_id": 2337,
+            "course_name": "Mathematical Programming"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 2,
+          "review_id": 15465,
+          "submission_date": "2006-10-04T00:00:00",
+          "workload": "One problem set a week which is moderately difficult, two midterms, and one final."
+        },
+        "controversial_review": {
+          "agree_count": 6,
+          "content": "I think he's a good teacher who can explain things well, but attendance does drop at the end, as people see that a significant part of the course revisits Data Structures.  I wanted to add that in Algorithms, he does not care whether the homework is handed in at the beginning or end of class (as opposed to his other class), and that undergrads are curved separately from the grads (the class is 80% graduate students).",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 18,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 13902,
+          "submission_date": "2006-01-16T00:00:00",
+          "workload": "7 Homeworks, take home midterm, final"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/1342?page=2",
+    "payload": {
+      "number_of_reviews": 29,
+      "reviews": [
+        {
+          "agree_count": 2,
+          "content": "One of the best classes I've taken at Columbia. Stein is a clear lecturer, and made all of the (already exciting) topics even better.\r\n\r\nThe homeworks were excellent. They were long and arduous, but you had sufficient time (two weeks) and plenty of office hours. I really learned a lot through the homeworks, and they prepared me really well for the midterm/final.\r\n\r\nIt's a huge class, so be prepared for other people to cheat, make noise, grumble, etc. Ignore it, and take the class anyways, because it's worth it. ",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 29312,
+          "submission_date": "2014-04-09T16:13:11",
+          "workload": "Very time-intensive, but useful/well-written homeworks. Easy take-home midterm, fine final. You can prepare by really understanding the material and just applying it"
+        },
+        {
+          "agree_count": 2,
+          "content": "First off I enjoyed the course and think Prof. Stein is an excellent teacher. His lectures do a good job of explaining some very dense material and he also is engaging and manages to keep a relatively light tone despite the large class size. He seems well prepared and obviously is a master of the material. Sometimes when you take a course where the teacher is also the textbook author you might as well just stay home and read the book; however with this class Prof. Stein manages to add a lot of value despite covering mostly similar material to the book. The book itself is pretty good too although occasionally too terse.\r\n\r\nThe material itself is critical to any advanced CS study - either research or advanced development - and so I would recommend it to anyone looking at or already in grad school or who wants to get a highly competitive job at a top company. That said, if all you want to do is get a decent entry level CS job this material is more challenging than what you need to know.\r\n\r\nSpeaking of challenging material the class is VERY hard. Primarily this is due to the HW. With one or two exceptions each of the seven problem sets is extremely long and difficult. And (as has been pointed out) cheating is rampant. If you want to get the mean or better without cheating be prepared to invest at least twenty hours on each HW.\r\n\r\nI actually thought the midterm was great. Since the questions were brand new you couldn't cheat from the internet and so I felt the long hours I put into it were rewarded with a good score above the mean. This is in contrast to the HWs where no matter how hard I worked I generally got an average grade.\r\n\r\nI also thought the questions on the final were fair although I was surprised at my grade (which wasn't bad but wasn't good either). C'est la vie, you can't win them all. Certainly the questions on both the midterm and final are easier than on the HWs.\r\n\r\nOverall I loved the class although I think it would be even better if they reduced the amount of HW and used easier questions written from scratch each semester so people couldn't cheat from the internet. I do understand this would be a lot of work for the staff. As it stands right now hard work on the problem sets will help you learn the material very well, but can be frustrating due to sheer volume and the fact many people cheat/collaborate.\r\n\r\nCurve seemed fair to me but I haven't discussed grades with anyone else in the class. Overall TAs seemed pretty good. Some logistical hiccups (not nearly enough seats in lecture hall, HWs returned via huge pile/mad rush method) but generally grading was quick. Feedback on Piazza questions a bit skimpy but not bad.\r\n\r\nTL;DR - really enjoyed the class overall, particularly the rigorous material and good lectures. Prof is high quality. Have mixed feelings regarding the huge HWs. Textbook is relatively good.",
+          "course_header": {
+            "course_code": "CSOR 4231",
+            "course_id": 4035,
+            "course_name": "csor 4231"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 4,
+          "review_id": 29091,
+          "submission_date": "2014-01-08T23:44:52",
+          "workload": "Extremely high primarily due to HW. 7 HW problem sets (30% total), one of these is half size but the others are all pretty brutal. Very fair take home midterm and fair in class final (35% each)."
+        },
+        {
+          "agree_count": 10,
+          "content": "I agree with the previous reviewer on almost every account.  I just want to elaborate on how some of the administrative details.  I ultimately really enjoyed the course and learned a ton.  That being said, I\u00e2\u20ac\u2122m hesitant to recommend it to anyone who is taking it just because someone told them it might be a good idea.  The workload is too heavy to undertake the course out of casual interest.\r\n\r\nUnfortunately, with an enormous class size, the course had a heavy focus on evaluation without much benefit.  The class had all the symptoms of a cash cow class for the master\u00e2\u20ac\u2122s program.  For the whole semester (except on days when homework was due), there were students filling every seat plus the stairs of the room.  The first time homework was handed back at the front of NWCB 501, the entire class fought like idiots around the tables to get their papers as quickly as possible.  Eventually, I realized that getting my homework back was pointless, as each problem rarely had any information other than the score I got on the problem.  If the score was something in between full score and no credit, they often wouldn\u00e2\u20ac\u2122t even bother to underline or cross out the mistake.  This is a great way to give grades really quickly, but not much else.  These problems extended to both the assignments and the exams.\r\n\r\nThe professor gave a speech on the first day about the academic honesty policy, and how using the internet to help us with the homework is not allowed.  He said that violations would be treated harshly, and that there are no exceptions this policy.  He even implemented a policy to encourage us not to waste time writing anything for problems we did not know how to solve, which was to award 3 points out of 10 for leaving the problem blank.  That all seemed fine on the first day, until you realized that nobody gave a fuck and they were all just gunning for perfect scores, regardless of how they attained them.  The bottom line is that any incentives to prevent cheating were completely unsuccessful.  Yes, people who were honest were inevitably penalized. \r\n\r\nThe fact that such excessive amounts of this took place makes me question whether the expectations for the class were unreasonable.  I think most people thought to some extent that the workload was too heavy.  I think the workload did detract from learning for many students.  Yes, this is a class where doing the homework requires significant insight beyond what is presented in the lectures; this is a good thing to a certain extent but sometimes it went overboard.\r\n\r\nUnfortunately, the exams didn\u00e2\u20ac\u2122t necessarily do a good job normalizing for who was most sincere in their homework assignments.  I've been in classes before where people who cheated on the homework got killed on the exams; this was not one of those classes.  The main reason for this was that the midterm was take home (and obviously everyone collaborated).  This exam was a great deal easier than the homework assignments, but the expectations are generally a rather unclear, and the grading was much harsher than homework assignments.  Also, many of the more difficult theoretical problems did not really have anything to do with the exams.  Basically, the problem sets were so extensive that the exams weren\u00e2\u20ac\u2122t representative of how well students understood the assignments.  For example, much of the beginning of the course and the first two homework assignments are devoted to developing mathematical techniques, but none of this comes out on the exam.\r\n\r\nFinally, I think there should be some coordination between this class and data structures.  To put it bluntly, data structures here is a complete joke.  I think every undergrad in the class could\u00e2\u20ac\u2122ve benefitted from some attention to the more advanced data structures.  I\u00e2\u20ac\u2122m not saying this because the background was necessary or even helpful for the material we covered.",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 29026,
+          "submission_date": "2014-01-03T21:36:09",
+          "workload": "30% Homework Assignments (7) - Difficulty and length varied substantially from week to week.  Don't be fooled by the small number of assignments.  Overall, these were some of the longest homework assignments of my life.  Some of the problems were really great and I enjoyed working through a lot of them, but it definitely was excessive.\r\n\r\n35% Take home midterm - This was 3 problems that was generally easier than the problems on homework assignments, but some of the expectations were very unclear.  For example, when we were told to give an efficient algorithm, there was one case where the most efficient algorithm was Dijkstra\u00e2\u20ac\u2122s algorithm.  We hadn\u00e2\u20ac\u2122t covered Dijkstra\u00e2\u20ac\u2122s algorithm yet and it was on the syllabus for a later date.  That being said, I think every CS major knows about Dijkstra\u00e2\u20ac\u2122s algorithm.  The truth (according to the solutions) was we were expected to use a less efficient algorithm than Dijkstra\u00e2\u20ac\u2122s algorithm because it hadn\u00e2\u20ac\u2122t been covered.  These types of ambiguities weren\u00e2\u20ac\u2122t a factor in the homework assignments because they usually indicated the runtime of the algorithm we were supposed to devise.  Also (perhaps due to unclear expectations) the grading was harsh.  The average was a 45/60 and the median was a 47/60.  \r\n\r\n35% In-Class Final - A bit of a crapshoot, and completely impossible to prepare for.  The average was a 39/60, unsurprisingly the lowest average of the semester because it was the only in class exam.  The problem with the exams wasn\u00e2\u20ac\u2122t that they were unfair so much as if you made one wrong assumption about a problem, this made it incredibly easy to mess up.  "
+        },
+        {
+          "agree_count": 4,
+          "content": "This class is definitely one you should take for the following reasons:\r\n\r\n1. The book is very good and the teacher, who helped write it, is very good at describing the chapters intuitively.\r\n2. The class covers a lot of material and, as a person without much of a background in CS theory, I really learned a lot.\r\n3. This class really gets intimate with the particulars of certain algorithms and you leave the class with a sense of what works where and why. At least I did, anyway. The problem sets you will be solving reinforce this way of thinking, as many problems ask you to devise an algorithm and you will get a lot of practice of what \"pieces\" to use in the \"puzzle\".\r\n\r\nJust about any CS concentration will find something to use from this course and in general just provides some good information.\r\n\r\nThere are still problems with this class:\r\n\r\nFirst of all, it seemed like everybody was cheating. The average on every assignment was always absurdly high and, given the challenging nature of the problem sets, seemed too good to be true. It was almost as if the people who did the work honestly were punished for doing so. No less than six times in class did I witness a student in front of me pulling up the solutions on his/her laptop. The same problem extended to the midterm because it was take home. You weren't supposed to collaborate but people did anyway. Seriously, Google \"CLRS 3rd edition solution manual\" and let me know what you find in the first result on the first page.",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 28979,
+          "submission_date": "2013-12-26T19:39:26",
+          "workload": "Really heavy. The homeworks are HARD and will take you a lot of time. Don't make the mistake I made and mix this class with other heavy classes (OS, Animation, etc)"
+        },
+        {
+          "agree_count": 7,
+          "content": "Well the professor doesn't really add much, but the course is a must itself. It puts you in a position where you need continuously keep solving his assignments. And there are a lot of them. One of the advantages we had was that Aaron Bernstein, his PhD student, was TA ing and he was really helpful in clarifying a lot of stuff. He might be late most of the time but he makes a lot of effort to explain stuff. He even helped solve a couple of assignment questions.... :p\r\n\r\nThe course doesn't cover any DataStructure though.",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 28734,
+          "submission_date": "2013-11-19T20:50:22",
+          "workload": "A lot. Loads of bi-weekly assignments, that will take up a lot of your time."
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 27,
+          "content": "If I can describe Clifford Stein in one word, it would be asshole. He shows no respect for students, and assumes the worst out of all of them. The fact that he was willing to share that he single-handedly had 5 students expelled from Columbia for cheating was enough for me to know that he was a past nerd who is trying to instill a sense of revenge. I recieved back a few homeworks, and EVERY SINGLE PROBLEM is graded on a check, check plus, check minus scale, thus leaving you confused as to your final grade. If his intention was that homework was for learning, he wouldn't care what someone did on the homework.\n\nOn the other hand, he is prepared for class and does the examples and it is very easy to understand. However, he does all the examples COMPLETELY different from the textbook, leaving the student confused and in a sea of frustration.\n\nAlso, in class, he just goes silent when other students start to talk. He doesn't even accept if a student wants to ask the person next to him a question.\n\nI would say don't take this class, but if you are in IEOR, you're pretty much forced to, so good luck.",
+          "course_header": {
+            "course_code": "IEOR E3608",
+            "course_id": 2337,
+            "course_name": "Mathematical Programming"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 2,
+          "review_id": 15465,
+          "submission_date": "2006-10-04T00:00:00",
+          "workload": "One problem set a week which is moderately difficult, two midterms, and one final."
+        },
+        "controversial_review": {
+          "agree_count": 6,
+          "content": "I think he's a good teacher who can explain things well, but attendance does drop at the end, as people see that a significant part of the course revisits Data Structures.  I wanted to add that in Algorithms, he does not care whether the homework is handed in at the beginning or end of class (as opposed to his other class), and that undergrads are curved separately from the grads (the class is 80% graduate students).",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 18,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 13902,
+          "submission_date": "2006-01-16T00:00:00",
+          "workload": "7 Homeworks, take home midterm, final"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/1342?page=3",
+    "payload": {
+      "number_of_reviews": 29,
+      "reviews": [
+        {
+          "agree_count": 5,
+          "content": "You know how you imagined it would be supercool to actually learn algorithms from the S of CLRS? Well, its better than what you imagined.\r\n\r\nIf you want to learn algorithms from scratch, or just brush up the basics and then step into the more advanced Dynamic Programming / Graph algorithms, this is the class for you. Prof. Stein is extremely approachable, and very patient with the stupidest of questions. He will not take any Math background for granted. First few lectures can be boring if you know Big-Oh but he is really wonderful at motivating most of the \"magic\" behind the algorithms. Most of the assignments are difficult and you really want to get started as soon as they are out.\r\n\r\nMidterm was not too bad, if you had solved the assignments on your own and the final was downright easy.\r\n\r\nOverall, an extremely enjoyable class. Highly recommended.\r\n",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 4,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 26891,
+          "submission_date": "2012-01-11T05:55:44",
+          "workload": "Heavy: 7 assignments + 1 take home midterm + final"
+        },
+        {
+          "agree_count": 1,
+          "content": "Great professor but definitely not the easiest course. He's very structured and organized, so that's a plus. But be prepared to study!\r\n\r\nThe class begins easy, and the stuff appears intuitive, but then picks up the pace pretty quick and gets pretty complex.\r\n\r\nLectures consist of both ppt presentations and stuff he does on the blackboard.\r\n\r\nThe textbook is pretty helpful and combined with his lectures, you're never at a loss for material to study.",
+          "course_header": {
+            "course_code": null,
+            "course_id": 1982,
+            "course_name": "Scheduling"
+          },
+          "disagree_count": 4,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 25928,
+          "submission_date": "2011-05-10T18:56:45",
+          "workload": "10 homework during the semester--don't take more than 2-3 hours.\r\nMidterm and final--pretty standard if you study\r\nGroup project and presentation"
+        },
+        {
+          "agree_count": 19,
+          "content": "Prof Stein is a good prof w.r.t.knowledge but his academic policy is not foolproof or rather I can say has a lot of loopholes in it . On one hand he does not prefer people referring to the sources on the internet whereas on the other hand his TAs give full credit to those who discuss the sums . So copying verbatim under the name of discussion is prevalent but if someone wants to access wikipedia or any other internet source then it is not allowed . Also the policy of picking up individuals for violating the academic policy seems to be random as many copy cats do escape . Also both the professors of algorithms do not show the same honesty while following this highly controversial and confusing academic honesty policy ",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 3,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 23740,
+          "submission_date": "2010-01-02T08:53:47",
+          "workload": "heavy with 7 assignments , midterm , final"
+        },
+        {
+          "agree_count": 5,
+          "content": "Professor Stein is a great professor - and you do learn algorithms really well if you attend all lectures and are sincere in your homeworks. \n\nHe is great at teaching, prepares his lectures well, and knows how to make his subject interesting. Frequently jokes in class, and keeps the class alert.\n\nHomeworks are hard, start early. They are never short, and take a lot of time. Exams are hard too. Usually he gives 7 homeworks, 1 take home mid-term, and one open book final. Use the TAs.\n\nClass is mainly a graduate level course, so undergraduates may find it a bit too hard.\n",
+          "course_header": {
+            "course_code": "CSOR 4231",
+            "course_id": 4035,
+            "course_name": "csor 4231"
+          },
+          "disagree_count": 9,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 4,
+          "review_id": 20958,
+          "submission_date": "2008-02-06T00:00:00",
+          "workload": "7 homeworks, 1 take home midterm, 1 open book final, Heavy workload."
+        },
+        {
+          "agree_count": 3,
+          "content": "Prof. Stein is a really entertaining guy with a good sense of humor. He seems genuinely interested in making people understand the material. It is very important that you attend class, because he follows an intuitive teaching approach which can save you time as opposed to reading from the book. In other words, he does a very good job of teaching from the book without getting into the uninteresting itsy bitsy details. \n\nIf you have taken any course on algorithms before, this class might seem like a repetition. However, he teaches the material on NP completeness very well, which I think many algorithm courses don't delve deep into.\n\nThe homeworks take a lot of time, and are pretty intense, and so is the course aas a whole. But I think if you are really interested in algorithms you should take the course, but make sure you mix it with light courses.\n\n",
+          "course_header": {
+            "course_code": "CSOR 4231",
+            "course_id": 4035,
+            "course_name": "csor 4231"
+          },
+          "disagree_count": 7,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 4,
+          "review_id": 20919,
+          "submission_date": "2008-01-25T00:00:00",
+          "workload": "Heavy. 7 homeworks (intense), take home midterm, in class final."
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 27,
+          "content": "If I can describe Clifford Stein in one word, it would be asshole. He shows no respect for students, and assumes the worst out of all of them. The fact that he was willing to share that he single-handedly had 5 students expelled from Columbia for cheating was enough for me to know that he was a past nerd who is trying to instill a sense of revenge. I recieved back a few homeworks, and EVERY SINGLE PROBLEM is graded on a check, check plus, check minus scale, thus leaving you confused as to your final grade. If his intention was that homework was for learning, he wouldn't care what someone did on the homework.\n\nOn the other hand, he is prepared for class and does the examples and it is very easy to understand. However, he does all the examples COMPLETELY different from the textbook, leaving the student confused and in a sea of frustration.\n\nAlso, in class, he just goes silent when other students start to talk. He doesn't even accept if a student wants to ask the person next to him a question.\n\nI would say don't take this class, but if you are in IEOR, you're pretty much forced to, so good luck.",
+          "course_header": {
+            "course_code": "IEOR E3608",
+            "course_id": 2337,
+            "course_name": "Mathematical Programming"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 2,
+          "review_id": 15465,
+          "submission_date": "2006-10-04T00:00:00",
+          "workload": "One problem set a week which is moderately difficult, two midterms, and one final."
+        },
+        "controversial_review": {
+          "agree_count": 6,
+          "content": "I think he's a good teacher who can explain things well, but attendance does drop at the end, as people see that a significant part of the course revisits Data Structures.  I wanted to add that in Algorithms, he does not care whether the homework is handed in at the beginning or end of class (as opposed to his other class), and that undergrads are curved separately from the grads (the class is 80% graduate students).",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 18,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 13902,
+          "submission_date": "2006-01-16T00:00:00",
+          "workload": "7 Homeworks, take home midterm, final"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/1342?page=4",
+    "payload": {
+      "number_of_reviews": 29,
+      "reviews": [
+        {
+          "agree_count": 3,
+          "content": "I think Professor Stein teaches well. He understands the subject thoroughly as can be seen in his explanations. I haven't seen even one instance of a question he couldn't answer convincingly. He is helpful in office hours and will walk you through a problem if necessary. \n\nThe class is in the morning (9 am ) and it's possible you will sleep through some classes. But every class is worth going to (take coffee !) . I find Stein's explanations in class easier to understand that the book. Many a times I have gone back to my notes because the book seemed to complicate thing a trifle.\n",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 9,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 4,
+          "review_id": 20502,
+          "submission_date": "2007-11-19T00:00:00",
+          "workload": "The load is fair, bordering on too much (7 homeworks, all lengthy). The (take home) midterm was a breeze if you attended class."
+        },
+        {
+          "agree_count": 5,
+          "content": "Okay, Cliff Stein is by far one of the clearest and most concise professors in the IEOR department.  The formula for success in this class (and in Integer Programming) is simple: go to class, take notes, do the homework.  After reading the other reviews for Stein, I can see that CLEARLY this is too much for a professor to ask of his students.  Oh wait, aren't these the BARE minimum class expectations?  Yea, that's what I thought.  \nIt may be possible that Cliff just works better with a smaller class.  For Integer Programming, we even had snack time.  In any case, Stein's a great guy.  He always responds to emails and is willing to talk to you during office hours.  The head TA, Shiqian, is really helpful as well.",
+          "course_header": {
+            "course_code": "IEOR E3608",
+            "course_id": 2337,
+            "course_name": "Mathematical Programming"
+          },
+          "disagree_count": 16,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 4,
+          "review_id": 19883,
+          "submission_date": "2007-05-09T00:00:00",
+          "workload": "challenging/long homeworks (don't start them the night before), pretty challenging midterm and final.  you will do well if you go to class, take notes, and actually do the homeworks."
+        },
+        {
+          "agree_count": 17,
+          "content": "I agree as a whole with the previous reviews, he doesnt follow the book's methods, he gets very insecure when people make noise in class, he changed his policy to collect homework at the beginning of class when he noticed some students doing hw during class, he attempts to cover up this inherently nature by cracking jokes, but personality issues aside, he is inconsiderate of his students, for the final he did not allow the TA to send out an email copy of the practice solutions, instead he placed 60 physical copies in the TAs office when there are 120 students in the class, he tries to weed out kids on purpose, and regardless of his intellegence and ability to teach he makes the learning experience an extremely unpleasant one, and his jokes are made in a futile attempt to mask his inconsiderate and slightly spiteful nature. for shame.",
+          "course_header": {
+            "course_code": null,
+            "course_id": 1461,
+            "course_name": "Introduction to Math Programming"
+          },
+          "disagree_count": 3,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 1,
+          "review_id": 18320,
+          "submission_date": "2007-01-30T00:00:00",
+          "workload": "weekly problem sets, two midterms and a final, not too bad"
+        },
+        {
+          "agree_count": 20,
+          "content": "Cliff Stein is the worst teacher i have ever had. He gets a kick out of messing with his students by doing things such as posting solutions that are done using methods that he did not teach in class as opposed to the ones he did teach. Another thing to note is that he purposely teaches everything in a manner different than the way the book does it. This wouldnt be so bad if he did everything the book way, but the problem arises because his answers that he posts online are done using the book method, even though he said his way is better and more intuitive. His lecture notes are also full of errors that he keeps saying he will fix but never does. The only reason he does not just fail everybody straight up is because that would make him look bad, so instead he tries to dick over his students behind the scenes. ",
+          "course_header": {
+            "course_code": null,
+            "course_id": 1461,
+            "course_name": "Introduction to Math Programming"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 1,
+          "review_id": 16312,
+          "submission_date": "2006-11-20T00:00:00",
+          "workload": ""
+        },
+        {
+          "agree_count": 27,
+          "content": "If I can describe Clifford Stein in one word, it would be asshole. He shows no respect for students, and assumes the worst out of all of them. The fact that he was willing to share that he single-handedly had 5 students expelled from Columbia for cheating was enough for me to know that he was a past nerd who is trying to instill a sense of revenge. I recieved back a few homeworks, and EVERY SINGLE PROBLEM is graded on a check, check plus, check minus scale, thus leaving you confused as to your final grade. If his intention was that homework was for learning, he wouldn't care what someone did on the homework.\n\nOn the other hand, he is prepared for class and does the examples and it is very easy to understand. However, he does all the examples COMPLETELY different from the textbook, leaving the student confused and in a sea of frustration.\n\nAlso, in class, he just goes silent when other students start to talk. He doesn't even accept if a student wants to ask the person next to him a question.\n\nI would say don't take this class, but if you are in IEOR, you're pretty much forced to, so good luck.",
+          "course_header": {
+            "course_code": "IEOR E3608",
+            "course_id": 2337,
+            "course_name": "Mathematical Programming"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 2,
+          "review_id": 15465,
+          "submission_date": "2006-10-04T00:00:00",
+          "workload": "One problem set a week which is moderately difficult, two midterms, and one final."
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 27,
+          "content": "If I can describe Clifford Stein in one word, it would be asshole. He shows no respect for students, and assumes the worst out of all of them. The fact that he was willing to share that he single-handedly had 5 students expelled from Columbia for cheating was enough for me to know that he was a past nerd who is trying to instill a sense of revenge. I recieved back a few homeworks, and EVERY SINGLE PROBLEM is graded on a check, check plus, check minus scale, thus leaving you confused as to your final grade. If his intention was that homework was for learning, he wouldn't care what someone did on the homework.\n\nOn the other hand, he is prepared for class and does the examples and it is very easy to understand. However, he does all the examples COMPLETELY different from the textbook, leaving the student confused and in a sea of frustration.\n\nAlso, in class, he just goes silent when other students start to talk. He doesn't even accept if a student wants to ask the person next to him a question.\n\nI would say don't take this class, but if you are in IEOR, you're pretty much forced to, so good luck.",
+          "course_header": {
+            "course_code": "IEOR E3608",
+            "course_id": 2337,
+            "course_name": "Mathematical Programming"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 2,
+          "review_id": 15465,
+          "submission_date": "2006-10-04T00:00:00",
+          "workload": "One problem set a week which is moderately difficult, two midterms, and one final."
+        },
+        "controversial_review": {
+          "agree_count": 6,
+          "content": "I think he's a good teacher who can explain things well, but attendance does drop at the end, as people see that a significant part of the course revisits Data Structures.  I wanted to add that in Algorithms, he does not care whether the homework is handed in at the beginning or end of class (as opposed to his other class), and that undergrads are curved separately from the grads (the class is 80% graduate students).",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 18,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 13902,
+          "submission_date": "2006-01-16T00:00:00",
+          "workload": "7 Homeworks, take home midterm, final"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/1342?page=5",
+    "payload": {
+      "number_of_reviews": 29,
+      "reviews": [
+        {
+          "agree_count": 6,
+          "content": "I think he's a good teacher who can explain things well, but attendance does drop at the end, as people see that a significant part of the course revisits Data Structures.  I wanted to add that in Algorithms, he does not care whether the homework is handed in at the beginning or end of class (as opposed to his other class), and that undergrads are curved separately from the grads (the class is 80% graduate students).",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 18,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 13902,
+          "submission_date": "2006-01-16T00:00:00",
+          "workload": "7 Homeworks, take home midterm, final"
+        },
+        {
+          "agree_count": 14,
+          "content": "This course can be improved. There should be a mandatory recitation session.\nAs a teacher Stein is not the best, avoid taking this course.\nThe home works are very time consuming and some questions are very difficult and takes away time from your other classes The course syllabus is from the book if you truly interested in algs. you should get the book and study at your own pace ",
+          "course_header": {
+            "course_code": "CSOR 4231",
+            "course_id": 4035,
+            "course_name": "csor 4231"
+          },
+          "disagree_count": 7,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 2,
+          "review_id": 13677,
+          "submission_date": "2006-01-05T00:00:00",
+          "workload": "7 hws1 mid term take home1 final in class"
+        },
+        {
+          "agree_count": 5,
+          "content": "Good lecturer (speaks English, makes corny jokes), but watch out because he can be strict!  If you come late don't you dare hand in the problem set by interrupting his class.  Stay out of his way when he's mad, but ask good questions otherwise, and he'll like you.  For a good joke, count how many times he says \"okay\" in 10 minutes.  It's after ever sentence, and usually a few times in the middle of each sentence as well.  I counted 240 once, and had a muffled laugh after each one.",
+          "course_header": {
+            "course_code": null,
+            "course_id": 1461,
+            "course_name": "Introduction to Math Programming"
+          },
+          "disagree_count": 6,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 13491,
+          "submission_date": "2005-12-25T00:00:00",
+          "workload": "Weekly, relevant problem sets, two midterms & one final that aren't so bad."
+        },
+        {
+          "agree_count": 8,
+          "content": "Prof. Stein is great in lecture, but he cares about class policy so much that he seems resent the students themselves.  Despite this, the course itself is great.  Some students found that the fact that Prof. Stein, the T.A.'s, and the book all did the problems a little differently confusing, but I like that I could choose the method I was most comfortable with.  Although I feel this course would have been a much happier experience if Prof. Stien got over himself, the course itself was great.",
+          "course_header": {
+            "course_code": null,
+            "course_id": 1461,
+            "course_name": "Introduction to Math Programming"
+          },
+          "disagree_count": 7,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 10967,
+          "submission_date": "2005-01-07T00:00:00",
+          "workload": "P-Sets can be a little long, tough, and tedious, but they are definitly doable.  Exams are not bad at all."
+        },
+        {
+          "agree_count": 6,
+          "content": "Great class. Lectures were very well prepared and interesting. Professor Stein is very clear and will stop to clarify things if you're confused.",
+          "course_header": {
+            "course_code": null,
+            "course_id": 1461,
+            "course_name": "Introduction to Math Programming"
+          },
+          "disagree_count": 11,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 10292,
+          "submission_date": "2004-12-27T00:00:00",
+          "workload": "weekly HW, 2 midterms that are pretty easy, final that is pretty difficult"
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 27,
+          "content": "If I can describe Clifford Stein in one word, it would be asshole. He shows no respect for students, and assumes the worst out of all of them. The fact that he was willing to share that he single-handedly had 5 students expelled from Columbia for cheating was enough for me to know that he was a past nerd who is trying to instill a sense of revenge. I recieved back a few homeworks, and EVERY SINGLE PROBLEM is graded on a check, check plus, check minus scale, thus leaving you confused as to your final grade. If his intention was that homework was for learning, he wouldn't care what someone did on the homework.\n\nOn the other hand, he is prepared for class and does the examples and it is very easy to understand. However, he does all the examples COMPLETELY different from the textbook, leaving the student confused and in a sea of frustration.\n\nAlso, in class, he just goes silent when other students start to talk. He doesn't even accept if a student wants to ask the person next to him a question.\n\nI would say don't take this class, but if you are in IEOR, you're pretty much forced to, so good luck.",
+          "course_header": {
+            "course_code": "IEOR E3608",
+            "course_id": 2337,
+            "course_name": "Mathematical Programming"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 2,
+          "review_id": 15465,
+          "submission_date": "2006-10-04T00:00:00",
+          "workload": "One problem set a week which is moderately difficult, two midterms, and one final."
+        },
+        "controversial_review": {
+          "agree_count": 6,
+          "content": "I think he's a good teacher who can explain things well, but attendance does drop at the end, as people see that a significant part of the course revisits Data Structures.  I wanted to add that in Algorithms, he does not care whether the homework is handed in at the beginning or end of class (as opposed to his other class), and that undergrads are curved separately from the grads (the class is 80% graduate students).",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 18,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 13902,
+          "submission_date": "2006-01-16T00:00:00",
+          "workload": "7 Homeworks, take home midterm, final"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/1342?page=6",
+    "payload": {
+      "number_of_reviews": 29,
+      "reviews": [
+        {
+          "agree_count": 9,
+          "content": "I wish I had met the Cliff Stein that all the other reviewers keep talking about.  The only thing I agree with is he does seem very annoyed by students.  While he may speak English fluently, he races through the material and does everything differently to the book.  He schedules his office hours early in the morning, so that nobody shows and if you do show, he doesn't really help you much.  The sad part is, you will not get a choice of professors for this class, so you are stuck with him.  Best advice I can give, is start the hw early and use the TAs.",
+          "course_header": {
+            "course_code": null,
+            "course_id": 1461,
+            "course_name": "Introduction to Math Programming"
+          },
+          "disagree_count": 11,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 2,
+          "review_id": 9721,
+          "submission_date": "2004-11-17T00:00:00",
+          "workload": "Tough weekly homeworks, 2 midterms, cumulative final."
+        },
+        {
+          "agree_count": 9,
+          "content": "Professor Stein could just be a massive relief: after so many classes with professors who barely speak english, or who simply should never have entered the teaching profession, Stein is the kind of professor you would expect.  Not spectacular, but certainly competent.  Stein is quite prepared, and treats the teaching of the class seriously with extensive examples and preparation.  \nStein personally seems to be annoyed with students.  But you get the feeling that if you needed his help on a real academic question, he would answer; he did not take well to the usual bullshit students give professors, such as showing up late, homework nonsense and the like.\n\nAs for the course itself, mathematical programming is the study of optimization: you have an objective such as profit, subject to sets of constraints.  Certain topics, such as the simplex method, are quite useful, but the course is about as immediately useful as the undergrad IEOR major in general (read, not). get a phd.\n",
+          "course_header": {
+            "course_code": "IEOR E3608",
+            "course_id": 2337,
+            "course_name": "Mathematical Programming"
+          },
+          "disagree_count": 11,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 6900,
+          "submission_date": "2003-12-01T00:00:00",
+          "workload": "Weekly problem sets, which can be long if you haven't done the reading.  Weekly recitation sections are supposedly mandatory, but nonetheless completely useless.  The exams are very much class-based."
+        },
+        {
+          "agree_count": 6,
+          "content": "Very interesting professor with well-delivered lectures.  He presents the material well, though there is a lot of it to cover.  A good elective if you're interested in scheduling because it covers many topics and the lectures won't put you to sleep.",
+          "course_header": {
+            "course_code": null,
+            "course_id": 1982,
+            "course_name": "Scheduling"
+          },
+          "disagree_count": 11,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 5929,
+          "submission_date": "2003-05-29T00:00:00",
+          "workload": "Weekly problem sets, midterm, project"
+        },
+        {
+          "agree_count": 3,
+          "content": "he is a nice professor who makes funny, some times sarcastic jokes in class. always smiles when explaining. he is quite cool in general. the course isnt that bad in general but the prob is that it gets quite difficult quite fast. you probably wont have a choice to pick this course or prof as you got to take this course in this dept. and there is usually only one section offered. the key to do good at this section is that you got to do all the homework by urself!! group work is encouraged/allowed by the prof. but make sure you dont start the night before and end up copying from your frriend. go to all his classes. he gives stuff on the finals and midterms from his lectures. he also gave us this \"secret code\" to students who go to his classes regularly. needless to ask, he gave that in the midterm as one of the questions. u got to be very regular if u wanna do good in this class. read weekly materials at home before doing Psets.",
+          "course_header": {
+            "course_code": null,
+            "course_id": 1461,
+            "course_name": "Introduction to Math Programming"
+          },
+          "disagree_count": 7,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 3965,
+          "submission_date": "2002-12-14T00:00:00",
+          "workload": "3 quizzes, will drop the lowest. they are quite easy if you are just barely following the class. weekly PS which are not that bad although can be long and tedious. read the book/his notes before doing the PS. midterms are a bit hard but the final was OK if you have been regular in this course. he also tests how deep your knowledge is in this course, so dont just limit urself to understadning formulas or simple examples. try to dig in..."
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 27,
+          "content": "If I can describe Clifford Stein in one word, it would be asshole. He shows no respect for students, and assumes the worst out of all of them. The fact that he was willing to share that he single-handedly had 5 students expelled from Columbia for cheating was enough for me to know that he was a past nerd who is trying to instill a sense of revenge. I recieved back a few homeworks, and EVERY SINGLE PROBLEM is graded on a check, check plus, check minus scale, thus leaving you confused as to your final grade. If his intention was that homework was for learning, he wouldn't care what someone did on the homework.\n\nOn the other hand, he is prepared for class and does the examples and it is very easy to understand. However, he does all the examples COMPLETELY different from the textbook, leaving the student confused and in a sea of frustration.\n\nAlso, in class, he just goes silent when other students start to talk. He doesn't even accept if a student wants to ask the person next to him a question.\n\nI would say don't take this class, but if you are in IEOR, you're pretty much forced to, so good luck.",
+          "course_header": {
+            "course_code": "IEOR E3608",
+            "course_id": 2337,
+            "course_name": "Mathematical Programming"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 2,
+          "review_id": 15465,
+          "submission_date": "2006-10-04T00:00:00",
+          "workload": "One problem set a week which is moderately difficult, two midterms, and one final."
+        },
+        "controversial_review": {
+          "agree_count": 6,
+          "content": "I think he's a good teacher who can explain things well, but attendance does drop at the end, as people see that a significant part of the course revisits Data Structures.  I wanted to add that in Algorithms, he does not care whether the homework is handed in at the beginning or end of class (as opposed to his other class), and that undergrads are curved separately from the grads (the class is 80% graduate students).",
+          "course_header": {
+            "course_code": "COMS W4231",
+            "course_id": 4079,
+            "course_name": "Analysis of Algorithms I"
+          },
+          "disagree_count": 18,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Clifford",
+            "last_name": "Stein",
+            "nugget": 1,
+            "professor_id": 1342,
+            "uni": "cs2035"
+          },
+          "rating": 3,
+          "review_id": 13902,
+          "submission_date": "2006-01-16T00:00:00",
+          "workload": "7 Homeworks, take home midterm, final"
+        }
+      }
+    }
+  }
+]

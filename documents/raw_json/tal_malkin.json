@@ -1,0 +1,570 @@
+[
+  {
+    "url": "https://culpa.info/api/review/professor/1621?page=1",
+    "payload": {
+      "number_of_reviews": 16,
+      "reviews": [
+        {
+          "agree_count": 6,
+          "content": "Professor Malkin explains everything clearly and puts in a lot of effort in showing the background behind certain ideas, as well as demonstrating why certain intuitive assumptions do not work. Her notes are also the clearest and easiest to follow I've seen in a long time, and she takes time to review everything important that was learned in the last lecture. Her and her TAs also frequently send out handouts that cover the most important information, and the workload was very fair in my opinion.\n\nShe also allows 2 double-sided cheat sheets on exams, 150 late hours for homework, and a minimum grade for quizzes that are attempted. The exams are also not cumulative. \n\nI am surprised that her ratings on here aren't higher. I came into CST expecting a boring, tedious semester. But I left with a strong interest in the topic and with the feeling of having learned a lot. ",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 5,
+          "review_id": 85876,
+          "submission_date": "2024-12-05T19:30:51",
+          "workload": "- Biweekly-ish online quizzes that were usually pretty fast to complete and served as a good test of one's understanding with the current topics\n- 5 Homeworks, which were the most time-consuming part of the class, but could be completed in a day or two\n- 2 non-cumulative exams"
+        },
+        {
+          "agree_count": 8,
+          "content": "A great course with very interesting material. I've never been much of a theory person but I thoroughly enjoyed this class, especially the last Turing Machines unit. Professor Malkin is very caring towards her students and makes sure to ask for your name if you participate in class. When she goes through the lectures, she makes sure to reiterate certain points of confusion and was very receptive to questions. Although I was very confused initially, during some units, I managed to catch up by reading the textbook, lecture notes, and rewatching lectures. I also found her lecture notes to be incredibly clear- to be honest, you'll probably be fine just reading the notes. Yes, the proofs are a little tiresome at first, but as we progressed in the course, I thought the proofs started to get more creative and I got the hang of it more. The TAs were also great- there were a lot of office hours and the pre-exam review sessions were quite helpful. ",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 82981,
+          "submission_date": "2023-01-06T08:58:40",
+          "workload": "5 problem sets that require some thinking but aren't too bad if you understand the material. The midterm and final are weighted a little too much in my opinion (70%) but are not as hard as the homework problems. There were also very frequent quizzes on gradescope, which can be a bit challenging if you're behind on the material. "
+        },
+        {
+          "agree_count": 6,
+          "content": "She is so brutal, so do not take her class. \nI SAID DO NOT TAKE HER CLASS",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 16,
+          "funny_count": 5,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 2,
+          "review_id": 82846,
+          "submission_date": "2022-12-11T10:56:28",
+          "workload": "5 HW: 20%\n9 QUIZZ: 10%\nMIDTERM :30\nFINAL 40"
+        },
+        {
+          "agree_count": 1,
+          "content": "Tal is wicked smart, evident from day 1, and is super knowledgable about the subject. \nUnfortunately, I think this somewhat hinders her from succinctly explaining the concepts to half the class just because we're too dumb to understand it (at first at least). Another issue that I found out in the second half of the term is that I was getting too caught up in the fine details of what was being taught in the lecture and wasn't really getting a full picture. But taking a step back from the material to see the larger picture, especially during the Turing Machine section, helped immensely. \nEven though I struggled with just about everything in the course, I would recommend taking it with Tal because she is super intelligent and is really helpful and approachable in office hours. I only went to her office hours towards the end of the class because I thought she would be somewhat intimidating but this was not the case at all. Some, myself included, found her intimidating in class because she would sometimes answer student's questions with \"I'm not sure where your getting confused\" which can be awkward for the student asking the question but Tal doesn't mean it with an ill intention. So, if you can get over this bit you should be fine or go to her OH and ask in a smaller setting. \nI'm not sure how this course will be structured when we go back to campus but the format was three unit tests worth 30%, 30%, 10% of your final grade. I got somewhat below average on all of them - nothing by more than 5% less than average - but did fine on the homework (except for one where I got 50! lol) and the quizzes and ended up with a B+ so the curve is really generous. For context, the averages for the tests in fall 2020 were around 70% each time and I genuinely thought I had failed the second test which was worth 30% yike. \nWith all that being said, I do think that the homework grading can be inconsistent and sometimes (rare for me at least though) just doesn't make sense. Grading is not always inconsistent, but it certainly feels shitty when something unfortunate like that happens to you. But, as long as you go to office hours when confused you should be able to get some helpful pointers about where to start - some TAs are more helpful than others so best to figure that out in the beginning of the term. \nThis class was one of those courses where I disliked it during the course but reflecting on it, it wasn't so bad. That is a strong argument for not taking the course though...\nTLDR: The curve will save you even if you feel like you are failing.",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": null,
+          "review_id": 83049,
+          "submission_date": "2021-01-01T00:00:00",
+          "workload": null
+        },
+        {
+          "agree_count": 0,
+          "content": "I used to aim for A/A- for all of my classes, but I think I'm failing this course.",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 2,
+          "funny_count": 2,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": null,
+          "review_id": 83050,
+          "submission_date": "2021-01-01T00:00:00",
+          "workload": null
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 12,
+          "content": "Potentially a very dry topic, but Prof. Malkin was able to make it interesting. Mostly because she seems to believe a great deal in class participation, and engaged students in every derivation.\n\nOverall, I'd rate her highly.",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 20725,
+          "submission_date": "2007-12-31T00:00:00",
+          "workload": "~1 hw per week. 1 midterm, 1 final. Not too bad."
+        },
+        "controversial_review": {
+          "agree_count": 6,
+          "content": "She is so brutal, so do not take her class. \nI SAID DO NOT TAKE HER CLASS",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 16,
+          "funny_count": 5,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 2,
+          "review_id": 82846,
+          "submission_date": "2022-12-11T10:56:28",
+          "workload": "5 HW: 20%\n9 QUIZZ: 10%\nMIDTERM :30\nFINAL 40"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/1621?page=2",
+    "payload": {
+      "number_of_reviews": 16,
+      "reviews": [
+        {
+          "agree_count": 0,
+          "content": "A well-executed class. Tal Malkin is very clear, puts a lot of effort into teaching, and knows that mathematical maturity among her audience varies wildly. Thus, she gives intuition as well as rigor, followed by many examples. She likes to get people to participate in lecture by answering or asking questions. This can be either illuminating or frustrating, depending on said people in class.\r\n\r\nFor the most part, lectures followed Sipser quite closely, although she merely sketched many of the more involved proofs, e.g. for PCP. The material was interesting enough, and she tries to give some motivation or application. However, the complexity portion of the class was much too rushed: we skipped many proofs and handwaved everything else.\r\n\r\nRecitation notes were regularly posted, and these were quite long and poorly LaTeXed but very thorough, so I can't complain.\r\n\r\nMost everybody who takes this class has to, so I recommend taking her iteration of it.",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 80037,
+          "submission_date": "2017-05-15T03:21:17",
+          "workload": "9 homeworks, 1 dropped - 15%. Requires a little but not too much thought. Sometimes annoyingly tedious, especially in the beginning portion of the class where formal rather than high-level descriptions were required. The TAs seemed to grade reasonably, although once I had 5 points taken off a proof which was \"lazy\" (i.e. sneaky) and \"didn't do what they were looking for\", which seemed silly.\r\n\r\nMidterm - 40%. Very easy, although the previous semester's (= our practice midterm) was a bit harder. 2 double-sided cheat sheets allowed.\r\n\r\nNon-cumulative final - 45%. A bit harder, much more proofy. 2 double-sided cheat sheets allowed."
+        },
+        {
+          "agree_count": 1,
+          "content": "What a fun course! Each lecture, professor Malkin presented an overview of a recent cryptography result. Very interesting without getting caught up in tedious details. Here [http://www.cs.columbia.edu/~tal/6261/SP16/] is an overview of the topics she did this semester, although it changes from class to class. \r\n\r\nLecture was only a small part of the class. The main event the project. The goal was to read up on an area of cryptography, discuss an open problem, then attempt to do original research in it. Professor Malkin was very helpful in the process, and she put a lot of time into helping groups find papers and work on results. It presented a glimpse into what crypto research is like. Everyone presented their work on the last day of class.\r\n\r\nThis class assumes a background in cryptography and theoretical computer science. You should be comfortable with proofs, especially the proofs of security used in cryptography.",
+          "course_header": {
+            "course_code": "COMS E6261",
+            "course_id": 2867,
+            "course_name": "Advanced Cryptography"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 79214,
+          "submission_date": "2016-05-21T16:15:31",
+          "workload": "1 problem set, weekly readings, and 1 project. Grades were not a focus, I'm assuming everyone did well."
+        },
+        {
+          "agree_count": 0,
+          "content": "Prof. Malkin is the best. Not only does she understand and explain the material very thoroughly, she also makes a genuine effort to learn her students' names and engage the class. She has this one-liner which she uses when nobody raises their hand: \r\n\r\n\"You either do not understand and should ask a question, or you understand and can give me the answer.\" - Prof Malkin's honesty/authenticity shows through in one-liners like this one. \r\n\r\nLecturing style - probably one of the best lecturers in the department. She does this thing where she gives a hand-waving, intuitive explanation of something, and then shows it formally. \r\n\r\nShe is extremely approachable and very open about how grading is done in the class. Prof. Malkin and her TAs put in an try very hard to make the course fair, always retroactively applying a policy change to all students if one student brings it up, and I think that this attitude starts at the top with Prof. Malkin setting the example. ",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 78599,
+          "submission_date": "2015-05-03T20:31:53",
+          "workload": "A written homework every week. Some of them are easier than others - the hardest ones might take you a few hours to do well."
+        },
+        {
+          "agree_count": 3,
+          "content": "A pretty good class. Prof. Malkin makes a point of offering both conceptual and formal treatments of the material, which in principle is nice (as just about every result in crypto is deeply counterintuitive); in practice, I found her lemma-proof-theorem teaching very clear, but the high-level explanations so vague as to be practically useless. Part of the issue was that a large portion of the class didn't really have the mathematical maturity necessary for this course, and she would get bogged down answering basic questions and then have to rush through material. She got better at this (i.e. stopped answering stupid questions) as the semester went on, but it remained frustrating throughout.\r\n\r\nHomework assignments were well-designed. Fernando (the TA) was a real stickler for rigor, and I definitely learned to be more careful about writing up proofs by the end of the semester. Midterm (in class) and final (take home) were both trivial; I don't know what the final average was, but due to the aforementioned mathematical maturity problem midterm scores were shockingly low.\r\n\r\nAs a side note, this can be a great class even if you're not specifically interested in security. I was in learning theory at the same time, and my final project for that class relied on a bunch of cryptographic hardness assumptions---this is about a lot more than secret codes.",
+          "course_header": {
+            "course_code": "COMS W4261",
+            "course_id": 2970,
+            "course_name": "Introduction to Cryptography"
+          },
+          "disagree_count": 8,
+          "funny_count": 2,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 26794,
+          "submission_date": "2011-12-31T06:43:20",
+          "workload": "Light. A problem set once every couple of weeks that usually took me 2-3 hours (including typesetting). Don't cut corners on your proofs."
+        },
+        {
+          "agree_count": 12,
+          "content": "Potentially a very dry topic, but Prof. Malkin was able to make it interesting. Mostly because she seems to believe a great deal in class participation, and engaged students in every derivation.\n\nOverall, I'd rate her highly.",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 20725,
+          "submission_date": "2007-12-31T00:00:00",
+          "workload": "~1 hw per week. 1 midterm, 1 final. Not too bad."
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 12,
+          "content": "Potentially a very dry topic, but Prof. Malkin was able to make it interesting. Mostly because she seems to believe a great deal in class participation, and engaged students in every derivation.\n\nOverall, I'd rate her highly.",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 20725,
+          "submission_date": "2007-12-31T00:00:00",
+          "workload": "~1 hw per week. 1 midterm, 1 final. Not too bad."
+        },
+        "controversial_review": {
+          "agree_count": 6,
+          "content": "She is so brutal, so do not take her class. \nI SAID DO NOT TAKE HER CLASS",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 16,
+          "funny_count": 5,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 2,
+          "review_id": 82846,
+          "submission_date": "2022-12-11T10:56:28",
+          "workload": "5 HW: 20%\n9 QUIZZ: 10%\nMIDTERM :30\nFINAL 40"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/1621?page=3",
+    "payload": {
+      "number_of_reviews": 16,
+      "reviews": [
+        {
+          "agree_count": 2,
+          "content": "Hell if I know. I never went.\n\nThe website says \"CS Theory is the last course required of all CS undergrads\", but it should probably be more like \"CS theory is the last course of the day, don't bother.\" The topics mostly overlap with other courses (data structures) -- if you stay at home and read up on regexps and such, you'll be completely fine. The homeworks are basically perfect reflections of what you're accountable for, so if you can do them you're set.\n\nI'm not really complaining about Tal, she's pretty OK. At the end of the day, it's just another CS course repeating the same damn curriculum.",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 8,
+          "funny_count": 4,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 19954,
+          "submission_date": "2007-05-15T00:00:00",
+          "workload": "Ten homeworks (good for maybe an hour of work each, if you do the reading). Midterm and final with cheat sheets. Overall, pretty light."
+        },
+        {
+          "agree_count": 0,
+          "content": "Prof Malkin is very approachable and is definitely on your side - but she won't go find you, you have to send her e-mails and especially go to her office hours. Her lectures are thorough and cover the book material pretty strictly, but I think she'd be more helpful if she spent a little more time structuring the material, saying \"You are here\" in the grand scheme of Computation and it's Proofs. Indeed, I think a map could be drawn of the proofs and their relationship to one another - this would help a lot in understanding the dependencies of proofs upon each other.\n\nWhatever you do READ AHEAD OF THE LECTURE. This stuff is nearly impossible to simply hear and absorb in clas, so having thought about the concepts beforehand will make all the difference in the world. Hell, you might even enjoy it.\n",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 19709,
+          "submission_date": "2007-04-17T00:00:00",
+          "workload": "Not too bad - homeworks don't count for much - but the tests are really based on the homeworks, so if you skip those, you'll be screwed come mid-terms/finals."
+        },
+        {
+          "agree_count": 1,
+          "content": "If you don't your remember probablity and other math from Algorithms then don't bother taking this class because you'll get killed.  In other words, don't ignore the prerequisties for the class because the Prof. will assume that you're comfortable with all the concepts that she listed on the class website. Her lectures are not that good and neither is her handwriting. Fortunately, she makes everybody participate in this thing where in each lecture a student is chosen to take notes for the class. The student is then responsible for converting the notes into LaTeX or PDF and share it with the rest of the class. There are 6 homeworks and one final exam. The homeworks are pretty long so start early. They'll require you to do some mathematical proofs, encryption scheme design, and other theoretical stuff. Take this class only if you're really interested in Cryptography. ",
+          "course_header": {
+            "course_code": "COMS W4261",
+            "course_id": 2970,
+            "course_name": "Introduction to Cryptography"
+          },
+          "disagree_count": 4,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 9343,
+          "submission_date": "2004-08-30T00:00:00",
+          "workload": "6 hard homeworks, one final exam"
+        },
+        {
+          "agree_count": 1,
+          "content": "This course is definitely a heavy theory course. The lectures were fairly long, but definitely well done; Professor Malkin is an excellent lecturer. She doesn't use PowerPoint, which I personally consider a plus, though it means that you can't skip lectures if you expect to learn something from them.",
+          "course_header": {
+            "course_code": "COMS E6261",
+            "course_id": 2867,
+            "course_name": "Advanced Cryptography"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 8908,
+          "submission_date": "2004-05-20T00:00:00",
+          "workload": "The workload ended up consisting of writing a research paper. It couldn't just be a literature survey; it had to include original work, or analysis of a research field, or somesuch. I thought this was good -- it allowed us to take concepts introduced in the lectures and use them (or not use them) in our own work as we saw fit."
+        },
+        {
+          "agree_count": 4,
+          "content": "Prof. Malkin is one of the is the best professors I have had in the CS department.  She's brilliant, but can explain topics clearly and doesn't make you feel like a moron.\n\nGo to class because the homework and test questions are based on her lectures.  She's very friendly and approachable.  However, don't even try to BS her.  She will not give out last minute extensions (unless you have an emergency) and collects homework at the beginning of class or it's considered late.\n\nTake the time and do the problem sets yourself.  This is one of those classes where you cannot cram the night before the test and expect to do well.  You have to really understand the concepts.",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 6180,
+          "submission_date": "2003-08-07T00:00:00",
+          "workload": "Problem set every week, reasonable midterm and final."
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 12,
+          "content": "Potentially a very dry topic, but Prof. Malkin was able to make it interesting. Mostly because she seems to believe a great deal in class participation, and engaged students in every derivation.\n\nOverall, I'd rate her highly.",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 20725,
+          "submission_date": "2007-12-31T00:00:00",
+          "workload": "~1 hw per week. 1 midterm, 1 final. Not too bad."
+        },
+        "controversial_review": {
+          "agree_count": 6,
+          "content": "She is so brutal, so do not take her class. \nI SAID DO NOT TAKE HER CLASS",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 16,
+          "funny_count": 5,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 2,
+          "review_id": 82846,
+          "submission_date": "2022-12-11T10:56:28",
+          "workload": "5 HW: 20%\n9 QUIZZ: 10%\nMIDTERM :30\nFINAL 40"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/1621?page=4",
+    "payload": {
+      "number_of_reviews": 16,
+      "reviews": [
+        {
+          "agree_count": 4,
+          "content": "Great professor who really, really knows her stuff. Lectures well and does not use slides (as Grunschlag does) so going to class is important. Friendly and helpful during office hours. Funny and very likable! Subject material itself is very interesting and creative, but can also confuse and/or frustrate (especially people who are not very mathematical) because it is all proofs and the problems are extremely interrelated and similar. Reading ahead a bit before lecture would definitely help tremendously.",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 5653,
+          "submission_date": "2003-05-14T00:00:00",
+          "workload": "About 10 problem sets, midterm, final. Quite manageable."
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 12,
+          "content": "Potentially a very dry topic, but Prof. Malkin was able to make it interesting. Mostly because she seems to believe a great deal in class participation, and engaged students in every derivation.\n\nOverall, I'd rate her highly.",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 20725,
+          "submission_date": "2007-12-31T00:00:00",
+          "workload": "~1 hw per week. 1 midterm, 1 final. Not too bad."
+        },
+        "controversial_review": {
+          "agree_count": 6,
+          "content": "She is so brutal, so do not take her class. \nI SAID DO NOT TAKE HER CLASS",
+          "course_header": {
+            "course_code": "COMS W3261",
+            "course_id": 234,
+            "course_name": "Computer Science Theory: Computability - Models - Computation"
+          },
+          "disagree_count": 16,
+          "funny_count": 5,
+          "professor_header": {
+            "first_name": "Tal",
+            "last_name": "Malkin",
+            "nugget": 2,
+            "professor_id": 1621,
+            "uni": null
+          },
+          "rating": 2,
+          "review_id": 82846,
+          "submission_date": "2022-12-11T10:56:28",
+          "workload": "5 HW: 20%\n9 QUIZZ: 10%\nMIDTERM :30\nFINAL 40"
+        }
+      }
+    }
+  }
+]

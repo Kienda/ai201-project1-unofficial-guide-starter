@@ -1,0 +1,317 @@
+Professor: Rocco Servedio
+CULPA professor ID: 1724
+Public page: https://culpa.info/professor/1724
+API source pattern: https://culpa.info/api/review/professor/1724?page=1
+Total reviews reported by API: 15
+Reviews collected: 15
+
+================================================================================
+
+Review 1
+Review ID: 87669
+Submission date: 2025-11-08T01:08:16
+Course: COMS W4252 - Introduction to Computational Learning Theory
+Rating: 3/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+We had 5 problem sets, each consisting of 4 problems, which together accounted for about half of the course grade. The problems themselves were excellent—a good balance between bookwork and questions requiring original, creative problem-solving. For each set, 10 hours seems like a reasonable average estimate, though it’s best to space them out to give yourself time to digest the material and develop ideas.
+
+That said, I must note my only complaint about the course: the grading of the problem sets, done entirely by the TAs, often felt arbitrary and careless, and consequently, unhelpful. There was no clear grading rubric provided in advance, resulting in inconsistent assessments. Detailed solutions were sometimes penalized for being too “verbose,” while concise ones lost points for omitting a single line of middle-school-level algebra.
+
+Moreover, it often seemed that the TAs skimmed submissions and occasionally dismissed valid alternative approaches simply because they differed from the official solution. Some deductions were made without any comment, rubric, or explanation, which was both confusing and unhelpful. While regrade requests were available in theory, in practice they were largely ineffective: many were denied with explanations that either misrepresented my solution or offered unreasonable justifications--for instance, rejecting logically equivalent (and arguably more precise) answers that did not match the question’s wording exactly.
+
+Since we do not know which problems were graded by which TAs, it is probable that this issue stems from only one grader and could be dismissed as an isolated case, especially since every TA I’ve personally spoken with has been patient and helpful to the greatest possible extent. I am in a position where my grade in this course does not matter and simply find this entertainingly absurd, much like a heated Reddit argument; however, those for whom it does may find the grading process confusing, discouraging, and ultimately frustrating, as 100% of the coursework--both problem sets and exams--is graded by TAs.
+
+Review content:
+I expected to learn about the mathematical principles underlying simple models of machine learning, and I was not disappointed. Prof. Servedio is an exceptionally clear lecturer who provides ample motivation for the ideas and strikes an excellent balance between high-level concepts and technical details. He is also extremely patient and responsive, typically writing elaborate responses to questions on Ed Discussion within hours. As cliché as it may sound, it is evident that he truly wants everyone to succeed. Everything good about him that I see mentioned on this site is true, and I strongly recommend this course for its content.
+
+--------------------------------------------------------------------------------
+
+Review 2
+Review ID: 84338
+Submission date: 2023-12-02T02:25:56
+Course: COMS W4252 - Introduction to Computational Learning Theory
+Rating: 5/5
+Feedback counts: agree=4, disagree=0, funny=1
+
+Workload:
+
+
+Review content:
+First, let me preface this by saying that I'll probably fail this class. I have regularly scored at least one standard deviation below the mean (talk about mistake-bounded), and the midterm isn't a significant component of the course. However...
+
+My goodness, Rocco is an utterly incredible professor. The absolute best in the entire Columbia CS department, and - I'd reckon - the best professor in the entire school. I mean, he completely puts all the other professors to shame with how good he is. A class with Rocco is what you were promised when you first heard the term "Ivy league education." Columbia should sell a building or something if it means they get to keep Rocco Servedio forever; that's how good he is.
+
+Everyone below has talked about the actual course material and whether you should take this particular course, so I'll not go too much into that. What I'll say is that if you have even an inkling of an interest in theory, just take whatever Rocco is teaching. Actually, I think he should teach a teaching seminar for the other professors and teaching assistants at Columbia. He's splendid all round, in all phases of teaching. The Lionel Messi of Columbia TCS.
+
+--------------------------------------------------------------------------------
+
+Review 3
+Review ID: 84280
+Submission date: 2023-11-16T18:25:33
+Course: COMS W4252 - Introduction to Computational Learning Theory
+Rating: 5/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+Homeworks really help you understand the material, but they are hard. Often the answers to difficult questions were found in old papers.
+
+For each homework that has 5 questions, I solved a question a day (spending literally 8+hrs). We had 2 weeks to solve each so timeline was tight. There were also 5 homeworks, none of which are easy. Midterm and final is also challenging, but not as difficult as the homework.
+
+Review content:
+Crystal-clear teaching style. Honestly the best teaching style I've seen so far. He also answers questions with clarity and will help you the best way he can.
+
+However, the coursework is difficult and homeworks are challenging. I would take this class again, but only if I balanced it with other easier classes.
+
+--------------------------------------------------------------------------------
+
+Review 4
+Review ID: 83993
+Submission date: 2023-05-17T20:37:15
+Course: COMS W4236 - Introduction to Computational Complexity
+Rating: 4/5
+Feedback counts: agree=2, disagree=2, funny=1
+
+Workload:
+HWs take a lot of thinking but there are also only 4 of them. It's not a hard class if you are willing to put in the time.
+
+60% HW + 20% Midterm + 20% Final. Exams all take-home.
+
+Time commitment hard to estimate: most of the problems are either you get it or you dont. I was stuck on this one question for a couple of days and that's all I did for those days, so, hard to say.
+
+Review content:
+I'm much more luke-warm about our man. He's find, but I wouldn't go out of my way to say that he's the best. The biggest problem of his class is that he's too accommodating as in that his class is quite easy, compared to what you can find online, proved by the medians of the last couple assignments being 86.5-87. Another thing is that the TCS department at Columbia is no-kidding the best STEM department at Columbia, so, in comparison, I just can't say that Rocco is the best prof I've had. But, compared to any other department, yea, he is very very good, hands down.
+
+--------------------------------------------------------------------------------
+
+Review 5
+Review ID: 80019
+Submission date: 2017-05-13T14:55:15
+Course: COMS 6998 - Topics in Computer Science: Advanced Topics in Computational Complexity
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+Sporadic homework (10%)
+Scribe notes for one class (30%)
+Final project (40%)
+
+Review content:
+Great topics course from a great professor. Rocco is great at concrete complexity! Comprehensive survey of different low-level computational models (Boolean formulas, decision trees, branching programs, and constant depth circuits) and representative lower bounds in each model. We used communication complexity, linear algebra, and Fourier analysis of the hypercube as tools throughout. He proved all the results he presented, which was impressive: usually it is hard to present state-of-the art results due to the length of the proofs. Very convincing and thorough.
+
+--------------------------------------------------------------------------------
+
+Review 6
+Review ID: 78390
+Submission date: 2015-01-30T21:43:17
+Course: COMS W4252 - Introduction to Computational Learning Theory
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+5 homeworks and a final project (read a paper and explain it)
+
+Review content:
+In short, Rocco is the best professor I had in Columbia so far.  He is kind, clear, and intelligent. He made a difficult subject accessible and interesting.
+
+That said, if you hate proofs and theory, maybe this class is not for you, but this is not his fault. He already tried his best to focus on the concept rather than the details.
+
+I don’t think that the class has no applications. It’s basically an algorithm class, but on algorithms that can learn. If you think algorithms have no real world application, then I am not sure what to say.  It’s cool to see that a seemingly simple-minded algorithm can learn complex concepts well, on par with humans (maybe it is how human brains work).
+
+The homework takes a long time, so start early so that you have enough time to get help. He won’t tell you the solution directly, but at least can tell you if you are on the right track. A lot of times, people are just completely off the track because they have misconceptions. For me, I think part of the homework difficulty comes from my unfamiliarity with the area, so the 3rd and 4th homeworks turned out more difficult for me, but by the end of the last (5th) homework, I had already seen enough proof strategies that they became a bit like old tricks  (I’m not saying they are easy, but just more familiar to me).
+
+As a previous post said, the final project turned out to be an educational experience for me. But I guess it depends on what paper you choose. I chose something closely related to what we learned and also not too ambitious, and it turned out to be a good choice.  I am glad that I was able to understand at least some parts of an original research paper in the field, which depends your understanding of class material but also adds onto that.
+
+About latex, I have mixed feelings. It’s really a pain to type in latex. I feel I spent close to half of my homework time on typing up in latex. But I understand that it makes things easier for TAs, who already have a lot of work. Also, some other classes (e.g ML) may require latex.
+
+In summary, I learned a lot without too much stress. (the homeworks can be stressful/frustrating , but overall, the amount learned/stress ratio is much higher than an average CS class at Columbia).
+
+--------------------------------------------------------------------------------
+
+Review 7
+Review ID: 78371
+Submission date: 2015-01-22T16:14:58
+Course: COMS W4252 - Introduction to Computational Learning Theory
+Rating: 3/5
+Feedback counts: agree=1, disagree=0, funny=0
+
+Workload:
+5 absolutely brutal problem sets.
+
+Review content:
+I'm much more lukewarm on Servedio than most folks here. I'm an ML type undergrad, not an algos type, so without taking analysis of algorithms or similar I was maybe underprepared for this class. A bit of probability is pretty key for the PAC model in the middle half of the class. 
+
+The material was kind of interesting, but it's very much intellectual exercises with very little real world implications (which isn't exactly a hidden fact). The book for most of the semester (Kearns and Vazirani) is ok, at least it's nice and concise. 
+
+In lectures Servedio was generally clear, but I found that his answers to questions were only so-so. I think part of it is that the class was huge this semester, and it seemed like he wasn't scaling well from 30 students to 100, but maybe that will improve.
+
+The problem sets kicked my ass, I rarely got more than a few points above the average, which was typically 20-30 out of 50 points. They require a huge amount of thought, and almost all required some novel proof technique. Some questions were from research papers from only 5 or 10 years ago, many were papers Servedio wrote 10-20 years ago.  In retrospect I think those who did well were focusing much more on these problem sets earlier, and spending a lot of time in office hours. 
+
+The "final exam" wasn't bad though, don't worry about it.
+
+--------------------------------------------------------------------------------
+
+Review 8
+Review ID: 73149
+Submission date: 2014-12-19T05:04:12
+Course: COMS W4252 - Introduction to Computational Learning Theory
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+5 homework assignments, all quite challenging -- START EARLY; no, really, start the day the assignment is sent out -- with averages around 50%. A final exam that covers all the material and isn't super-challenging (no trick questions), and a final paper (~10 pages) on some topic in computational learning.
+
+Review content:
+I don't have much to add to what previous reviewers have said, but I'm posting this mostly to say, yes, Rocco Servedio is still (Fall 2014) just as great as he's apparently always been. He's the first professor I've had who is an articulate, charismatic lecturer AND teaches a genuinely interesting, deep and challenging course AND is passionate about his subject. I've had two out of three before (e.g. Jae Lee, charismatic and passionate, or Yannakakis, challenging and passionate) but Professor Servedio is in a class of his own.
+
+My only complaint is that this is the only class he teaches. I'd take anything taught by him.
+
+--------------------------------------------------------------------------------
+
+Review 9
+Review ID: 29192
+Submission date: 2014-01-23T06:45:03
+Course: COMS W4252 - Introduction to Computational Learning Theory
+Rating: 5/5
+Feedback counts: agree=4, disagree=0, funny=0
+
+Workload:
+The workload for this class does not seem intimidating at first. You have five homework assignments, a final paper, and he now gives a final exam. Each homework assignment is only 5 problems. Do not take that number lightly; these assignments will break you. Expect to spend very considerable time doing each one; the problems are not only extremely challenging but you have to do everything in Latex. I made the mistake of taking CLT during a semester where my workload was very severe; do not make this mistake or you will be burned.
+
+The problem sets are by far the hardest I have ever done in my life. Every once in a while there would be a problem I could solve completely but most of the time I felt like I was taking shots in the dark. We're talking problems that demand an utmost intimacy with the material; there are no problems even remotely close to a freebie here. You will spend hours upon hours gazing at your notes, just trying to make sense of everything, and even longer trying to make sense of the material in the context of the problem you are solving. Furthermore, partial credit is difficult to obtain at best; unless your solution is meticulously detailed and bulletproof, you WILL lose a lot of points. The average on every assignment as such was always absurdly low; I think only two of them were higher than 25/50 (all homeworks are out of 50 points, 10 points per problem)
+
+As good as Rocco is at teaching, I did not find that the lectures really prepared me for the problem sets; that is why I think a decent background/passion in CS theory is necessary for this class. Virtually every problem demands some degree of intuition which isn't easy to obtain without the right background and only comes with experience. Taking this class in the context that I did oftentimes felt like being a fish out of water. I will reiterate: only take this if you have a decent CS theory background and/or a passion for the material.
+
+The final exam wasn't too hard. Just about every problem was an identification question testing whether or not you paid attention in class. They were largely some variation on "What were we talking about when we discussed ______?". The last problem could have easily been on the problem sets which, given the time we had (1.5 hours; the exam was the last day of class), wasn't attempted by many.
+
+The paper assignment was enjoyable and is supposed to be an opportunity to learn more about an area of computational learning theory that wasn't covered in class. I thought it was a smart move on Dr. Servedio's part to assign this in order to give students some freedom in exploring areas of interest. The stipulations of the paper were fairly light; all we were really required to do was to read a paper on some topic of computational learning theory, summarize the main ideas, and ultimately convince Dr. Servedio that we understood what we read.
+
+Review content:
+In short: Dr. Servedio is the man. He absolutely deserves the gold stud.
+
+I've never had a professor who was as approachable as Rocco. Of all the times I went to speak with him he was never short with me and was always genuinely interested in helping me learn the material. The man has a clear and present passion about what he teaches to the point where he seemed like he didn't want to hold back in his explanations (and thus divulge too much information about a particular problem I was having issues with). At one point he offered to meet with me since I wasn't going to be able to make his office hours that Friday. I can't imagine any of my other professors at Columbia doing the same thing.
+
+His teaching is impeccable; no lazy PowerPoint slides here. I've always appreciated the teachers who give explanations to the class as they write; this level of engagement has always made learning feel much more natural and Dr. Servedio is very gifted at doing this. Every class he writes the notes and explains them at the same time and in general the process is paced very well and feels incredibly engaging.
+
+All that being said, this class is HARD. Unless you have a passion for theory and machine learning, DO NOT TAKE THIS CLASS. This class is not for those with a superficial interest in either of those areas. I took this class because I had a passing interest in both fields and I had heard good things from classmates who had previously taken his class. I needed a class to fill out the rest of my semester and so I chose to take it; I chose wrong. The above words are not meant to be taken lightly; if you are not grounded in theory or lack the passion for this material, I assure you in the utmost that this class is not for you.
+
+This class was meant to be my crash course in CS theory and I had not had much exposure to it outside of discrete math from my undergraduate school. I was also taking Algorithms at the same time. If there was ever a class that needed a pre-requisite, CLT might take the cake; some background in theory and notation would have, I believe, made worlds of difference for me. Rocco does have materials on his website that are meant to help you brush up on the basics needed for this class but the preparation seemed to fall very short of where I needed to be to do the assignments (more below).
+
+--------------------------------------------------------------------------------
+
+Review 10
+Review ID: 26795
+Submission date: 2011-12-31T06:57:03
+Course: COMS W4252 - Introduction to Computational Learning Theory
+Rating: 4/5
+Feedback counts: agree=9, disagree=0, funny=0
+
+Workload:
+Not too much on paper, but be prepared to spend a loooong time on problem sets and invest a decent amount of time in your (12-ish page) final project.
+
+Review content:
+A really fun class. As other reviewers have already pointed out, Prof. Servedio gives the clearest, best-organized lectures in the department---he made a large body of complicated theory totally intelligible.
+
+The format of the class is nice: no exams, just a few problem sets and a final project. His argument is that the insight necessary to solve most of the problems in this class doesn't come right away even if you have a solid understanding of the material, so a test isn't a fair evaluation. This was certainly my experience---I felt like I had a better grasp of the theory than most of the class (this is judging by the pset averages: as so often seems to happen in this department, the undergrads inevitably outperform the grad students) and I would regularly spend hours staring at the homework assignments without making any progress.
+
+Prof. Servedio was also extremely available outside of class, and was extremely helpful in suggesting references and proof techniques for my final project.
+
+Some advice: as soon as every problem set comes out, take an hour or so to just think about the problems without any expectation of solving them. Your brain has this marvelous ability to process subconsciously, and you'll find that if you return to the pset in a few days you've already made a great deal of progress without reading this.
+
+In short, if you're in either the theory track or the AI track, this is a fun, low-stress (but not low-workload!) class that will do wonders for your development as as a computer scientist.
+
+--------------------------------------------------------------------------------
+
+Review 11
+Review ID: 23880
+Submission date: 2010-01-13T02:43:29
+Course: COMS W4252 - Introduction to Computational Learning Theory
+Rating: 3/5
+Feedback counts: agree=9, disagree=32, funny=9
+
+Workload:
+Based on self audit, varies from 18 to 22 hrs a week spent on 5 Problem sets = 70% of grade. 40+ hrs on a 10 page Final Project = 30% of grade is a survey of literature related to a topic (given on website and can get help from him regarding sources). Final project is tough because a lot of startup time is required to translate the notation and learn higher math that is frequently assumed. Topic selection is very crucial for success.
+
+Review content:
+Prof. Servedio's very good, gifted even, at explaining section a.b.c through to x.y.z of the textbook. His lectures, notes, and problem sets are high quality, better than those found elsewhere on course websites at CMU or UT Austin. So you will learn something or even a lot but is the right thing and is it worth taking for credit? No.
+
+DO NOT think that taking his learning theory course is of help in machine learning or data mining courses. I did well on the latter without needing or being able to use ANY of what I learnt here.
+His style is lemma, proof, lemma, proof and a large fraction of the time is spent on proof minutae at the cost of developing re-usable big picture ideas or connections to topics in machine learning. This fatal flaw in his presentation also results in a poor breadth of topics covered.
+Once I asked Prof. Jebara a question and he replied "That comes from the PAC model" or such. Imagine your frustration at spending a 20 hr/week semester learning the PAC model in this course but not being able to relate it or apply your knowledge. Do not think that you can get help at that point because the standard response is "take Prof. Servedio's course".
+
+It's my belief that he's on a personal crusade against grade inflation and tries to actively deflate your grade:
+1) The solutions to the assignments are deliberately written poorly. You'll soon give up on trying to learn where you went wrong and may miss key "tricks" or key conceptual points in solving problems in general. This is quite devious because a lot of important course material is left to the assignments to develop and it's hard to improve your problem solving ability on future assignments. The only reason I can think of why anyone would do this is to prevent copying/selling of materials. The course staff should consider having a 30 minute recitation to go over the solutions if they are paranoid (or you should ask during office hours).
+2) There is no feedback on average/median/max/min and marks distribution for any assignment. Make SURE you specifically ask for this to judge your progress and calibrate your effort. It's easy to get blindsided and find out that there are 10 students who have scored near perfect on every assignment or 70% of the class has the same average.
+3) He takes the view proofs are either completely right or wrong, the latter gets you a 0 with unpredictable partial credit. Nothing infuriates you like a 0 on something you spent 6 hours crafting because you missed a minor detail. It feels like a penalty on attempting to solve the problem. Expect this to happen a lot and do not underestimate the effect on your motivation.
+4) The grading system is ill-conditioned (e.g. 84-86 = A, 79.5-83.99 = A-,..) therefore I feel that your grade precariously hangs on his impression of you.
+
+Based on the above I would have serious doubts about taking another one of Prof. Servedio's courses for credit. Definitely do not take his learning theory course if you're not a Phd student in theory. If you're aiming to become one I suggest you take a computational complexity course or algorithms/optimization/math courses as this course will not help you in the future.
+
+--------------------------------------------------------------------------------
+
+Review 12
+Review ID: 12823
+Submission date: 2005-10-06T00:00:00
+Course: COMS W4252 - Introduction to Computational Learning Theory
+Rating: 5/5
+Feedback counts: agree=16, disagree=3, funny=0
+
+Workload:
+Biweekly problem sets (that you should expect to devote many hours to) and a final project (Paper and presentation). No exams.
+
+Review content:
+Rocco Servedio is absolutely the best professor in the computer science department. He exhibits a level of competence and clarity that is a refreshing change from the general level of instruction at the Columbia CS department. He makes a complicated subject seem crystal clear, and the class never (amazingly), ever is boring -- The 75 minutes are over before you know it. Even the problemsets are a joy to complete -- and they are difficult. 
+
+If you can, absolutely, positively, definitely, without question take a course with this man.
+
+--------------------------------------------------------------------------------
+
+Review 13
+Review ID: 9661
+Submission date: 2004-11-15T00:00:00
+Course: COMS W4236 - Introduction to Computational Complexity
+Rating: 5/5
+Feedback counts: agree=10, disagree=1, funny=0
+
+Workload:
+The styles of the problem sets were very similar in both classes (even though they pertain to very different subject matter).  In either class, you will have biweekly problem sets which will each probably take you several days to complete.   They consist of about 6 problems, and they are definitely not easy.  Your homeworks are to be typed up in LaTeX, and just to give you a general idea, mine averaged something like 7 pages each.  Computational complexity had 7 problem sets and a take home final which was basically just another problem set weighted heavier.  Computational learning theory had 5 problem sets and a final project, which is yours to come up with.
+
+Review content:
+DEFINITELY the BEST professor I ever had at Columbia.  At the same time, he was definitely the HARDEST professor I ever had at Columbia.  I took computational complexity last semester and it was the hardest class I had taken.  However, because he was such a great professor, I decided to take computational learning theory, and now i can say that that is the hardest class I've ever taken.   However, if you're not afraid to face the challenge, you will find that he is an excellent teacher, and you will definitely learn a lot.  I definitely don't consider myself a very motivated learner, but I  think the hard work was worth it for these classes.
+
+--------------------------------------------------------------------------------
+
+Review 14
+Review ID: 6757
+Submission date: 2003-11-18T00:00:00
+Course: COMS W4252 - Introduction to Computational Learning Theory
+Rating: 5/5
+Feedback counts: agree=9, disagree=1, funny=0
+
+Workload:
+6 difficult biweekly problem sets (I'm rather weak in math/theory, and each HW takes me a good few days of on-and-off thinking and writing plus TA help. Bottomline: don't start the night before.) Also a final implementation project.
+
+Review content:
+Truly, one of the VERY BEST professors I've had at Columbia (I'm a CS senior)--the whole school, not just the department. Both super intelligent and very capable of transmitting his knowledge to students (I heard he won a lot of accolades for teaching back at Harvard.) His lectures are very well-organized, and he recaps key concepts every time to ensure students follow. Rocco is also a very nice and approachable guy, always encouraging and answering questions in or out of class.
+
+The subject material is very, very interesting. It is also very abstract and may be difficult for those who are not well-versed in CS theory and math. All the HW questions are proofs.
+
+His problem sets are challenging and take a lot of time. But I think it is worth it. If you care about learning (he certainly cares about teaching) and are willing to work hard and think a lot, you will definitely enjoy this class.
+
+--------------------------------------------------------------------------------
+
+Review 15
+Review ID: 6367
+Submission date: 2003-09-04T00:00:00
+Course: COMS W4236 - Introduction to Computational Complexity
+Rating: 5/5
+Feedback counts: agree=7, disagree=1, funny=1
+
+Workload:
+Pretty crazy. 6 problem sets. They were all pretty hard but the last one was insane. Take home final which was relatively easy.
+
+Review content:
+BY FAR the best professor I have had at Columbia. His lectures are very ogranized and he really makes an attempt to explain everything. He is a sincerely nice guy and actually cares whether or not his students understand the material.  Some of the stuff covered in this course is really complex, but he is able to break it down to make it more understandable.  He likes when students ask questions in class and he really tries to make sure he answers them sufficiently. He tries to get to know the names of all his students.  His office hours are really helpful...they were always packed when I took this class.  In a nutshell...this guy is awesome.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,1478 @@
+[
+  {
+    "url": "https://culpa.info/api/review/professor/13639?page=1",
+    "payload": {
+      "number_of_reviews": 45,
+      "reviews": [
+        {
+          "agree_count": 3,
+          "content": "Professor Dear is a very approachable, very experienced lecturer who teaches discrete math in a structured way. It is very clear what you need to learn in order to succeed in the course, and I found his programming exercises very interesting and manageable.\n\nEverything in this course (assignments, midterm, final) was extremely reasonable in terms of difficulty and workload. You might need to spend some extra time solving the assignments, but it is worth doing because the difficulty of exams closely mirrors the assignments. Final average was around 70%, but this is typical for a discrete math course because it's the first proof-based course for many. In my opinion, though, the exam was surprisingly light (some questions were trivial), and it felt almost too easy considering the fact he allowed us to bring 4 cheat sheets. If you put in the time understanding the assignment questions and carefully read through the Zybooks, you should be fine. \n\nTLDR: course content is extremely easy, but exams can require some more careful thinking and problem-solving.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 4,
+          "review_id": 89971,
+          "submission_date": "2026-05-25T13:26:58",
+          "workload": "6 Assignments, 1 Midterm, 1 Final. Prof uses Pensieve instead of GradeScope; the only difference between the two is that the former has built in Claude as an AI assistant for participation exercises. \n\nI spent probably 1.5 hr on each HW, spent 7 hr total revising for each test."
+        },
+        {
+          "agree_count": 0,
+          "content": "Machine learning is a notoriously hard class and Tony Dear is a notoriously hard professor, so the combination was about as expected. The material was highly theoretical, though there was more application in HWs than with some other profs. The class was also structured better than other ML profs (in my opinion)\n\nTake the pre requisites for this class seriously. 1) Linear algebra - Most test & theoretical HW questions were basically an exercise in how well you can APPLY linear algebra to prove theoretical ML concepts. 2) Statistics - prob/stats is fine but stat inference is really, really useful, especially for the first third of the class. It is certainly useful to know linear/multiple/logistic regression, ridge/lasso, and MLE before actually taking ML. 3) Multivariable calc - important for convex optimization (Lagrangian, gradients) and neural network back-propagation (partial derivatives/chain rule) 4) Optimization - MATH 2500 and IEOR 3609 are not strictly necessary but are pretty helpful for some parts of the course as well. If you are missing any of (1), (2), or (3), you will likely have a tough time. \n\nDear explains the material very very well even if a little quickly. Like with his other classes, you walk out feeling like you learned an immense amount, even if your test grades do not reflect that. As with his other courses, the curve is very forgiving, which I think is a great reason to take this class... focus on learning this stuff and do not worry about your grade too much, it ends up being fine.",
+          "course_header": {
+            "course_code": "COMS W4771",
+            "course_id": 1921,
+            "course_name": "Machine Learning"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 89834,
+          "submission_date": "2026-05-17T05:24:58",
+          "workload": "There were 6 HW assignments and three midterms, all weighted equally. The HW assignments were not super long but were very difficult and would therefore take a while to do. I liked that the last few questions of every HW were applied, (ie. coding in Python with pytorch). There was no coding at all on tests so this just felt like a fun thing to do if you were interested in seeing the concepts your were learning in action and visualized, rather than something extra. The theoretical part of the HWs would be similar to test questions and would be very difficult. The first midterm was mostly pre req material and contained only a few, relatively easy ML concepts so it ended up being far easier than the following two midterms. "
+        },
+        {
+          "agree_count": 0,
+          "content": "I liked that he posts his notes online and that the Ed is always very responsive. There's also recitation and office hours, which supplement the content/learning experience. He's definitely a very kind person but I think that the most common criticism -- that his exams are difficult -- is valid, especially as taking the other professor should lead to an easier experience. I believe it's curved to around a B+. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 3,
+          "review_id": 89811,
+          "submission_date": "2026-05-16T16:33:52",
+          "workload": "6 homeworks for the entire semester -- each one is long and takes a while, but they're spaced out to at least account for that. If you take the Friday section you will only have 1 midterm (30%) whereas if you take the one with two classes per week, you will have 2 midterms (each 15%). He's very generous with the amount of cheatsheets you can bring to the exam. "
+        },
+        {
+          "agree_count": 0,
+          "content": "Take Tony\u2019s class if you want to learn ML in depth. At first, you may not fully understand why you need to learn so many mathematical concepts, because they are difficult and their purpose may not be immediately obvious. But as you go deeper into the field, you will gradually build your own knowledge map and realize how useful those concepts are.\nThis course mainly focuses on the mathematical foundations behind machine learning. Tony also tries to make the material more applicable by including coding questions that connect the theory to real-world applications.\nThat said, this course is hard. It is one of the hardest courses I have ever taken, so you should be prepared before taking it.\nIf you only want a good grade, you may want to take another professor\u2019s version. If you want to learn something about ML but are not sure you can handle the workload, consider taking it PDF.",
+          "course_header": {
+            "course_code": "COMS W4771",
+            "course_id": 1921,
+            "course_name": "Machine Learning"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 4,
+          "review_id": 89723,
+          "submission_date": "2026-05-11T20:18:21",
+          "workload": "Three exams in total;\none homework every two week;\nTony set this kind of workload for all of his classes."
+        },
+        {
+          "agree_count": 0,
+          "content": "Prof Tony is kind and organized however, there is a huge gap between the examples he goes over in class vs the kind of questions that show up in the exams. Ngl, the final was the worst exam I've taken at Columbia after AP. However, I've heard that most math majors do fine in this class so, having a background in proof would be highly beneficial. I don't wanna sugarcoat so if you care about your gpa just take it with Ansaf.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 89591,
+          "submission_date": "2026-05-04T10:22:22",
+          "workload": "The HWs are hard and really long. I highly recommend starting them early. I should also mention that your exams will be checked by AI via pensive first and then the TAs will check over the deductions. It gets especially annoying when AI can't read something you wrote or worded in a different way. "
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 58,
+          "content": "While Professor Dear was a nice person, this class was one of my worst experiences at Columbia so far. I felt the lectures were boring and barely helpful. Our homework assignments were ridiculously difficult and graded very strictly. It was insanely hard to make logical leaps from what was learned in class and apply it to the homework and I spent more time trying to understand what some problems were even asking then solving them. Multiple homework assignments had incorrect information or confusing and roundabout prompts to trick or confuse you maybe but just lead to questions that didn't make any sense. The first exam was reasonably difficult but the average was around an 80. Professor Dear saw this as his opportunity to increase the difficulty even further with the average on the second exam being around a 50. The excuse for the problems being insanely difficult was because it was open note but there were a couple problems that used formulas that didn't even exist in the notes and weren't covered in lecture. The final exam had a similar result. While the class was heavily curved in the end, I feel I didn't deserve the A- I somehow ended up getting because I feel I still don't understand half the concepts we covered in class because of the brutal difficulty and terrible experience. This class has turned me off of all future theoretical CS classes at Columbia. I would not recommend Professor Dear for any class as I heard this is a common experience. From looking at previous course content from Professor Ansaf, that seems to be the way to go for Discrete Math. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 14,
+          "funny_count": 25,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 83630,
+          "submission_date": "2023-01-15T06:58:36",
+          "workload": "I spent around 12-15 hours a week on this class it was brutal for everyone unless you are already good at Discrete Math stuff."
+        },
+        "controversial_review": {
+          "agree_count": 15,
+          "content": "Simply one of the best and kindest professors out there.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 39,
+          "funny_count": 3,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 84878,
+          "submission_date": "2024-02-22T01:16:15",
+          "workload": "10-20 hours per week. "
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13639?page=2",
+    "payload": {
+      "number_of_reviews": 45,
+      "reviews": [
+        {
+          "agree_count": 4,
+          "content": "Best CS professor I've had. Approachable, generous, and organized. Homeworks and exams are . . . difficult, to say the least, but everyone seems to struggle with them equally, so that your GPA won't necessarily suffer.",
+          "course_header": {
+            "course_code": "COMS W4771",
+            "course_id": 1921,
+            "course_name": "Machine Learning"
+          },
+          "disagree_count": 7,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 89349,
+          "submission_date": "2026-04-14T14:13:09",
+          "workload": "Homeworks are hard, but not due often (there are only six). You don't have to attend class, which helps."
+        },
+        {
+          "agree_count": 4,
+          "content": "Genuinely the hardest class I have ever taken at Columbia. BUT he does curve significantly to compensate for the extra rigor. \n\nYou will probably be fighting for your life at some points of this course, which has to happen at some point of one's academic career - this is an ivy after all!\n\nDon't freak out if you have to take this class with Dear - he is very nice, and you will probably learn more than the other section of Discrete.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 4,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 3,
+          "review_id": 89138,
+          "submission_date": "2026-02-13T15:58:26",
+          "workload": "2 Midterms and a final. Homework due once every 2 weeks. Rather than individual exams being curved, he curves the end grade. "
+        },
+        {
+          "agree_count": 4,
+          "content": "Began with logic which was actually really interesting. Super easy start to the course WAS VERY MISLEADING.\nThen went on to graph theory and connectivity. This was MEDIUM DIFFICULTY. I wish I had not gotten complacent after the first unit -- be warned it gets harder. \nThen probability and encryption. HARD HARD HARD. I had taken prob before and thought it would be easy --- it was not. Honestly the subjects themselves are not too difficult, but I think that its easy to get scared off because you don't prepare enough. \n\nLESSON: DO NOT GET COMPLACENT. \n\nOverall, though, Tony Dear is amazing. He's hard, but that helps to make sure you do all the work. Only thing I wish is that he had a limit on late days, because it just becomes a system where the soft deadline doesn't really mean anything. Don't leave the HW for the last second.... Trust. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 1,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 4,
+          "review_id": 88660,
+          "submission_date": "2025-12-28T15:26:14",
+          "workload": "Gets progressively harder. Not bad if you are consistent about it, probably around 8 hours a week. Do the textbook readings and make sure to actually understand everything that is on the homework and what is said in class. Do that and you'll be fine. "
+        },
+        {
+          "agree_count": 2,
+          "content": "Amazing Professor. I found the lectures to be super helpful and directly relevant to the homeworks. While the exams were a little difficult, practice exams were designed in a way that prepare you well and they tested us on things that were covered in class. Professor Dear is always open to questions and extremely patient in answering them. Glad I decided to take Discrete with him. Great experience, all in all! ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 13,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 88331,
+          "submission_date": "2025-12-15T11:31:01",
+          "workload": "6 HWs, 2 midterms, and 1 final exam. Reasonable workload "
+        },
+        {
+          "agree_count": 2,
+          "content": "Tony Dear is a very clear and detail-oriented lecturer. He's cares about helping his students succeed, whether that be making extra office hours or a generous curve. However there is a large gap between the examples walked through during class and the homework problems, and a similarly large gap between homework problems and exam problems. Class examples are the foundations but for homework problems you need to learn how to apply your base knowledge. Also reviewing for exams is less about how many problems you do and more about deeply understanding the concepts and solutions for the problems you do. Discrete problems require a level of creativity, so it's more important to just understand what's going on than to crank out extra practice. Problem sets were pretty time-consuming and for harder units like Mod I had to self-study external material to understand. Definitely utilize your resrouces: go to TA and professor office hours. He's hard but fair. I would say take him if you are generally curious, like a challenge, and don't mind putting in the time outside of class to deeply understand the content. If you want an easy A, take Discrete with Ansaf. Final exam was extremely hard, ~110/150 is a good score for an A typically. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 4,
+          "review_id": 87571,
+          "submission_date": "2025-10-01T15:49:24",
+          "workload": "Problem sets took ~6 hours/week. Exams took ~8-10 hours of review."
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 58,
+          "content": "While Professor Dear was a nice person, this class was one of my worst experiences at Columbia so far. I felt the lectures were boring and barely helpful. Our homework assignments were ridiculously difficult and graded very strictly. It was insanely hard to make logical leaps from what was learned in class and apply it to the homework and I spent more time trying to understand what some problems were even asking then solving them. Multiple homework assignments had incorrect information or confusing and roundabout prompts to trick or confuse you maybe but just lead to questions that didn't make any sense. The first exam was reasonably difficult but the average was around an 80. Professor Dear saw this as his opportunity to increase the difficulty even further with the average on the second exam being around a 50. The excuse for the problems being insanely difficult was because it was open note but there were a couple problems that used formulas that didn't even exist in the notes and weren't covered in lecture. The final exam had a similar result. While the class was heavily curved in the end, I feel I didn't deserve the A- I somehow ended up getting because I feel I still don't understand half the concepts we covered in class because of the brutal difficulty and terrible experience. This class has turned me off of all future theoretical CS classes at Columbia. I would not recommend Professor Dear for any class as I heard this is a common experience. From looking at previous course content from Professor Ansaf, that seems to be the way to go for Discrete Math. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 14,
+          "funny_count": 25,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 83630,
+          "submission_date": "2023-01-15T06:58:36",
+          "workload": "I spent around 12-15 hours a week on this class it was brutal for everyone unless you are already good at Discrete Math stuff."
+        },
+        "controversial_review": {
+          "agree_count": 15,
+          "content": "Simply one of the best and kindest professors out there.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 39,
+          "funny_count": 3,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 84878,
+          "submission_date": "2024-02-22T01:16:15",
+          "workload": "10-20 hours per week. "
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13639?page=3",
+    "payload": {
+      "number_of_reviews": 45,
+      "reviews": [
+        {
+          "agree_count": 3,
+          "content": "Dear might possibly be the worst professor I've had at Columbia so far. He made easy concepts extremely difficult to understand and did not explain concepts well at all, would highly recommend people to not take this class with Dear. Exams were extremely difficult and expected students to be able to completely code out homework assignments without providing knowledge on how.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 10,
+          "funny_count": 2,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 87563,
+          "submission_date": "2025-09-28T11:57:34",
+          "workload": "2 exams and homeworks every other week"
+        },
+        {
+          "agree_count": 1,
+          "content": "I expected this class to be tough because of previous review, and it was, but it wasn't impossible. Really understanding the first few topics (especially everything to do with proofs) is super important because they reappear for almost the entire course. His teaching style is clear, he writes notes and works full examples for us, he answers as many questions as he can and overall seems direct and focused but friendly. The content was well organized, as was Ed, which he used to post lecture notes, practice midterms, etc. Attending recitations was a great place to understand how to attack harder problems like the ones on exams. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 4,
+          "review_id": 87421,
+          "submission_date": "2025-07-05T16:49:57",
+          "workload": "7 homework assignments, 2 midterms, and a final. \n\nThe homework assignments are for the most part doable, a step above the notes with an occasional much more difficult problem. Maybe 4-6 hours a week for this.\n\nThe exams were much more difficult than the notes, and while recitations didn't match this thinking, they sometimes gave pointers on how to approach more difficult questions. Doing the practice exams and making sure you understand the solutions are crucial for the midterms, and for the final....just try to get as many points as you can. "
+        },
+        {
+          "agree_count": 4,
+          "content": "I will admit, this class was tough. Prof Dear does a great job of explaining the course material, and always answers questions well. The subject, though, is proof-based, so you may understand all the concepts but might not know how to prove a certain problem. The exams in his class are also quite difficult, the final was the worst one. He posts practice exams that give you a decent idea of the topics included and the level of mastery you need, but using them as your only study material is not a good idea. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 3,
+          "review_id": 87396,
+          "submission_date": "2025-06-20T16:37:17",
+          "workload": "2 midterms, 15% each; 1 final, 35%; 7 homework assignments, 30%; participation quizzes, 5%. About 2 weeks to complete each homework assignment, each is around 6 questions with multiple parts per question. Participation quizzes are pop quizzes but they are completion grades: if you take all the quizzes, you have 100% for participation. You can make up a quiz by attending the recitation that week. "
+        },
+        {
+          "agree_count": 20,
+          "content": "Prof. Dear is quite a good teacher overall, and lectures are very worth going to. The most common (and valid) complaint is that his exams are harder than his in-class examples. Since Discrete is proof-based, test difficulty often came from not being able to think of the correct route for a proof, which is hard to study for. I personally liked the class a lot, but experiences vary. If you have prior experience with competitive math/similar concepts, you should be fine.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 4,
+          "review_id": 87279,
+          "submission_date": "2025-05-24T02:51:43",
+          "workload": "Biweekly homework (30%) + two midterms (30%) + final (35%) + participation (5%). Homework was decently heavy."
+        },
+        {
+          "agree_count": 1,
+          "content": "Everyone says that the class is really hard\u2014and to be honest, it is quite a bit of work. However, I wouldn\u2019t go as far as to say you should avoid Professor Dear at all costs. Discrete Math is an introduction to proof-based mathematics, so it's no surprise that it feels challenging at first. That said, Professor Dear's class is genuinely informative, which is especially valuable if you plan to do computer science in the future. The course follows a textbook, though a few chapters are skipped. In a nutshell, it was a tough but interesting class with a professor who is eager to explain topics you don\u2019t understand",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 4,
+          "review_id": 87237,
+          "submission_date": "2025-05-22T13:48:49",
+          "workload": "There were a total of seven problem sets, assigned roughly every two weeks. The exams were difficult and often went beyond the level of the homework and recitation questions, this gap became more noticeable as the semester progressed. The median score dropped significantly from the first midterm to the final. However, since the class is graded on a curve, it didn\u2019t impact final grades as harshly as it might have otherwise. \n\nThe main advice for anyone planning to take this class with Professor Tony Dear is simple: show up. Attend every lecture and recitation, start working on the homework early, and make use of office hours. It\u2019s extremely difficult to succeed in this class without putting in the work\u2014unless you already have a strong background in proof-based mathematics. On average, I spent about 12 hours per week on this class. Sometimes it was less, but during exam weeks, it could be as much as 20 hours.\n\n"
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 58,
+          "content": "While Professor Dear was a nice person, this class was one of my worst experiences at Columbia so far. I felt the lectures were boring and barely helpful. Our homework assignments were ridiculously difficult and graded very strictly. It was insanely hard to make logical leaps from what was learned in class and apply it to the homework and I spent more time trying to understand what some problems were even asking then solving them. Multiple homework assignments had incorrect information or confusing and roundabout prompts to trick or confuse you maybe but just lead to questions that didn't make any sense. The first exam was reasonably difficult but the average was around an 80. Professor Dear saw this as his opportunity to increase the difficulty even further with the average on the second exam being around a 50. The excuse for the problems being insanely difficult was because it was open note but there were a couple problems that used formulas that didn't even exist in the notes and weren't covered in lecture. The final exam had a similar result. While the class was heavily curved in the end, I feel I didn't deserve the A- I somehow ended up getting because I feel I still don't understand half the concepts we covered in class because of the brutal difficulty and terrible experience. This class has turned me off of all future theoretical CS classes at Columbia. I would not recommend Professor Dear for any class as I heard this is a common experience. From looking at previous course content from Professor Ansaf, that seems to be the way to go for Discrete Math. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 14,
+          "funny_count": 25,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 83630,
+          "submission_date": "2023-01-15T06:58:36",
+          "workload": "I spent around 12-15 hours a week on this class it was brutal for everyone unless you are already good at Discrete Math stuff."
+        },
+        "controversial_review": {
+          "agree_count": 15,
+          "content": "Simply one of the best and kindest professors out there.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 39,
+          "funny_count": 3,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 84878,
+          "submission_date": "2024-02-22T01:16:15",
+          "workload": "10-20 hours per week. "
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13639?page=4",
+    "payload": {
+      "number_of_reviews": 45,
+      "reviews": [
+        {
+          "agree_count": 2,
+          "content": "Tony Dear is a great lecturer - when it comes to delivering the material in the classroom. His exams are crazy, with questions that never even resembled the level of the HW (which were not easy but manageable). All in all -  a very tricky course. I would recommend taking with Ansaf. Avoid Tony at all costs.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 87198,
+          "submission_date": "2025-05-19T17:07:21",
+          "workload": "Super busy schedule. Teaching new material for HW that's due in 2 days from now. 2 midterms, 1 final. Final was the most tough exam I took at Columbia. "
+        },
+        {
+          "agree_count": 2,
+          "content": "I actually don't mind Tony's teaching style unlike many of my peers as I do believe walking through the notes is helpful and he does appear to be a nice professor but the difficulty of his class is just unwarranted and absurd. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 2,
+          "review_id": 87161,
+          "submission_date": "2025-05-17T13:24:15",
+          "workload": "We had bi weekly Psets that were pretty difficult but manageable which would take around 6-8 hours to do but it's the examinations, especially the final, that makes this class stupid. For some odd reason, he decided that it would be a good idea to not only make the final significantly harder than the two mid terms, but even than the Psets, which we had days to do. He also incorporates a lot of CS theory on these problems so that a simple combinatorics problem isn't your usual counting cards or numbers but of neural networks and nodes. "
+        },
+        {
+          "agree_count": 6,
+          "content": "Honestly, taking this class was easily one of my worst experiences at Columbia even compared to other more difficult CS classes. If you have a limited math background I would 100% avoid taking this class with him, as he really expects you to have higher level math knowledge even though calc I is the only stated prerequisite. I found him to be very nice but not a very good lecturer or teacher, I had to go to office hours or spend time teaching myself everything in this class from online resources because he taught with very vague examples or just didn't teach things needed for the homework. Along with that he would always say to start the homework early and would give assignments 2 weeks beforehand, but wouldn't teach concepts needed to do a lot of those problems until sometimes the class before it was due. Overall, I just felt like this class was made intentionally difficult when it didn't need to be, and he should have spent more time teaching basic concepts thoroughly as well as actually teaching what we needed for the homework. This class to me exemplifies everything wrong with classes at Columbia. Especially given that this is a 4 credit class, I expected a lot more and definitely better organization. Also, just be warned that his tests are very difficult and will test you on things outside of the content you learn in class.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 86963,
+          "submission_date": "2025-05-02T20:25:20",
+          "workload": "Grading was very harsh at times, but fair for other assignments. There were 2 midterms, 1 final, and homework that was due about once every 2 weeks."
+        },
+        {
+          "agree_count": 7,
+          "content": "To be frank, the exams in this class were some of the hardest I've ever taken (And I'm a CS SEAS major) and a step above the given homework problems (not great). Would put this class at the same level of difficulty as Advanced Programming, Discrete Math, and Mutlivariable Calculus. No qualms with the Professor, though - nice, approachable, willing to help as much as possible. ",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 2,
+          "review_id": 86955,
+          "submission_date": "2025-05-01T21:50:29",
+          "workload": "Honestly, I wouldn't take this class unless you absolutely have to. It's just another tough thing to deal with. "
+        },
+        {
+          "agree_count": 0,
+          "content": "Tony is a nice and clever guy, his content is well-organized. I did pretty good in the midterms but i failed in his final because I didn't review. Overall, it's not hard~",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 3,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 4,
+          "review_id": 86840,
+          "submission_date": "2025-04-22T12:12:15",
+          "workload": "8hours every biweekly; 8+hours in exam weeks."
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 58,
+          "content": "While Professor Dear was a nice person, this class was one of my worst experiences at Columbia so far. I felt the lectures were boring and barely helpful. Our homework assignments were ridiculously difficult and graded very strictly. It was insanely hard to make logical leaps from what was learned in class and apply it to the homework and I spent more time trying to understand what some problems were even asking then solving them. Multiple homework assignments had incorrect information or confusing and roundabout prompts to trick or confuse you maybe but just lead to questions that didn't make any sense. The first exam was reasonably difficult but the average was around an 80. Professor Dear saw this as his opportunity to increase the difficulty even further with the average on the second exam being around a 50. The excuse for the problems being insanely difficult was because it was open note but there were a couple problems that used formulas that didn't even exist in the notes and weren't covered in lecture. The final exam had a similar result. While the class was heavily curved in the end, I feel I didn't deserve the A- I somehow ended up getting because I feel I still don't understand half the concepts we covered in class because of the brutal difficulty and terrible experience. This class has turned me off of all future theoretical CS classes at Columbia. I would not recommend Professor Dear for any class as I heard this is a common experience. From looking at previous course content from Professor Ansaf, that seems to be the way to go for Discrete Math. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 14,
+          "funny_count": 25,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 83630,
+          "submission_date": "2023-01-15T06:58:36",
+          "workload": "I spent around 12-15 hours a week on this class it was brutal for everyone unless you are already good at Discrete Math stuff."
+        },
+        "controversial_review": {
+          "agree_count": 15,
+          "content": "Simply one of the best and kindest professors out there.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 39,
+          "funny_count": 3,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 84878,
+          "submission_date": "2024-02-22T01:16:15",
+          "workload": "10-20 hours per week. "
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13639?page=5",
+    "payload": {
+      "number_of_reviews": 45,
+      "reviews": [
+        {
+          "agree_count": 1,
+          "content": "I definitely would go against the Tony Dear hate. Coming into this class as a first year, I was expecting the worst. But Tony Dear is a nice, approachable professor and a very good lecturer. The homeworks are tricky but not impossible and same with the exams (so far). However, if you don't care for math and just want to fulfill the requirement, I could understand wanting to wait for Ansaf. If you genuinely enjoy math are excited to learn a ton about this material from a passionate professor, I think you should give professor Dear a go. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 4,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 4,
+          "review_id": 86740,
+          "submission_date": "2025-04-14T22:02:35",
+          "workload": "Two midterms and a final. \nA pset due roughly every other week. \nProbably 5-6 hours per week. "
+        },
+        {
+          "agree_count": 2,
+          "content": "I disagree with many that say Tony is difficult - he is actually perfectly reasonable for his expectations in the class! When compared to another prof, who is known to give \"Easy As\" in the same class, I actually don't think its actually that much easier. Plus with Tony, you get to learn so much more! His teaching style is actually writing through all the concepts and example problems, rather than just skipping through slides. I loved Tony's class and hope you get to take Discrete with him!",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 8,
+          "funny_count": 1,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 86615,
+          "submission_date": "2025-02-26T12:46:35",
+          "workload": "Maybe 5-6 hours tops, per week, including homework. This was not one of my main classes in terms of workload. "
+        },
+        {
+          "agree_count": 2,
+          "content": "I'm gonna go against the other reviews and say that if you want a decent grade (B+) this class is doable. The professor is much more approachable than a lot of other professors and the TAs I've met will nicely walk you through the problems if you're stuck - of course that entails you actually go to office hours. Compared to the other STEM classes and cs classes I've taken, I prefer this one. The TAs especially are way more helpful than those for other classes - of course, that only applies for my year. \n\nYes, the content is tough. The problems are tough. But if you at least try your best and do all the practice given, you'll make the median. Unlike other classes (like AP) where studying hard doesn't at all mean you'll do decent. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 4,
+          "review_id": 86447,
+          "submission_date": "2025-01-15T20:06:12",
+          "workload": "Homework problems take a lot of time and you'll spend a decent amount of hours on them, but the grading and curve is very fair to me. "
+        },
+        {
+          "agree_count": 7,
+          "content": "Yeah so this course gave me trauma. \n\nThe content given in lectures were very easy, and I understood it well. But, some of the HW questions were nearly impossible. There were so many times where Dear or the TAs gave out hints, or changed the question, or gave other ways of solving it because it was too damn hard. I clearly remember going to Dear himself to ask a HW question, and even he had to think about it a lot before he could help me. Unfortunately, hard HWs mean even harder exams. The midterms weren't too bad, but the final literally ruined me. I guessed on like half of the questions and wanted to give up. I solidly thought I failed the course.\n\nWhat's unfortunate is that I love math, and I think I would have really enjoyed this course if the problems were not so difficult. I get that we're trying to be challenged, but at what cost?\n\nIf you are conflicted between taking the course with Dear or Ansaf, I'd say you will learn more with Dear, but have a harder time and probably a lower grade than if you take it with Ansaf.\n\nAlso, this is not to crap on Dear. He is very nice and kind, but I think he doesn't realize how hard his problems are sometimes. It also doesn't help that the TAs make the HWs sometimes and they underestimate the difficulty.\n\nHow to do well (or, at least, not fail):\n-Go to the TAs or Dear for HW help. This will save you.\n-Fully understand the answers on the practice exams.\n-Use textbook problems for the first 2 midterms, but then AI generated problems will help you more for the final.\n-Focus on scoring as high as possible on the HWs (meaning, pretend they are the most important things ever)\n-Don't give up.\n-Know that this is a hard course taught by a hard professor.\n\nMy grade breakdown:\nHW total: slightly above average\nM1: below average\nM2: average\nFinal: below average\nRaw score: 75% (this was curved to a B+)\n\nTL;DR: Don't give up, but also be aware that this is a hard course to begin with. Good luck!\n",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 3,
+          "review_id": 86259,
+          "submission_date": "2025-01-02T20:10:15",
+          "workload": "HWs: 10-15 hours each.\nExam studying: a full week of studying is needed\nFinal is worth 35%. Like bruh."
+        },
+        {
+          "agree_count": 1,
+          "content": "Tony is a great professor. Coming in, everyone told me to drop the class and that I would not have a positive experience. I actually really enjoyed this class. Tony's lectures are great, his homeworks are hard and time consuming but teach you a lot, has great TAs, and most importantly is SUPER UNDERSTANDING. Tony wants his students to do well and learn and whether its forgetting to submit a homework or needed a rescheduled exam, Tony was kind and accomodating. You get out of this class what you put in. I'd say this is the class I put the most genuine effort into and really enjoyed the class, teaching style, and Tony!\n\nI get that Ansaf is seen as an easier class so not saying to take Tony over that. But I feel like I genuinely learned and grew in this class. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 4,
+          "review_id": 86190,
+          "submission_date": "2024-12-27T11:28:25",
+          "workload": "7 homeworks, none dropped. Fair grading and plenty of opportunity for points on exams and homeworks even if you mess up. Fair grading, receptive to regrades with valid reasoning. Spend 10+ hours a week on this class on a regular non-exam week. More for exam weeks. Exams are really hard but study up for exam 1, smash that one, study for exam 2, do slightly worse but still possible to do well. On last exam, KNOW EVERYTHING. It is a true cumulative exam."
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 58,
+          "content": "While Professor Dear was a nice person, this class was one of my worst experiences at Columbia so far. I felt the lectures were boring and barely helpful. Our homework assignments were ridiculously difficult and graded very strictly. It was insanely hard to make logical leaps from what was learned in class and apply it to the homework and I spent more time trying to understand what some problems were even asking then solving them. Multiple homework assignments had incorrect information or confusing and roundabout prompts to trick or confuse you maybe but just lead to questions that didn't make any sense. The first exam was reasonably difficult but the average was around an 80. Professor Dear saw this as his opportunity to increase the difficulty even further with the average on the second exam being around a 50. The excuse for the problems being insanely difficult was because it was open note but there were a couple problems that used formulas that didn't even exist in the notes and weren't covered in lecture. The final exam had a similar result. While the class was heavily curved in the end, I feel I didn't deserve the A- I somehow ended up getting because I feel I still don't understand half the concepts we covered in class because of the brutal difficulty and terrible experience. This class has turned me off of all future theoretical CS classes at Columbia. I would not recommend Professor Dear for any class as I heard this is a common experience. From looking at previous course content from Professor Ansaf, that seems to be the way to go for Discrete Math. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 14,
+          "funny_count": 25,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 83630,
+          "submission_date": "2023-01-15T06:58:36",
+          "workload": "I spent around 12-15 hours a week on this class it was brutal for everyone unless you are already good at Discrete Math stuff."
+        },
+        "controversial_review": {
+          "agree_count": 15,
+          "content": "Simply one of the best and kindest professors out there.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 39,
+          "funny_count": 3,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 84878,
+          "submission_date": "2024-02-22T01:16:15",
+          "workload": "10-20 hours per week. "
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13639?page=6",
+    "payload": {
+      "number_of_reviews": 45,
+      "reviews": [
+        {
+          "agree_count": 2,
+          "content": "Incredible professor. He is caring, understanding, highly intelligent and passionate, and a great teacher/lecturer. That being said this class is very hard, you may want to take it with Salleb-Aouissi instead for a lighter workload and easier A.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 3,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 3,
+          "review_id": 85063,
+          "submission_date": "2024-04-19T10:18:45",
+          "workload": "Problem sets were very difficult, I would not have gotten through this class without going to office hours multiple times per week. The TAs were very helpful. "
+        },
+        {
+          "agree_count": 15,
+          "content": "Simply one of the best and kindest professors out there.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 39,
+          "funny_count": 3,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 84878,
+          "submission_date": "2024-02-22T01:16:15",
+          "workload": "10-20 hours per week. "
+        },
+        {
+          "agree_count": 22,
+          "content": "Professor Dear is a nice guy and clearly knows a lot about his subject, and is very willing to answer questions or help out in office hours. But he also seems (to give him the benefit of the doubt) to lack a certain awareness of students' level of understandings and lives outside of class. For fall break, he made an assignment due on Saturday night, and the midterm was on the first day back to class. For Thanksgiving break, there was an assignment due the Monday after the break. As the content has gotten more difficult, he has not exactly adapted to make sure people are understanding or keeping up, and I don't think I'm the only one who has to do significant review outside of class\u2014plus, extra content is sometimes built into Friday recitations, which are recorded but are not a required or advertised part of the class.\n\nMidterms (2) and homeworks are not terrible, but are certainly generally much more difficult than the examples shown in class. Overall, it's far from impossible, but I've heard much better and easier things about Ansaf's version of the class.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 1,
+          "funny_count": 1,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 2,
+          "review_id": 84318,
+          "submission_date": "2023-11-24T23:40:20",
+          "workload": "2 midterms, final exam, homework every ~2 weeks. Homeworks take a few hours each, depending on how well you understand the content. "
+        },
+        {
+          "agree_count": 3,
+          "content": "This class is literally a copy and paste of the UC Berkeley AI course. He literally uses the same slides.\n\nThe way he teaches the course is too heavily focused on theory and the mathematics behind AI. He's a nice guy, but the way he explains the concepts will leave you yawning and dozing off as he drones on about all the theoretical concepts, some of which never show up on the exams or homework. \n\nHe's a nice guy, but this class should be more focused around building a fun group project using the power of AI and not all the bone dry math and theory behind it.\n\nI still recommend him, he's a great professor and such a sweet man.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 6,
+          "funny_count": 1,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 4,
+          "review_id": 84011,
+          "submission_date": "2023-05-20T01:45:09",
+          "workload": "Homeworks are 40% and the midterm is 30%. Exams are difficult, you do need to know the material very well. Be prepared to spend a lot of time with the TAs as they explain the concepts over to you, or just teach the material to yourself.\n\nAssignments take FAR too long to long to get back! Seriously it would take anywhere between 3 to 4 weeks to get an assignment back! I get the course is crowded, but really!?"
+        },
+        {
+          "agree_count": 6,
+          "content": "Going into this class, I'd taken my fair share of Columbia CS Courses. I knew to lower my expectations and expect lots of theory and lots of math. Still, this was an incredibly dull and mind-numbing approach to a subject that is currently upending the way we work, create, and communicate. Dear is honestly un-avoidable in the CS department because he carries so much of it with Discrete, AI, and CLA and I just don't think his teaching style works for me. Lectures are well-organized (positive) but formulaic to the point where it's just so amazingly boring. An uncharismatic, dry CS lecturer isn't a big deal if the homeworks are interesting/make sense. Yeah......no. In this class, homeworks always felt as they were written to punish and trick students, not actually get them to understand the material or find it any more interesting. I spent more time trying to figure out what the questions were even asking than solving the questions themselves. Exams were demoralizing, and felt harder than the practice exams. At least with CLA he curved generously though so we'll see.\nI know you need to walk before you can run, and that's probably the reason behind keeping everything so abstract and theoretical. But one little taste of how AI can be actually cool to work with/build projects with would be nice. Maybe that's the big brain point of the class? If you're not super into the math and getting tricked on homeworks then AI isn't for you?",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 4,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 2,
+          "review_id": 83953,
+          "submission_date": "2023-05-13T06:45:08",
+          "workload": "2 exams (midterm, final)\n6 homeworks (lowest of which is dropped)\n12-15. Could shoot up a lot more depending on if there's a fucked up homework question that you're left to investigate by prodding it out of the TAs on edstem"
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 58,
+          "content": "While Professor Dear was a nice person, this class was one of my worst experiences at Columbia so far. I felt the lectures were boring and barely helpful. Our homework assignments were ridiculously difficult and graded very strictly. It was insanely hard to make logical leaps from what was learned in class and apply it to the homework and I spent more time trying to understand what some problems were even asking then solving them. Multiple homework assignments had incorrect information or confusing and roundabout prompts to trick or confuse you maybe but just lead to questions that didn't make any sense. The first exam was reasonably difficult but the average was around an 80. Professor Dear saw this as his opportunity to increase the difficulty even further with the average on the second exam being around a 50. The excuse for the problems being insanely difficult was because it was open note but there were a couple problems that used formulas that didn't even exist in the notes and weren't covered in lecture. The final exam had a similar result. While the class was heavily curved in the end, I feel I didn't deserve the A- I somehow ended up getting because I feel I still don't understand half the concepts we covered in class because of the brutal difficulty and terrible experience. This class has turned me off of all future theoretical CS classes at Columbia. I would not recommend Professor Dear for any class as I heard this is a common experience. From looking at previous course content from Professor Ansaf, that seems to be the way to go for Discrete Math. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 14,
+          "funny_count": 25,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 83630,
+          "submission_date": "2023-01-15T06:58:36",
+          "workload": "I spent around 12-15 hours a week on this class it was brutal for everyone unless you are already good at Discrete Math stuff."
+        },
+        "controversial_review": {
+          "agree_count": 15,
+          "content": "Simply one of the best and kindest professors out there.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 39,
+          "funny_count": 3,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 84878,
+          "submission_date": "2024-02-22T01:16:15",
+          "workload": "10-20 hours per week. "
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13639?page=7",
+    "payload": {
+      "number_of_reviews": 45,
+      "reviews": [
+        {
+          "agree_count": 4,
+          "content": "Prof Dear is a nice guy and tries to be helpful. I was hoping to spend more time on application in this class rather than spending what felt like 95% of the course on the statistics and mathematics behind it all, which made the course IMO boring. The content is interesting and I see the benefit of teaching the theory, but I think this class is overkill when realistically everyone would rather build a cool project using the methods we learned in the class. This class is SO theory-heavy, you will spend most of your time staring at extremely long statistical equations with little explanation on the slides, rendering them almost pointless unless you are able to decipher them on your own. ",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 2,
+          "review_id": 83915,
+          "submission_date": "2023-05-06T04:16:57",
+          "workload": "40% hw (one drop), 30% midterm and final\nthe homeworks are ridiculous. Like I mean horrible. I understand this class has a lot of students, but it takes a month on average to get grades back. They feel extremely pressed together as the class is packed with content. I think reinforcement learning itself should be its own class as that took nearly an entire month it seemed. homework assignments take forever and are quite challenging, but on average most students get As (after spending hours trying to get clarity on ed.) \nExams - the main reason I would avoid this class is how poorly exams reflect the content of the class. The practice exams felt much easier than the real thing by far, and most students didn't complete more than 60% of the exam in the time. Don't even bother studying the exam because its going to be an extrapolation of the topics taught in the class at a completely different level. "
+        },
+        {
+          "agree_count": 58,
+          "content": "While Professor Dear was a nice person, this class was one of my worst experiences at Columbia so far. I felt the lectures were boring and barely helpful. Our homework assignments were ridiculously difficult and graded very strictly. It was insanely hard to make logical leaps from what was learned in class and apply it to the homework and I spent more time trying to understand what some problems were even asking then solving them. Multiple homework assignments had incorrect information or confusing and roundabout prompts to trick or confuse you maybe but just lead to questions that didn't make any sense. The first exam was reasonably difficult but the average was around an 80. Professor Dear saw this as his opportunity to increase the difficulty even further with the average on the second exam being around a 50. The excuse for the problems being insanely difficult was because it was open note but there were a couple problems that used formulas that didn't even exist in the notes and weren't covered in lecture. The final exam had a similar result. While the class was heavily curved in the end, I feel I didn't deserve the A- I somehow ended up getting because I feel I still don't understand half the concepts we covered in class because of the brutal difficulty and terrible experience. This class has turned me off of all future theoretical CS classes at Columbia. I would not recommend Professor Dear for any class as I heard this is a common experience. From looking at previous course content from Professor Ansaf, that seems to be the way to go for Discrete Math. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 14,
+          "funny_count": 25,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 83630,
+          "submission_date": "2023-01-15T06:58:36",
+          "workload": "I spent around 12-15 hours a week on this class it was brutal for everyone unless you are already good at Discrete Math stuff."
+        },
+        {
+          "agree_count": 2,
+          "content": "This course was a great iteration of Discrete Mathematics, Dear is a very thorough lecturer and the class was pretty much impossible to fail unless you cheated",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 12,
+          "funny_count": 1,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 4,
+          "review_id": 83526,
+          "submission_date": "2023-01-11T22:38:23",
+          "workload": "7 Homework Assignments - 45%\n2 Midterm Exams - 24%\n1 Final Exam - 26%\nAttendance Quizzes - 5%"
+        },
+        {
+          "agree_count": 3,
+          "content": "The class is entirely based off of Berkeley's AI class. Seriously -- he doesn't even change the powerpoint theme. He goes over a lot of the basics of reinforcement learning, probability for AI, some neural net basics, etc. ",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 2,
+          "review_id": 82994,
+          "submission_date": "2023-01-10T20:40:05",
+          "workload": "Homeworks required a LOT of time; since they were significantly more difficult than anything done in class, you have to figure out a lot by yourself. Exams are fair based off of the homeworks, but we really weren't prepared well. Quizzes every week that were about lecture-level difficulty, which would maybe take a half an hour if you keep up with what's going on. \n"
+        },
+        {
+          "agree_count": 1,
+          "content": "I took this course with Prof Dear but this review is more about the course than the professor.\nCOMS 4701 is very much \"plug-and-chug\" and leaves very little room for self-discovery. If this does not match your learning style, you will probably feel like you're wasting your time. Because there is so much hand-holding involved, it's easy to score well without doing all that much work. That said, I think this course is a great introductory course for non-majors or people just starting CS.\nMaterial--very broad overview of AI and high-level discussions of concepts. To get a sense of what the book is like, you can just check out the Wikipedia page on \"Artificial Intelligence\" or any of the topics on the syllabus. You will not find much more depth in 4701.\nQuizzes--the quizzes are mostly multiple choice and it's all open book. Extra study time generally is not rewarded as there's not that much depth involved. Also, expect some wrong multiple choice answers to be adversarial in nature so be prepared to second guess your response all the time.\nHomework--About 75-80% of the code is written all ready, and the remaining code is not difficult to implement. Most of it was translating pseudocode into python. The short answer responses were also not terribly interesting. \"Is this implementation more efficient than the other\", \"Is this guaranteed to find a solution\", etc.\nGrading--There is a curve, but it's probably not necessary since everyone is scoring in the 80s and 90s. The grading rubric is well defined and expectations for each assignment/quiz are clear. \nI would recommend this course to people without a background in CS or math. The professor is very knowledgeable and the TA's are helpful. Or, if you want an easy A, go for it.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 16,
+          "funny_count": 9,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": null,
+          "review_id": 83327,
+          "submission_date": "2021-05-01T00:00:00",
+          "workload": null
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 58,
+          "content": "While Professor Dear was a nice person, this class was one of my worst experiences at Columbia so far. I felt the lectures were boring and barely helpful. Our homework assignments were ridiculously difficult and graded very strictly. It was insanely hard to make logical leaps from what was learned in class and apply it to the homework and I spent more time trying to understand what some problems were even asking then solving them. Multiple homework assignments had incorrect information or confusing and roundabout prompts to trick or confuse you maybe but just lead to questions that didn't make any sense. The first exam was reasonably difficult but the average was around an 80. Professor Dear saw this as his opportunity to increase the difficulty even further with the average on the second exam being around a 50. The excuse for the problems being insanely difficult was because it was open note but there were a couple problems that used formulas that didn't even exist in the notes and weren't covered in lecture. The final exam had a similar result. While the class was heavily curved in the end, I feel I didn't deserve the A- I somehow ended up getting because I feel I still don't understand half the concepts we covered in class because of the brutal difficulty and terrible experience. This class has turned me off of all future theoretical CS classes at Columbia. I would not recommend Professor Dear for any class as I heard this is a common experience. From looking at previous course content from Professor Ansaf, that seems to be the way to go for Discrete Math. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 14,
+          "funny_count": 25,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 83630,
+          "submission_date": "2023-01-15T06:58:36",
+          "workload": "I spent around 12-15 hours a week on this class it was brutal for everyone unless you are already good at Discrete Math stuff."
+        },
+        "controversial_review": {
+          "agree_count": 15,
+          "content": "Simply one of the best and kindest professors out there.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 39,
+          "funny_count": 3,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 84878,
+          "submission_date": "2024-02-22T01:16:15",
+          "workload": "10-20 hours per week. "
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13639?page=8",
+    "payload": {
+      "number_of_reviews": 45,
+      "reviews": [
+        {
+          "agree_count": 1,
+          "content": "I remember wondering if I should take this course because all of the old reviews, but I am very glad I chose to take it anyway! I don't know if he has changed things, but this course was my favorite all semester and was not a problem. I really like Dear's teaching style, and the hws were never to hard to finish and he gave us plenty of time to do them. Also, TAs had plenty of office hours, and they would literally walk you through the problem step by step if needed. Labs were a bit more difficult because they were pretty rushed, but prof adjusted and gave us the whole weekend to complete them which really helped out. On hw and labs, averages tended to be high, the midterm was a bit harder bc of the time crunch, but people did not flunk for sure. Overall, one of the better SEAS courses in my opinion.",
+          "course_header": {
+            "course_code": "COMS W3251",
+            "course_id": 3992,
+            "course_name": "Computational Linear Algebra"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": null,
+          "review_id": 83331,
+          "submission_date": "2021-04-01T00:00:00",
+          "workload": null
+        },
+        {
+          "agree_count": 1,
+          "content": "To keep it short, Dear is a fantastic lecturer, has very clean slides, is very responsive and helpful, and had problem sets/an exam which were very doable in the scope of what was taught. The topics were very interesting, and the material is also applicable beyond just robotics, with use cases in areas like protein folding. The problem sets were due after two weeks, and always covered material from previous lectures, so there was never a lag between what the hw covered and what was taught. The final exam was basically a hw over a 24 hour period, and was worth 25% of the grade. I personally appreciated this--a rough night of sleep before the final won't be the end of the world. Also, from a personal experience, Dear was exceptionally understanding as a professor. Overall, this is a great class I highly recommend to anyone!",
+          "course_header": {
+            "course_code": "COMS W4733",
+            "course_id": 2403,
+            "course_name": "Computational Aspects of Robotics"
+          },
+          "disagree_count": 10,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": null,
+          "review_id": 83328,
+          "submission_date": "2021-04-01T00:00:00",
+          "workload": null
+        },
+        {
+          "agree_count": 0,
+          "content": "One of the most rewarding courses I've taken at Columbia. If you're interested in Robotics and have some background in linear algebra and probability, you'll learn a lot about robotic algorithms and insight into how they work in the real world.\nThe class covers topics ranging from Bug Algorithms, Localization, path planning, etc. to more details on the kinematics of robot motions, etc.\nDear is master class in lecturing and the TAs are very helpful as well. Would highly recommend it!",
+          "course_header": {
+            "course_code": "COMS W4733",
+            "course_id": 2403,
+            "course_name": "Computational Aspects of Robotics"
+          },
+          "disagree_count": 10,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": null,
+          "review_id": 83329,
+          "submission_date": "2021-04-01T00:00:00",
+          "workload": null
+        },
+        {
+          "agree_count": 1,
+          "content": "Hands down one of the best CS profs I've had. He's very nice, his lectures are very straightforward, he answers piazza posts very quickly, and explains the concepts very well.\nIf you're not a fan of theoretical math and enjoy more plug and chug kinda math, then yeah this class will be a bit more difficult but as someone who struggled my way through Multi, I was not expecting to take this class and get As on all the assignments.\nI also liked how tethered this class was to AI / ML, (especially the labs) and it felt like I was learning practical math that I'd actually use someday.",
+          "course_header": {
+            "course_code": "COMS W3251",
+            "course_id": 3992,
+            "course_name": "Computational Linear Algebra"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": null,
+          "review_id": 83330,
+          "submission_date": "2021-04-01T00:00:00",
+          "workload": null
+        },
+        {
+          "agree_count": 1,
+          "content": "Tony Dear is an incredible professor. He is highly organized and is great on staying on task. He is clear and teaches his material very carefully. He is also very nice and kind and will tend to questions and never judge for asking any question.\n\nI was very scared for AI but it proved to be my favorite class taken at Columbia.\nI HIGHLY recommend him!",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": null,
+          "review_id": 83332,
+          "submission_date": "2021-01-01T00:00:00",
+          "workload": null
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 58,
+          "content": "While Professor Dear was a nice person, this class was one of my worst experiences at Columbia so far. I felt the lectures were boring and barely helpful. Our homework assignments were ridiculously difficult and graded very strictly. It was insanely hard to make logical leaps from what was learned in class and apply it to the homework and I spent more time trying to understand what some problems were even asking then solving them. Multiple homework assignments had incorrect information or confusing and roundabout prompts to trick or confuse you maybe but just lead to questions that didn't make any sense. The first exam was reasonably difficult but the average was around an 80. Professor Dear saw this as his opportunity to increase the difficulty even further with the average on the second exam being around a 50. The excuse for the problems being insanely difficult was because it was open note but there were a couple problems that used formulas that didn't even exist in the notes and weren't covered in lecture. The final exam had a similar result. While the class was heavily curved in the end, I feel I didn't deserve the A- I somehow ended up getting because I feel I still don't understand half the concepts we covered in class because of the brutal difficulty and terrible experience. This class has turned me off of all future theoretical CS classes at Columbia. I would not recommend Professor Dear for any class as I heard this is a common experience. From looking at previous course content from Professor Ansaf, that seems to be the way to go for Discrete Math. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 14,
+          "funny_count": 25,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 83630,
+          "submission_date": "2023-01-15T06:58:36",
+          "workload": "I spent around 12-15 hours a week on this class it was brutal for everyone unless you are already good at Discrete Math stuff."
+        },
+        "controversial_review": {
+          "agree_count": 15,
+          "content": "Simply one of the best and kindest professors out there.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 39,
+          "funny_count": 3,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 84878,
+          "submission_date": "2024-02-22T01:16:15",
+          "workload": "10-20 hours per week. "
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13639?page=9",
+    "payload": {
+      "number_of_reviews": 45,
+      "reviews": [
+        {
+          "agree_count": 0,
+          "content": "On the surface, this class is great. Professor Dear is organized, nice, and offers a lot of office hours for his students. This will especially be evident during the first week, where the material is trivial.\r\n\r\nHowever, I do not recommend taking this class for several reasons. The first is the fact that the lectures just spit out different theorems in a convoluted way, where he is just regurgitating statements from the textbook. So you think you can just learn the material from the textbook or online because this is probably not your first time experiencing terrible lectures at Columbia. In fact, it might seem tenfold better, where you can skip class and do the problem sets and learning yourself. So you try the textbook, and realize it's just as convoluted as the lectures, because well, he was regurgitating those statements. And so you go online to learn the material yourself, which works fine for actually learning linear, until you receive the problem sets and realize it's just as convoluted. I can't emphasize enough that the problem is not the fact that you can linear on your own, but to do well in this class, you have to answer those convoluted questions that you won't find any source teaching you how to do. And so you got the TAs, but they themselves admit that they do not know how to solve the problems. Most people have large groups of friends to try to crack the problems together. If you do not know linear, you will be screwed, because well, you will actually be trying to learn linear and find practice problem sets on your own, before trying his problems. Again the problems are convoluted because of his style, not because of linear itself that will be added as a twist. The workload is a lot, one problem set a week and a lab every two weeks. You will really need a light workload to try his class without any knowledge of linear. The most frustrating part is the fact that you will think \"This is great. I love to be challenged!\" but then realize you will be slaving away only to solve his specific problems because Professor Dear likes to overcomplicate simple concepts. You will spend so much time but learn nothing new. Only take this course if you know linear and want to be challenged to solve those sets, and perhaps not learn anything new. Save yourself and take the regular linear if you can before the curriculum change. If you cannot because you have to follow the new curriculum, learn linear before taking this class and make sure you know a lot if people in this class to do well. ",
+          "course_header": {
+            "course_code": "COMS W3251",
+            "course_id": 3992,
+            "course_name": "Computational Linear Algebra"
+          },
+          "disagree_count": 1,
+          "funny_count": 1,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 3,
+          "review_id": 82200,
+          "submission_date": "2020-06-09T07:38:18",
+          "workload": "A lot."
+        },
+        {
+          "agree_count": 6,
+          "content": "You're significantly better off going through the AI lectures from Berkeley off of which his entire course is based on. The professor is not good at explaining the reasoning behind the mathematics involved in the course and after a certain point, it's hard to follow his lectures when all you hear are math terminology with little to no connection to how they're used for AI. He tries to be as helpful as possible, but when you're that confused - I don't think it'll help.\r\n\r\nHomeworks are annoying given that there are revisions to the questions 10 days into the assignment - and are fairly difficult when compared to the examples solved in class. They're also weighted weird, with some 5 point questions taking 2 minutes to solve, while some 5 point questions take upwards of 1-2 hours with a ton of calculation involved. The programming sections are nice though, so no complaints there.\r\n\r\nHe's a super nice guy and tries to make everyone understand the subject, but he's not a good professor for this particular course. Especially when compared to the source material from Berkeley",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 2,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 2,
+          "review_id": 81549,
+          "submission_date": "2019-11-12T20:19:30",
+          "workload": "Not too bad, but it's poorly distributed. The question corrections 10 days into the assignment definitely don't help"
+        },
+        {
+          "agree_count": 1,
+          "content": "This class is among my favorite CS classes at Columbia, and I've taken some with fascinating course material. Tony is a great teacher, a really nice guy, and tries so hard to make sure you learn what you're supposed to. A huge chunk of the class consists of algorithms and Tony goes through each one really well until you really get it. A lot of the people I know who took a class with Tony stick around to take his next class.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 81497,
+          "submission_date": "2019-09-19T14:51:23",
+          "workload": "Decent, not super hard"
+        },
+        {
+          "agree_count": 0,
+          "content": "A very well-done class! \r\n\r\nTo be honest, the class can be a bit challenging and Professor Dear's section is (a lot) harder than Ansaf's section. However, Tony's lectures are very organized, and he always tries his best to answer our questions and make the course more interactive with polls etc. I definitely learned a lot from his class and would recommend anyone who wants a challenging but fulfilling course! Tony is also very approachable and he even put memes in our last midterm.\r\n\r\nTony was super nice about the grading curve since he acknowledges that his section is harder. \r\n\r\nAlso he gets the best TAs! \r\n\r\n",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 3,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 81447,
+          "submission_date": "2019-06-10T20:08:05",
+          "workload": "10 HWs, can drop 1. HW can take a while, so start early! (count 9 HWs, total 45%)\r\n3 midterms (15%, 15%, 20%)\r\n5% participation"
+        },
+        {
+          "agree_count": 8,
+          "content": "Simply the best professor ever. He also happens to get the best TAs.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 25,
+          "funny_count": 2,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 81117,
+          "submission_date": "2018-12-21T01:07:37",
+          "workload": "5 homeworks, 1 midterm, 1 final"
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 58,
+          "content": "While Professor Dear was a nice person, this class was one of my worst experiences at Columbia so far. I felt the lectures were boring and barely helpful. Our homework assignments were ridiculously difficult and graded very strictly. It was insanely hard to make logical leaps from what was learned in class and apply it to the homework and I spent more time trying to understand what some problems were even asking then solving them. Multiple homework assignments had incorrect information or confusing and roundabout prompts to trick or confuse you maybe but just lead to questions that didn't make any sense. The first exam was reasonably difficult but the average was around an 80. Professor Dear saw this as his opportunity to increase the difficulty even further with the average on the second exam being around a 50. The excuse for the problems being insanely difficult was because it was open note but there were a couple problems that used formulas that didn't even exist in the notes and weren't covered in lecture. The final exam had a similar result. While the class was heavily curved in the end, I feel I didn't deserve the A- I somehow ended up getting because I feel I still don't understand half the concepts we covered in class because of the brutal difficulty and terrible experience. This class has turned me off of all future theoretical CS classes at Columbia. I would not recommend Professor Dear for any class as I heard this is a common experience. From looking at previous course content from Professor Ansaf, that seems to be the way to go for Discrete Math. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 14,
+          "funny_count": 25,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 1,
+          "review_id": 83630,
+          "submission_date": "2023-01-15T06:58:36",
+          "workload": "I spent around 12-15 hours a week on this class it was brutal for everyone unless you are already good at Discrete Math stuff."
+        },
+        "controversial_review": {
+          "agree_count": 15,
+          "content": "Simply one of the best and kindest professors out there.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 39,
+          "funny_count": 3,
+          "professor_header": {
+            "first_name": "Tony",
+            "last_name": "Dear",
+            "nugget": 1,
+            "professor_id": 13639,
+            "uni": "tbd2115"
+          },
+          "rating": 5,
+          "review_id": 84878,
+          "submission_date": "2024-02-22T01:16:15",
+          "workload": "10-20 hours per week. "
+        }
+      }
+    }
+  }
+]

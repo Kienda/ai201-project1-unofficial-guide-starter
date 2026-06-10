@@ -1,0 +1,646 @@
+Professor: Jason Nieh
+CULPA professor ID: 45
+Public page: https://culpa.info/professor/45
+API source pattern: https://culpa.info/api/review/professor/45?page=1
+Total reviews reported by API: 29
+Reviews collected: 29
+
+================================================================================
+
+Review 1
+Review ID: 88549
+Submission date: 2025-12-21T15:55:35
+Course: COMS W4118 - Operating Systems I
+Rating: 1/5
+Feedback counts: agree=2, disagree=2, funny=0
+
+Workload:
+50% HWs lowest dropped (mean like a 40, good luck even getting a 100), 20% midterm (mean 40), 30% final
+
+Review content:
+Jason seems like a genuinely kind and well intentioned instructor, but the lecture content did not adequately prepare students for the exams. The exams were far too difficult given the level of instruction provided. They required a much deeper and more precise understanding than what was covered in class. He briefly went over portions of the Linux source code, yet the exams expected detailed, low level analysis far beyond those discussions. The exams were also extremely open ended, making it difficult to know whether you were even on the right track while answering. Given how challenging the homeworks already were, this made the exams feel unnecessarily punishing rather than a fair assessment of learning.
+
+I expected this course to be challenging, but the homework assignments were far more punishing than anticipated. The average for nearly every homework being around a 40 is very concerning and should have been a clear signal that something was wrong with the structure of the course. Despite this, the exams were still made extremely difficult, which is hard to justify when the majority of students were already struggling to succeed on the assignments.
+
+A major issue with the homeworks is that none of the individual parts provided any test cases, so there was no way to check whether you had implemented each part correctly before moving on. If you unknowingly failed an early part, you were essentially screwed for the remainder of the assignment. Since the homeworks often consisted of 12 interconnected parts worth 100 points total, a single mistake early on could cause everything else to fail and result in a zero.
+
+There was also no reliable way to test your code in the same way it was graded. If your submission failed even the first hidden test case, you received a zero regardless of how much correct work you completed. Hours or days of work could be completely dismissed because of a single issue you had no way to detect. The homework specifications themselves were extremely unclear, with significant ambiguity between what was written in the spec and what was clarified later on Ed. Overall, the assignments and rubrics felt misaligned with the level of guidance provided. At the very least, partial credit should be awarded given the time and effort required. As it stands, the homework experience was the most frustrating I have had in a CS course at Columbia.
+
+--------------------------------------------------------------------------------
+
+Review 2
+Review ID: 87866
+Submission date: 2025-11-23T13:53:46
+Course: COMS W4118 - Operating Systems I
+Rating: 4/5
+Feedback counts: agree=6, disagree=0, funny=0
+
+Workload:
+6 (50%)  Homeworks, can drop 1. 1 (20%) midterm, 1 final (30%) (cumulative).  Homework average tend to vary hw 1 is easiest and hw 3/4 is hard - average floats around 40/100. Exam average ~45. Median curved to B+
+
+Review content:
+The hardest CS class in the department (if not in the country). Professor Nieh, is very warm and kind teacher. Knows the material inside out and has been teaching for the past 30 years. If you are taking OS, take it with him. He uses board and teaches the concept really good. He also goes over Linux code and tries to explain concept through code. What makes OS hard is: 1. it is a dense topic meant for 2 semesters so you are rushing through everything 2. Homework are intentionally made hard with verbose but unclear guidance for you to figure things out. They do it intentionally, so you go to office hours. Unless you understand the material, coding is a nightmare. You need to read ~1,000 lines of code every homework to code 10 lines (expect to write ~500 lines in C for some hws) - unless you want your code to deadlock. From my experience, I think they use a grading script, meaning that if your code don't compile you get 0, and their test cases are very hard (test, test, test your code). It is a team based assignment and choose your teams wisely. Unless this is your only class, have good team else you're going to suffer a lot. If you do not vibe with your teammates, switch on the next homework (they let you do that for every homework).  start early, in fact initial kernel compilation takes ~2 hours, so last minute work is impossible. Lecture is recorded with a policy that ~60 % attendance required to access the lecture recordings. No notes. However, Ed discussion is your best friend. Professor Nieh answers all questions on Ed. Start early, unless you understand your material nothing helps. You can use AI to explain concepts and cite it on your reference (but even then they do not help as much in fact it misleads you). the key is to learn it yourself. Unfortunately, reading books won't help as much than to attend lecture. His exams are fair, not tricky like AP, in fact if you attend lectures thoroughly and know what he is doing you can get 100 %, however each question holds more points than you think - they give partial credit unlike AP except for the hw (no parial credit).
+
+--------------------------------------------------------------------------------
+
+Review 3
+Review ID: 86406
+Submission date: 2025-01-11T20:05:30
+Course: COMS W4118 - Operating Systems I
+Rating: 5/5
+Feedback counts: agree=3, disagree=2, funny=0
+
+Workload:
+Total points out of 1000. Approx. 550 is B+. 650 was an A.  
+
+6 Homeworks drop 1, 500 points. 
+Midterm 200, Final 300.
+
+Exams are kind of like AP, where you can lose a lot of points even if your gap in understanding is not significant, so your fundamentals need to be clear. Huge curve, so don't lose confidence off of the raw scores. As long as you're staying with the median of the class, you should be okay. 
+
+Lock in, you'll learn a lot.
+
+Review content:
+I have never learned more with such a level of hands-on experience before in my CS education. Most other operating systems classes are almost entirely theory focused and their assignments barely scrape the surface of the essence of OS. In Professor Nieh's class, the six homework assignments work to build a story for your OS understanding. This class is hard, but the value in learning is extremely high. 
+
+There is really no way for anyone to gauge the true difficulty of the class based on reviews. Yes, most of the reviews here say that this is an extremely challenging class, but that materially doesn't really mean much until you are deep into the class. This class is challenging, but with proper warning and preparation, I don't think it is impossible at all. There is SO much help provided for this class, more than I have ever seen for a class. Office Hours everyday of the week (except Saturday) with extremely well-versed TAs, and an Ed Discussion Board where TA's respond within a few hours max. If there are reviewers saying that this class is impossible or that they needed to self-study material, they probably did not utilize office hours.
+
+Don't take this class if you aren't interested in systems programming.
+
+Warnings and Advice: 
+1. Take this class seriously. It's three credits, but has a really high workload. I took this in a semester where I only took four classes total and it was still a stretch for me. 
+2. You need a good team. You can switch your team every homework, so don't hesitate to do so. This is not the time for being nice. Focus on your learning. I personally switched my team twice and it ended up being okay. They say the limit is three people to a team, but the assignments are doable with two people that have good communication and drive. 
+3. Put the ego aside, go to office hours. So many people refuse to go to office hours and waste an unbelievable amount of time trying to get something to work, only to get low grades on the homeworks (me early on). The TA's are extremely helpful, and so are your classmates! OH is a great place to work on homeworks too, since its a pretty collaborative environment. Again, reviewers that say they had to self-teach themselves, probably did not go to office hours.
+4. The homeworks are not one-shot-able. You will need the two weeks. You can "get things working" in a few all-nighters if you procrastinate, but you definitely won't get the grade you want in that case. 
+5. Exams are pretty difficult to actually study for. The best thing you can do is review homework solutions and try to think about what each part of each homework aimed to fundamentally teach you. 
+6. You need to have really clear C fundamentals. You will read significantly more C code than you will write, but in both cases you should be able to read, understand, and write C well. 
+7. Lectures are extremely important. It can be difficult to follow tracing kernel code in class, so definitely rewatch lecture.
+
+--------------------------------------------------------------------------------
+
+Review 4
+Review ID: 86338
+Submission date: 2025-01-06T01:42:21
+Course: COMS W4118 - Operating Systems I
+Rating: 2/5
+Feedback counts: agree=2, disagree=1, funny=0
+
+Workload:
+The assignments require tons of prep going through kernel source code, and you can either get stuck with a group where everyone essentially works on their own on the same exact thing or does nothing -- both cases undesirable.  You can change groups after each assignment if you'd like, but odds are you're going to get stuck with more undesirables.  It would have been better to make the assignments less intensive and have them completed solo as in AP.  I learned a lot with the assignments and invested probably 50-80 hrs into each of them, but it was not a good experience working with others in the class who were not on the same page, and the grades were absolutely not reflective of the effort put in.
+
+Review content:
+The homework assignments are a massive time investment, especially if you are stuck with a group that shirks its responsibilities.  Even if your code runs and appears to do what is required, the autograder has edge cases which will decimate your grade and essentially invalidate all your effort.  The lectures are mostly the professor clicking through the kernel source code on bootlin to the point where you don't even know what's going on and wonder why you're even still showing up.  He switched things up about halfway through the semester and seemed to focus more on illustrating concepts on the blackboard, which was a lot more useful.  The exams--not sure what the point of them is.  The median scores are like 30/100, so apparently if you don't answer exactly as they expect you to, you'll be getting a failing grade, even if you did okay on the homework assignments and understood the concepts.  I essentially had to teach myself the concepts using the textbooks and still managed to fail the exams even though I was pretty confident in my understanding of each subject.  The course grade is curved, but talk about discouraging.  Is the goal to teach or to weed people out here?
+
+--------------------------------------------------------------------------------
+
+Review 5
+Review ID: 86303
+Submission date: 2025-01-04T19:07:49
+Course: COMS W4118 - Operating Systems I
+Rating: 5/5
+Feedback counts: agree=20, disagree=0, funny=0
+
+Workload:
+6 homeworks + midterm, final
+
+Review content:
+While challenging, this class was one of my best learning experiences at Columbia. The six homeworks really help you understand how to debug the kernel and thoroughly understand C code - and the TAs were very helpful in this process. Jason also lectures very clearly and takes you through the linux code, which helps with the homeworks.
+
+I highly recommend that anyone looking to take OS take it with Jason Nieh - you won’t regret it!
+
+--------------------------------------------------------------------------------
+
+Review 6
+Review ID: 84904
+Submission date: 2024-03-26T00:35:02
+Course: COMS E6118 - OPERATING SYSTEMS, II
+Rating: 5/5
+Feedback counts: agree=4, disagree=0, funny=0
+
+Workload:
+Professor Nieh is very fair about workload, grading and everything else.
+
+Review content:
+Life changing class (both OS 1 & 2). Would go back in time and take them again if I could. Class isn't easy but considering the material that is being taught, it is made as easy as possible.
+
+--------------------------------------------------------------------------------
+
+Review 7
+Review ID: 84831
+Submission date: 2024-01-22T01:56:19
+Course: COMS W4118 - Operating Systems I
+Rating: 5/5
+Feedback counts: agree=15, disagree=1, funny=2
+
+Workload:
+6 homeworks, lowest dropped, 1 midterm, 1 final. The homeworks count towards 50% of your grade, midterm and final are 20 and 30% respectively. The curve is pretty generous, where 500-550/1000 gets you around a B/B+. I will say you shoudln't focus on the raw unweighted grades you get on assignments and instead focus on learning and understanding the material, because it's possible to get a good grade with realllllly low raw scores. Personally I got a 605/1000 at the end of the class and that equated to an A.
+
+Review content:
+“Long is the way and hard, that out of Hell leads up to light.”
+― John Milton, Paradise Lost
+
+Operating Systems I is without a doubt the hardest course I have taken in my life, and will likely be the hardest you've ever taken as well. That being said it is also the greatest course I've ever taken and I would 100% do it again if given the chance. 
+
+The course teaches you (surprise!) how a modern operating system works, using Linux as a case study. You'll read and modify the Linux source code so you walk away not only with an understanding of how an operating system works but how to modify the Linux kernel for your own projects. Now, that sounds cool (and to be honest it is) but this leads us to the fact that the inherent difficultly of the course lies not in the subject matter, but in the sheer volume of material you need to learn in 4 months. If you are considering taking this course, you should be a) be VERY comfortable coding in C (if you did well in AP and understood the material you're good to go) and b) taking a light course load. On the second point, I'm a SEAS student who took 4 classes the semester I took OS, and they were all relatively easy. I still ended up having no free time as I was always either working on the homeworks for OS or the homeworks for my other classes.
+
+This brings us to the homeworks (Oh God). There are 6 total, and typically you get 2 weeks per assignment (I say typically because towards the end of the semester he gave our class some extensions on the deadlines). Starting with homework 2 you're put into groups of 3. Be sure to choose a good group, but more importantly, if you get a bad partner, SWITCH TO A DIFFERENT ONE NEXT ASSIGNMENT. Trust me, you don't want to go through this course alone, look out for yourself. Be prepared for a lot of stress, confusion, and late nights. Once you get to the middle of homework 3 it's not an exaggeration to say you'll be working 30 hours a week on these. Homeworks 1(writing a minishell) and 2 (something with task structs) are easy, homework 3 (process state changes) is the hardest in terms of difficulty (plan to drop this homework), homework 4 (writing a scheduling class) and 5 (something with page tables and memory) are easier than homework 3 conceptually but still have heavy workloads, and homework 6 (file systems) is easy (note this homework will be easy only in comparison to the previous homeworks, this would still be pretty difficult in a normal class).
+
+Now to the lectures. One of the only reasons I think people tolerate the insanity of the course's difficulty is the fact that Jason Nieh is an amazing professor. He's a great lecturer, and by the end of the semester you'll have internalized all of his catchphrases for explaining linux source code (drinking game idea, take a shot every time he says "under the covers"). In the inevitable event you don't understand something from the homework, go to his office hours. Not only will you get help on your assignment, you'll get to discuss the homeworks with other people in the class, because everybody shows up to his office hours.
+
+If you're debating taking OS, the most important thing you need to know is if you love systems programming. And I really mean love, because only love can prompt a perfectly sane individual to dedicate all of their free time and happiness to writing a custom page table that's >1000 LOC only to get a 17/100 because you forgot to build for ARM architecture (unfortunately true story). That's not to say you can't have doubts, but if in the first two weeks you're only moderately interested, drop the class. Like the quote above indicates, OS is the Hell. That's not just my experience, it's like that for everybody. But it's 1000% worth it in the end. You'll make friendships based of shared trauma that will last a lifetime (the friendships and the trauma), you'll get a great understanding of how personal computers actually work, and you'll walk away an incredibly strong programmer. OS is long and hard, but if you stick with it it'll lead you to Heaven.
+
+--------------------------------------------------------------------------------
+
+Review 8
+Review ID: 82983
+Submission date: 2023-01-06T04:17:57
+Course: COMS W4118 - Operating Systems I
+Rating: 5/5
+Feedback counts: agree=19, disagree=16, funny=12
+
+Workload:
+6 homeworks, 1 gets dropped. At the beginning of the course, Professor Nieh said that Homework 4 (scheduler) is known as the most difficult. However, this year, he changed Homework 3 and oh my god, those 2 weeks spent on Homework 3 were the most arduous 2 weeks of my life at Columbia. Nothing worked. My computer froze unpredictably and intermittently. Google didn't help. Stack Overflow didn't help. It just didn't work no matter what we tried. But after that brief 2 weeks in hell, my understanding of the material improved drastically, so much so that Homework 4 did not feel difficult at all and ultimately, our Homework 3 was dropped. Aside from Homework 3, all the other homeworks were challenging but pretty interesting. I definitely felt frustrated while doing them, but never bored. In addition, the homeworks taught me how to use git version control, how to understand a large codebase, and how to collaborate with others, all of which I believe will be helpful later on. 
+
+Also, the exams are very, very, very tough because you have to write code on them. I am pretty sure our final exam had a ~30 average. But the curve is generous and if you make sure you understand the homework solution code, you can't do too poorly.
+
+Review content:
+This course is definitely the most difficult one I've taken at Columbia, and many of my classmates agree with me. Regardless, it was a great experience, and towards the end, it wasn't even that bad! Professor Nieh is a very clear lecturer that is incredibly knowledgeable about the material and established in the field. He is also very friendly- GO TO HIS OFFICE HOURS!! The material itself is not too difficult to grasp, and the two textbooks, OSTEP and LKD are very helpful. I also thought the material was pretty interesting- I felt like I finally understood what my computer is doing on a foundational level. I also particularly enjoyed Professor Nieh's lectures where he goes through examples of synchronization on the blackboard, as those made the difficult concept quite clear. As many of the previous reviews pointed out, Professor Nieh likes to go through Linux source code in class. Those lectures can be quite boring and confusing if you haven't looked at the source code beforehand or started the homework, but once you're caught up, they're usually very relevant to the homework.
+
+--------------------------------------------------------------------------------
+
+Review 9
+Review ID: 82930
+Submission date: 2022-12-24T23:43:58
+Course: COMS W4118 - Operating Systems I
+Rating: 2/5
+Feedback counts: agree=14, disagree=0, funny=24
+
+Workload:
+Staff will give a license key for virtual machine software, where then you can code everything in your VM instance.
+There are six HWs, one midterm and one final. The lowest HW score will be dropped. How they looked like and how should you deal with them are discussed in the content section.
+To compute your grade, add up five highest score of your HWs, your midterm score times two, and your final times three. If you achieve a score of 700+, well A/A+ here you go. The average is usually 550-ish, which is a B+.
+
+Review content:
+Well, I've always heard other students saying that OS is the hardest CoSci course in Columbia. So, I'm like, well, since I've taken most of my required courses, so why not give OS I a shot? And oh boy, all these rumors about how hard this course is are real...
+This class is the HARDEST 4000 level course I've ever taken, it's like CLT plus advanced Algo plus complexity theory plus Computer Networks(by Prof Ethan, of course). So yeah, that kind of hard. AP, analysis of Algo I, and lots of other CoSci courses which are labelled as challenging basically becomes...trivial in front of this one. So, please consider carefully before you enrolled this one, or else it will drop a GPA bomb on you.
+So yeah, do not take it unless:
+1. Your track requires it, well then it's no escape here lmao
+2. You really likes OS
+3. You are a C-language god and knows how to do kernel programming. Well under this case, be my guest, take it:)
+Oh btw, even if you have to take OS, if you are a master student, you should take it at the last semester, where you only need to take two courses. This course has a workload of 2.5 courses, so yeah, don't take it when you're enrolling 4!
+
+Don't get me wrong, Prof.Nieh is very good at teaching. He knows how OS(specifically, Linux here) works, and he delivered course contents crystal clear. If you found something vague and unclear, you can easily get your answer by ganking the Prof after class, post an Edstem post or just read the textbook. So conceptually, it was not that bad.
+Also, the grading process of this course is also very fair. There will be auto testers plus manual review of your submission with clear rubirc. So it's unlikely you got point deducted without a proper reason.
+
+At this point, you might ask, oh so what make this course so hard? Well, its workload and complexity of HWs.
+The first one is about writing a simple shell. You just need to make sure it perform just as what the statement defines. Watch for memory leaks! Don't Malloc without freeing things. Valgrind should be very useful here. I mean, you've taken AP before and you better know all of this without me telling you here, or you're just not ready for OS.
+You should aim for 95+ when doing HW1. Trust me, if you didn't do well or find it too hard for you, you probablty should drop this course. Having a good grade in HW1 will 'pull up' you a little bit in your final grade calculation.
+The second one should be implementing a system call. It will take a while to compile for the first time. So I suggest you to compile the given skeleton code as soon as it was released. Same rule applies for all following assignments. HW2 is hard, but not hard at all if you compare it with following HWs. Make sure you understand all these Linux and C language conventions, such as Linux List head and all these Macros. They will be very useful:)
+Also starting from HW2, you will work with a team of 3. You need a WORKING TEAM, which can be either a team without slack teammates or a team with at least one god-tier carry who seems to spoke C language in his/her/their daily life. If you didn't get a good team for HW2, either you can rush it out with your own wisdom(it's still possible for HW2), or you gonna scew up, which is kinda of fine at this point. However, for ANYONE who wants to do well, or at least decent, my rules are:
+1. Get a working team!
+2. Get a working team!
+3. Get a working team!
+You want to cut steak with a plastic spoon? NO YOU DON'T! I cannot stress more on this. They'd lock me up in an asylum, yet I'd still say, "GET A WORKING TEAM!" So yeah, if your HW2 screwed up cause your team does not work, DUMP THEM IMMEDIATELY. Prof.Nieh approves this, you should write an email to him politely, and he will arrannge you a new team. If that does not work. Repeat the dumping process. Don't afraid to be an A-hole in this class, trust me, a non-working team will make you feel much worse then just dumping them. Don't trust your teammates "Oh I will do better next time", THEY WON'T and YOU SHOULD NOT TAKE THE RISK. Thus, unless you yourself is a god-tier teammate, eject immediately when you feel something is off.
+
+Ok, back to HWs. HW3 is likely to be a HW on state of processes, preemptions and threadings. Start early on this one! Or else you might get your first 30/100! Well, at least you can try to figure things out by browsing through linux source codes. "Source codes are ground truth!", said by Prof.Nieh. Also, try to arrange your teammates s.t. for any OH during the week, there will be at least one guy in your team be there and querying the TA. TAs are extremely helpful(or else how could we survive through this course?) and you SHOULD ASK THEM QUESTIONS. Your codes does not compile? Ask TAs! You got a Null-pointer-Exception? Ask TAs! You got some unexpected Core-Dump? Ask TAs! Trust me, AT should be a solid rule you follow, just like RTFM. And it's gonna helped you a lot.
+
+Alright, assume you survived through HW3 with a working team, HW4 is about scheduling, and believe it or not, it is not that hard(comparing to 2~6). Linux scheduling classes are pretty much...OOP, so I think it is really not that bad. The only crappy thing is, you might not be able to boot if you mis-write some codes. Hence, make sure you use snapshots of your VM software. Trust me, you don't want to re-install your instance, re-compile for one hour just because you wrote some code that broke your previous VM instance. Otherwise, you should actually aim for 80+ for this one.
+
+Ok, here comes HW5. It's likely to be one about memory paging. Remember I said you should get familiar with Macros, well here you gonna use them a lot in order to walk the page table. Again, start this one early. Prof.Nieh might allow you to submit this HW after the Thanksgiving(If it's fall term). But during Thanksgiving, there will be NO OH held by TA/Prof. Thus, finish it early, or good luck trying to figure why this/that page fault/seg fault occurs by yourself.
+
+HW6 is about Filesystems. It's a long but not that hard one. However, at that point, you will have tons of upcoming final and due on final projects. Hence, a working team is really important here! Tell your teammates not to bother using crappy excuses such as 'oh I have a final so I cannot do anything'. EVERYONE IS BUSY DURING FINAL WEEKS AND THIS IS NOT AN EXCUSE. Don't feel defeated when you open files provided by TAs and found them to be completely empty.(Very cool man, actually giving out a skeleton code without any bones.)  Try to make progress everyday and you are likely to survive through this final HW.
+
+Alright, so much with HWs. Now, time to talk about exams. THEY ARE HARD. If you found sample exams to be easy, IT'S A TRAP. Make sure you re-read assigned chapters s.t. you understand conceptual questions. More importantly, review previous HWs! It's likely there will be coding questions which asks you to modify some previous HWs. If you screwed up some of previous HWs, make sure you read solutions! I would say that solution codes given by TAs are hard to understand, as they might made changes to Linux Kernel in multiple files across different folders. So, make sure you spotted all of them and understand why. TAs are likely to use some Linux Kernel functions that are not covered during lectures, you will want to gank them during OH and post Edstem posts s.t. you can understand what happened. Understanding HWs will help you at least average in exams, thus please take my word on this.
+
+If you read through all my previous writings, well I wish you good luck. The fact that this course is only 3-credit while AP got 4 is such a joke in my POV. Have fun writing Linux code and I hope you got an A.
+If you are one of OS staff and is reading this, I suggest you re-consider adding some short sanity check HW on system call implementation. Throwing HW2 on student's face is not that a good idea, most students are not prepared. A sanity check HW will be a good warning as what's gonna come next.
+Merry Christmas:)
+
+--------------------------------------------------------------------------------
+
+Review 10
+Review ID: 82876
+Submission date: 2022-12-14T17:55:22
+Course: COMS W4118 - Operating Systems I
+Rating: 3/5
+Feedback counts: agree=8, disagree=1, funny=0
+
+Workload:
+Insanely high workload, makes AP look a breeze. Averages on most homeworks hover around 40%. The class is curved, but even to stay average you'll have to do a ton. Would only recommend if you are genuinely interested in the material, and even then probably take it with light classes so you can afford to spend all your time on it.
+
+Review content:
+Very in depth, you will learn a ton and the lectures are well delivered. The course is graded fairly and objectively, and the assignments, while very challenging, force you to really understand the systems you are working with.
+
+--------------------------------------------------------------------------------
+
+Review 11
+Review ID: 81766
+Submission date: 2020-01-06T00:55:43
+Course: COMS W4118 - Operating Systems I
+Rating: 5/5
+Feedback counts: agree=3, disagree=0, funny=1
+
+Workload:
+6 projects, 1 midterm and 1 final
+First project is individual and the other 5 are in groups of 3. Lowest grade project can be dropped.
+
+Review content:
+It is everything they say it is, but Prof Nieh is one of the best professors I've ever had the pleasure of studying with at Columbia CS. His lectures are very clear and he's super kind and approachable. Also, comparing notes with my friend who took OS with Jae, I'm not sure Jason's is the harder rendition as it's been rumored to be. The TA's this semester (Fall 2019) are also very good and went out of their way to help students with the assignments, and preparing for the exams. Granted, I took the class with a 4-course semester so maybe that's part of why I managed it okay. Still, if you're interested in how the operating system works, would recommend that you throw away your fears and just take it.
+
+--------------------------------------------------------------------------------
+
+Review 12
+Review ID: 79709
+Submission date: 2017-01-09T12:55:28
+Course: COMS W4118 - Operating Systems I
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=1
+
+Workload:
+(50% ) 6 homework assignments. There's a group component, which focuses on programming for the Linux kernel, each of which takes easily more than 20 hours of your time to finish (and often more). There's also an individual written component, which actually takes a maximum of 2 hours to finish.
+
+(20%) Midterm. Included writing out programs and short answer questions. Doable but not easy.
+
+(30%) Final, included programming, true or false questions and short answers. Final this semester was ridiculously difficult.
+
+Review content:
+Given the last review for Professor Nieh was written in 2013, I figured it is worth to share some more thoughts on this class.
+
+This class is everything they say it is. Nieh will teach you everything you need to know about Operating Systems, and then some more. His lectures are fast-paced, dense and sometimes difficult to keep track of. However, he is a very good lecturer with an impressive command over the material. He will answer several questions during class, which sometimes gets frustrating as he digresses. If you pay attention, you will learn a lot, but you will often have to back up the concepts with the textbook to actually master the material.
+
+And then there are the homeworks. Oh God. Nieh will talk about the concepts in class and he will talk about the homeworks a little bit, but to be honest, you are all alone. They involve writing code into the Linux kernel. Not only do you have to read A LOT (I mean, A LOT) of C code to figure out what you need to do, you also have to be really good at C to actually implement what's expected of you in a reasonable amount of time. Expected to spend 10 hours figuring out what you actually need to do before you write a single line of code. Expect to actually skip homework on other classes to finish these assignments. They will make you a great coder (especially if you want to be a systems programmer), and you will actually master reading Linux source code by the end, but it's a ridiculously rough patch. You will also have to demo your completed homework to a TA after it is done.
+
+Here are the breakdown of each of the programming assignments:
+   - Writing a bash shell. This one is the only individual programming assignment and also the only one not involving kernel programming. It is probably the easiest to do, but it'll still take around ~10 hours to finish. I see this more as a weed-out assignment for the students who aren't as confident in C.
+   - Writing a system call to keep track of Android's interprocess communications. This is the first time you will write code for the Linux kernel and also the first time you will write a system call. It's not actually that difficult, but takes a lot to get used to the programming environment.
+   - Writing an interface that sleeps selected Android processes and makes them wait on designated light intensity levels. The main emphasis here is concurrency / synchronisation. Starting from this assignment, you will actually be using a physical Android device, which Nieh makes you buy. Expect to pay a total of $200 as a group of three. 
+   - Writing a process scheduler for Linux. This is easily the most difficult assignment in the class. Most of the teams actually didn't do it and dropped the assignment. My team spent over 30 hours and still got a failing grade. I'd still recommend you to attempt it, since you may be tested on the homework.
+   - Exposing process memory to the user. This is the assignment that has to do with memory and paging in Linux. Conceptually can be a pain to figure out, but it's not actually a lot of lines of code. There are some weird Linux-related bugs which slowed us down, so expect to find hacky ways around them.
+   - Writing a file system for Linux. This wasn't that bad because the TA's set the homework up pretty well, but just like all the other homeworks, it's again a lot of time.
+
+Don't expect the grading to be nice because the homeworks are hard. We were constantly tested on weird edge cases that we didn't think of. Nieh expects the highest of you despite how difficult it is to even set up the groundwork for a lot of these assignments.
+
+TA's: Some are very good and some are very bad. Don't expect office hours to be helpful, they are overcrowded and if there are students scheduled to demo their homeworks, you won't get to even ask questions.
+
+Textbooks: There are two. One is very helpful for programming for the Linux kernel, especially early on. The other is helpful for the written components of the homeworks and for studying for the midterm and the final. If you could get one, get the Linux programming one.
+
+Both of the tests are also difficult, with class averages around 50-60 percentiles. You may be asked on anything you did for this class, from the lectures to the homeworks.
+
+Finally, grading is OK with a mean around B+, but you leave feeling it could be more generous given how much work and patience this class expects of you to even get a score around the mean. Despite all of that, if you do your work, you will learn an incredible amount about operating systems, C, Linux, systems programming, concurrency, and even more.
+
+--------------------------------------------------------------------------------
+
+Review 13
+Review ID: 28059
+Submission date: 2013-01-27T03:26:53
+Course: COMS W4118 - Operating Systems I
+Rating: 4/5
+Feedback counts: agree=4, disagree=3, funny=11
+
+Workload:
+Normal if you and your teammates are damn good in "C" and kernel programming, and heavy otherwise.
+
+Review content:
+A benchmark class, indeed. I am happy that I took it and improved my "C" programming skills, especially in the OS domain. Prof. Jason Nieh teaches the course very well.
+
+Apart from the skills and experience in the areas - Operating Systems, Linux kernel programming, this course demands a lot of your "C" skills.
+
+If you are a HardCore "C" fan and would love to experiment at system level in "C", then read on!
+
+This one class is for those who crave for "C" programming a lot! You will get your hands dirty while building crucial features of Linux kernel on an Android device in "C" involving Synchronization, Scheduling, Paging, File Systems, etc(as per the projects in Fall 2012).
+
+You will fine tune your "C" skills yourselves mainly in the area of optimizing the usage of the kernel resources in terms of memory. You keep an eye on what each function ends up returning to determine its success or failure - this comes with practice if you aren't in the habit!
+
+The grading rubric is the most comprehensive one I have ever seen in my life. For each of the assignments/homework, the rubric would cover every nook and corner cases that a novice "C" programmer for Linux kernel would definitely ignore.
+
+Well, in the beginning you would find each of your submission being bitten by checkpatch, for not abiding by Linux kernel coding style. But, with time, your "C" coding style becomes smooth and elegant if you start respecting what that seemingly strict master(checkpatch) says, trust me!
+
+Ah, userspace programs for each of the assignments! Well, I enjoyed much by dwelling in "C" while building the user space test programs for testing the Linux kernel features implemented in each of the assignments. You would be asked to demo each of the Linux kernel features you would implement in each homework and during the demo, well, how dedicated you were in testing your code gets rewarded when the standard test code(which they would have in their repositories) completes without any problem and you hear TA saying, "That's cool!".
+
+TAs were very helpful in answering the questions we had. Sometimes, we had to bug them and get the information what we want - but, they were all nice and had good hold on the subject. Among them, I found through live and piazza discussions, TA - Alex to be damn good in the subject.
+
+I feel it's important to mention that the solutions they would publish are simply beautiful. The solutions implemented by Christoffer Dall were mesmerizing. No, am not exaggerating at all - his coding style is so pleasing to eye and his code looks very simple and precise!
+
+Peer reviews: Yes, you would get opportunities(or responsibilities?) to review and grade other people's code. Here, I was annoyed at certain times of seeing some seriously senseless code from other people. At other times, I had also the chance to look at some brilliant code. So, overall, there was a good exchange of knowledge and suggestions between our team and various teams.
+
+Yeah, btw, try to form a good competent team - believe me, it's better to have arguments and come up with some kick-ass code which scores beyond the average code resulting from an average interaction or no interaction at all between you and your teammates. And this is from my experience!
+
+--------------------------------------------------------------------------------
+
+Review 14
+Review ID: 28023
+Submission date: 2013-01-23T05:28:24
+Course: COMS W4118 - Operating Systems I
+Rating: 4/5
+Feedback counts: agree=4, disagree=4, funny=0
+
+Workload:
+Heavy but worthwhile if you really want to understand your operating system well.
+
+Review content:
+Well, this is one course of Columbia of which I am proud of.
+There is nothing compared to this course that Columbia can offer and I guess Prof Nieh is THE best person to teach operating system course.
+
+Prof Nieh is great teacher and goes in great details whenever required. His classes are great, even if you miss in person, you can view them on CVN later. It was really helpful.
+If you are lazy to work because you have a job already and just want to pass this course, then you might not like working so much, but otherwise if you have genuine desire to learn operating systems, you will be grateful to Prof Nieh.
+
+Assignments are challenging and you will spend time reading linux kernel code. Best resource to get help is good TAs. For our course TAs were really good and helpful. I spent almost few hours with them before doing any assignment and it helped.
+
+Cool thing about this course is that if you do assignments on your own and are able to finish it, you will become good enough to answer any question on kernel that you are expected to know and even more.
+
+Make good teams for your assignment. If you have problems with team mates better change team, hire or fire someone else you will end up struggling alone and that doesnt help.
+
+Just remain above average in exams, assignments and your grades will be great. If you outdo  average in all cases you will get a very good grade.
+
+--------------------------------------------------------------------------------
+
+Review 15
+Review ID: 27771
+Submission date: 2012-12-20T06:33:09
+Course: COMS W4118 - Operating Systems I
+Rating: 4/5
+Feedback counts: agree=4, disagree=0, funny=0
+
+Workload:
+Individual contribution will vary between 15% and 70% of each homework assignment, subject to group dynamics.
+
+Averages tend to be quite low on homeworks and exams. If you score between 50 to 60% on the assignments and exams, you're probably in the middle on the pack.
+
+Review content:
+Your experience in this class will depend almost entirely on your team. If you come in with people you know and trust to be competent, you will be at a monumental advantage. If you sort into a random group, well... godspeed to you, brave soldier!
+
+The professor's lectures were of extremely high quality, though the recordings are not. TAs were top-notch. The two books were, respectively, completely useless and extremely useful. You will be given problems from the extremely useless book, but should instead spend your time reading the book on kernel development for the homeworks.
+
+(45%) 6 homework assignments, lowest is dropped
+(15%) Grading on your reviews of peers' work
+(15%) Midterm
+(25%) Final
+(00%) Extra Credit
+
+Note: there were programming problems on the two exams.
+
+--------------------------------------------------------------------------------
+
+Review 16
+Review ID: 27711
+Submission date: 2012-12-11T19:50:52
+Course: COMS W4118 - Operating Systems I
+Rating: 2/5
+Feedback counts: agree=6, disagree=0, funny=0
+
+Workload:
+Six projects, the first two are easier(compare with the latter ones), but the rest are hard. The last one conflicts with other finals, other projects and has earlier deadline. No grace days.
+
+Midtem+final. Some parts are at the corner of the textbook. By the way, the textbook is pretty useless for the 6 projects.
+
+Anyway, if you enjoy challenges and have plenty of time and mentally strong, this course is designed for you.
+
+Review content:
+Too much workload that equivalent to, or even more than the rest three courses I take this semester. Besides the endless projects, you need to review others' homework which also takes up much time. The grading sheet is really harsh, you never know what parts will be deducted points according to the grading sheet. The homework instructions are ill-organized sometimes, you were not clearly told what were expected to do in order not to lose points.
+
+--------------------------------------------------------------------------------
+
+Review 17
+Review ID: 24992
+Submission date: 2010-12-17T01:31:43
+Course: COMS W4118 - Operating Systems I
+Rating: 4/5
+Feedback counts: agree=7, disagree=0, funny=24
+
+Workload:
+Oh sweet Jesus. Like I said before, the workload is crushing. On the bright side, though, you will be working as a team, so you can always opt to cling like a remora to your teammate's work. If laziness is not your thing, you'd better get the lead out, because this class will make the rest of your classes look wimpy.
+
+Review content:
+Real men take Operating Systems. And, of course, hard as nails women too. 
+
+This is by far the hardest class I've ever taken. The workload is about 30-40 hours per week on project weeks, almost none on off weeks. And there are like two off weeks. 
+
+The course itself, as in the things you get examined on, is actually relatively simple. There are two components: a concepts component, which you can get entirely from reading the textbook, and a practice component, which consists of endless hours of reading through C source code, followed by more hours of implementing your design, followed by a frantic 24 hour code marathon once you finally figure out what you were supposed to be doing from the start. 
+
+Some prerequisites: Firstly, you need to know C really, really well. I mean like, you need to be able to write memory-safe in C in your sleep. You will be taught thread and interrupt safety in the course itself. 
+
+More importantly, you need to be able to read C code. There is no manual for the Linux kernel. It's C all the way down (well no, it turns into assembly at some point...) I mean, yeah there are some documentation notes, but the real deal is the code. If you can't figure out what a method is doing in one glance, you're going to have to brush up on your sight reading. 
+
+Oh and also, the projects are based around modifying the Android Linux kernel. I mean, how cool is that!
+
+--------------------------------------------------------------------------------
+
+Review 18
+Review ID: 22946
+Submission date: 2009-06-05T13:53:34
+Course: COMS W4118 - Operating Systems I
+Rating: 4/5
+Feedback counts: agree=6, disagree=1, funny=1
+
+Workload:
+Regarding the workload, yes, it is VERY tough. The homeworks will kill you, and if you have little C and linux experience it will be even worse. As another reviewer wrote: do some C programming practice before starting this course! Also, pick a good teammate and plan the entire semester for homeworks (including which homework to possibly skip) from the beginning. The midterm and final are not over the top difficult, but will require knowledge of what you are doing. (The questions are relevant though and not to test-like).
+
+Don't let the workload scare you off, but don't take this course together with other core-courses - you will suffocate :)
+
+Review content:
+This course is the best CS course I have ever taken.
+
+I entered the course with very little C experience and with hardly any Linux experience - let alone any kernel programming experience. After taking this course I did a project for the professor next semester and I now feel confident to take on large kernel intensive projects.
+
+Further, even if you're not going to be an operating systems developer, taking this course will make you understand all those details, which are unavoidably important, but always seem vague without having real OS experience - such as memory management, device drivers, threads and processes and more. I have taken another OS course before this at another institution, and I have to say that a course like this should be mandatory for all CS students.
+
+Jason is an excellent teacher, who is very approachable and answers any question with insight and dedication, so take this course with him if you have the chance.
+
+Only criticism is that I think there should be a homework related to writing a driver/module instead of for instance changing the scheduler, as it is more relevant for most of the kernel work to be done by the majority of people. Also, the classes do seem a little slow at times, but I guess that's more of personal preference.
+
+--------------------------------------------------------------------------------
+
+Review 19
+Review ID: 22284
+Submission date: 2009-01-19T17:18:43
+Course: COMS W4118 - Operating Systems I
+Rating: 5/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+The assignments took us on average up to 40 hours each.
+ 
+In addition there is some reading to do and lectures to go to. The exams does not require a lot of studying though.
+
+Review content:
+This is by far the most demanding and rewarding class I have taken as a CS grad student at Columbia. The famous 6 Linux kernel homeworks were just as time-consuming as could be expected. However the Prof and the TA:s were very helpful and there is a good discussion board belonging to the class. It was possible to skip one homework without a grade penalty. The first two assignments were not that difficult but 3-6 was very challenging.
+
+The exams were in general pretty straight-forward if you had attended the lectures during the semester. The lectures however were rather slow and somewhat obstructed by irrelevant questions. The level of the lectures were much lower than what was required to finish the homeworks.
+
+The best advice I can give for this class is to preferrably get familiar with C and Linux as much as possible before starting the class. No previous kernel programming experience is necessary but not having to spend time with syntax problems is very nice. 
+
+But anyone interested in low-level programming should definately take this class.
+
+--------------------------------------------------------------------------------
+
+Review 20
+Review ID: 22172
+Submission date: 2009-01-10T07:08:26
+Course: COMS W4118 - Operating Systems I
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+6 homeworks, 1 midterm, 1 final. Best 5 out of 6 homeworks used. Be careful - each homework could be considered a workload you would put into a project for another class. The midterm and final were both standard: he has a review session for each where he goes over old ones. The exams you take will be different, so you can't just study the old ones and be fine, but they're aren't THAT tricky.
+
+Review content:
+Hardest CS class you'll take at Columbia, hands down. Also, the class you'll learn the most from. Work hard in this class and you will be rewarded. Work not so hard and, well, you'll know the theory fairly well, but that's about it. This class requires a highly intimate knowledge of C--if you don't know it very well, then either skip the class or be prepared to read the K&R book thoroughly.
+
+The course covers the internals of the Linux kernel and we worked specifically with 2.6.11. Nieh covers mostly theory in class, and there is one text which goes over theory in more detail, and one which is a god-awful dry textbook (more like a manual, actually). The assigned readings aren't that long, and you will definitely need to do them--otherwise you will have no idea what the hell is going on. That being said, his lectures compliment the readings very nicely. Nieh was one of my better profs in terms of not "teaching out of the book." However--Nieh is the person you go to if you don't understand theory. If you need help with the homework, skip him and go to the TAs directly (he has little involvement in the homeworks).
+
+For each homework, you write a patch to the kernel that does something. After you submit, you have to meet with the TA for ~30 minutes to demo it, and they will also run their own test program on it. Be careful as they are NOT AT ALL forgiving if anything goes wrong--if you can't get it to work (even for a stupid error like you submitted the wrong file), you lose practically all points. Also, each HW has a written portion (~10 questions, usually 50% of the grade).
+
+HWs:
+1. Basic stuff, write a small shell, etc.
+2. syscall logger: not that hard, just an introduction to syscalls/the virtual machines you'll be using
+3. waitqueues/locking/threading stuff: you don't have to write that much code, just be careful what exactly you write.
+4. implemented a new scheduler type. most of the class just skipped this HW entirely, i recommend you give it a shot, but, don't bother if you can't get it.
+5. memory tracker: write a syscall that can track what chunks of memory you're using. requires you to go low-level with page tables, etc. tough but doable.
+6. process tree filesystem: make a filesystem that reflects the processes on a system. it's a lot easier than it sounds; he gives some examples of other pseudo filesystems in class.
+
+--------------------------------------------------------------------------------
+
+Review 21
+Review ID: 21027
+Submission date: 2008-03-04T00:00:00
+Course: COMS W4118 - Operating Systems I
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+The largest workload of all the classes I have taken in the CS department (databases, vision, PLT, adv. databases, AI, etc.) -- 5-6 projects that involve directly altering the linux kernel, 2 exams, each project is a group project with an individual part with problems mainly from the text.
+
+Review content:
+This class was the class I have learned the most from, and has also been the class from which I have gained the most marketable skills I have and have at least indirectly landed me job offers.
+
+Sometimes professor Nieh presents material in a suboptimal order, but he is very good at explaining low-level system concepts and hardware interactions as well as higher-level algorithms.  Exams are definitely fair, but homeworks can be ridiculously difficult in some cases, but others are a good amount of work and are very educational.
+
+He is also very approachable in person and will help with concepts outside of class and welcomes feedback as well.
+
+--------------------------------------------------------------------------------
+
+Review 22
+Review ID: 10943
+Submission date: 2005-01-06T00:00:00
+Course: COMS W4118 - Operating Systems I
+Rating: 3/5
+Feedback counts: agree=4, disagree=7, funny=1
+
+Workload:
+6 disgusting group homeworks, midterm and final.
+
+Review content:
+Professor Nieh is generally an amiable person.  He provided us with Halloween candy during the midterm and held a pizza party/review session for the last day of class.  His teaching style of writing bulleted lists and making diagrams on the blackboard is mildly helpful -- at least it's not Powerpoint.  The material was actually really interesting, and concretely brought together things I had learned in other CS classes.  Unfortunately, all of this pales in comparison to the torture of the homeworks: endless hours of staring at a computer trying to understand somebody else's LInux code that is hardly discussed in class.  The material taught in class was how an operating system works.  Ability to do the homeworks was in NO way a function of how well you understood this material.  Take this class if you don't care about your grade or have no social life.
+
+--------------------------------------------------------------------------------
+
+Review 23
+Review ID: 7763
+Submission date: 2004-01-17T00:00:00
+Course: COMS W4118 - Operating Systems I
+Rating: 3/5
+Feedback counts: agree=10, disagree=0, funny=0
+
+Workload:
+6 homework assignments. Each assignment has a written component and a programming component. The worst homework grade is dropped (i.e. your worst written score and your worst programming score is dropped, so if you did badly in the written part in homework #3 and the programming part of homework #5, those scores are dropped.) Midterm was easier than the final.
+
+Review content:
+If you're going to look for a job in I.T. after graduating with whatever degree you're working towards, this class is a must. The fact that Linux is used as a case study throughout this course is *immensely* useful, if only that OS courses at other universities are taught with merely pedagogical operating systems such as Minix or Nachos. That said, the programming part of the homeworks was arduous and time-consuming (yet rewarding once you gradually grokked a solution, which ended up being less than 50 lines of code for most of the assignments). An able CS undergrad would spend anywhere between 10 to 20 hours a week on the homeworks (written + programming parts combined). Nieh's lectures are very straightforward, and they are very much worth attending. The class is all about *detail* -- for those in systems, there is mounds of it to drum into your head, and this class gives you good practice. The worst part of the class is not the homework, but the morons that you can be potentially be paired up with for doing the programming assignments.  Your partner may contribute nothing, yet s/he can get all of the credit for your hard work. Luckily, you get to submit reviews of your partners and they swap around the programming partners based on those reviews after the first two assignments.
+
+--------------------------------------------------------------------------------
+
+Review 24
+Review ID: 7049
+Submission date: 2003-12-10T00:00:00
+Course: COMS W4118 - Operating Systems I
+Rating: 2/5
+Feedback counts: agree=5, disagree=3, funny=0
+
+Workload:
+6 homeworks (theory + heavy duty Linux kernel hacking) with lowest hw grade dropped, midterm, final. No extra credit.
+
+Review content:
+Ok, here's a simple test to determine how you'd do in Nieh's OS class. Rate yourself on a scale of (1=low to 10=high) on each of the following: C/UNIX programming; low-level debugging (i.e. pointers, memory traces, locking/serialization); Linux kernel. Now take the average. If greater than 25, you'll do ok. If greater than 15, expect to spend at least 10 hours a week in the CLIC lab. If less than 15 then **don't bother**. For real. If you are not an expert (or at least very very good) in C and UNIX, then *don't bother*. Now about the class itself. It runs at 200 miles per hour. If you can't keep up with the homework, then you are basically screwed. The programming part is **all Linux kernel hacking** and it is *not* covered in class. Don't expect the TA's to debug your problems and don't expect the prof to give much help except conceptual stuff. Of course, if you have munched Linux kernel code already, then this course will be a breeze. BTW, the cheating policy is outrageous (if the TA suspects you in the least, you are screwed.) Like the other review said, trust the prof/staff less than they trust you and you'll be fine. Prof is okay at office hours, but doesn't have time to give you detailed explanations and stuff -- either you go *very well prepared* or get thrown out in less than 5 mins. But if you can keep up with it, you'll get something out of it.
+
+--------------------------------------------------------------------------------
+
+Review 25
+Review ID: 6898
+Submission date: 2003-12-01T00:00:00
+Course: COMS W4118 - Operating Systems I
+Rating: 1/5
+Feedback counts: agree=8, disagree=8, funny=0
+
+Workload:
+5 best out of the 6 programming assignments, midterm and final
+
+Review content:
+In my opinion, Prof Nieh lives in the unrealistic world where a day has 48 hours or more for a student. The work load is way too much and his lectures are absolutely useless when it comes to doing the programming assignments. He might be an intelligent guy but anybody can handle an operating systems course by repeating what is in the text book.  I dont understand how this course has become so popular over the years. The regrading procedure is bureacratic crap and it makes life more miserable for the students who dont have the time to write down lengthy explanation as to why they require a regrading, as they are otherwise busy trying to complete the programming assignments. I believe there are easier more effective ways to learn Linux than trying to cramp it all in 2 and half months.  I would never recommend this course to anyone.
+
+--------------------------------------------------------------------------------
+
+Review 26
+Review ID: 5872
+Submission date: 2003-05-24T00:00:00
+Course: COMS W4118 - Operating Systems I
+Rating: 3/5
+Feedback counts: agree=6, disagree=0, funny=0
+
+Workload:
+6 Homework Assignments (Written and Programming)- The lowest grade assignment will be dropped.
+
+Midterm and Final
+
+Review content:
+Great teacher, definitely one of the best lecturers in Columbia CS department. This is a rough class, but any class that involes with operating systems is rough, there's no way out. Hacking the linux kernel will be the most frustrating thing you''ll have ever done... but you'll get a lot out from this class, in terms of programming skills and systems knowledge in general. This class will also definitely help you to get a job if you are interested in doing IT as a lot of big firms are now hacking the linux kernel for their own benefit.
+
+One warning: WATCH OUT FOR CHEATING FOR THIS CLASS, this class is notorious for cheating and THEY'LL CATCH YOU!!!
+
+But this is definitely a fruitful class, definitely one of the best CS classes i took at Columbia
+
+--------------------------------------------------------------------------------
+
+Review 27
+Review ID: 5752
+Submission date: 2003-05-18T00:00:00
+Course: COMS W4118 - Operating Systems I
+Rating: 3/5
+Feedback counts: agree=0, disagree=2, funny=0
+
+Workload:
+Craziness. 5 out of 6 assignments, midterm and a final.
+
+Review content:
+Prof. Nieh is a good professor.  His lectures, although boring at times, are informative.  My main quibble with this professor is the manner in which he interacts with his students.  He has a real disdain for them.  Be careful not to get on his bad side, or you will be subject to some of the most twisted, Gestapo-esque student-teacher interactions you have ever witnessed.  Trust him less than he trusts you and you will do fine in the course.
+
+--------------------------------------------------------------------------------
+
+Review 28
+Review ID: 559
+Submission date: 2000-01-01T00:00:00
+Course: COMS W3137 - Data Structures and Algorithms
+Rating: 3/5
+Feedback counts: agree=0, disagree=1, funny=0
+
+Workload:
+Increasingly difficult homeworks, midterm, final.
+
+Review content:
+A relative new-comer to Columbia, Nieh is a VERY smart guy, and when it comes to OS, he is THE specialist. His lectures are one of the better ones here at Columbia, and you'll actually learn a lot - BUT, you really need to be awake and ready to participate, as he likes to shoot off questions, and expects you to be able to answer them. He is willing to help outside of class, but make sure you have your questions ready, as he tends to get frustrated if you go to him and don't have a clue about what you need/want to know. As far as homework goes, the theory part is fine, but the programming part is NOT. When I took Data Structures with him, only 3 of 50 or so students was able to finish one of the later homeworks... he really expects you to know how to code (god knows where you're supposed to have learned!). Thankfully, his tests are more manageable (mostly due to the fact you don't have to code!).
+
+--------------------------------------------------------------------------------
+
+Review 29
+Review ID: 52
+Submission date: 2000-01-01T00:00:00
+Course: COMS W4118 - Operating Systems I
+Rating: 2/5
+Feedback counts: agree=5, disagree=3, funny=0
+
+Workload:
+No workload text provided.
+
+Review content:
+A good lecturer who, unfortunately, seems to hold students in genuine contempt; it irritates him that we tend to insist on quality of education. No complaints on the lectures, and problem sets are ok, since they're book-based; it's the programming assignments that ruin the class.  They're a true mass-nightmare, since students are given literally no preparation for them, and lectures have nothing to do with them. Honestly, with no way to learn how to do the project on your own, can he really be surprised that so many of his students cheat? The plus side is that if you work your ass off (and I mean work your *ass* off) and pay close attention, OS I will teach you two semesters worth of Linux and Unix OS mechanics.  Unfortunately, if you have to take OS, there is really no other choice than Nieh.  Either hold your breath and scrap together a B, or split up with your boyfriend/girlfriend and move into the lab... just be glad that not all teachers care so little about coddling you as Nieh does. Hopefully, you'll actually learn something in the process, as he knows the material inside-out. And if Linux is old Hat for you, you might possible find yourself enjoying the class.  But not likely -- Nieh, like so many other cs profs, confuses a ridiculous 'sink-or-swim' approach for academic rigor.  He should wake up and face teaching like an adult; you should avoid him.
+
+--------------------------------------------------------------------------------

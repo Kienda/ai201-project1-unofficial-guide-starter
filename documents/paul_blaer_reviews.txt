@@ -1,0 +1,1563 @@
+Professor: Paul Blaer
+CULPA professor ID: 3409
+Public page: https://culpa.info/professor/3409
+API source pattern: https://culpa.info/api/review/professor/3409?page=1
+Total reviews reported by API: 84
+Reviews collected: 84
+
+================================================================================
+
+Review 1
+Review ID: 89803
+Submission date: 2026-05-16T07:36:48
+Course: COMS W3134 - Data Structures in Java
+Rating: 3/5
+Feedback counts: agree=2, disagree=0, funny=1
+
+Workload:
+10 homework assignments, 2 midterms, 1 final.
+
+Review content:
+The course itself isn’t too challenging, but the lectures themselves were pretty boring. Blaer goes off topic A LOT (stories about himself that aren’t relevant to the course), doesn’t start talking about content until about 10-15 minutes into the class, and then we “run out of time” at the end. We were behind on content, meaning the last few lectures felt extremely rushed. We actually ended up not learning some things that were stated on the syllabus. In Intro to Java, he actually coded during class, which was very helpful. But then in Data Structures, he stopped coding in front of the class and instead started showing code and essentially read it to us with some explanation. Other times, he pulled up the PDF of the textbook on the big screen and read it off. Not helpful. He writes using paper/sharpie in class, so there are no slides or posted class materials. This meant reviewing before the exams was a pain, since if you didn’t catch something in your notes, you would have to rewatch the lectures (all lectures are recorded) and fast forward the parts where he talks about himself. Also, something that bugged me was that he always says “Homework is gonna come out tonight,” and it almost never came out the same night, always the next day or in two days. He also said our midterm 2 grades would be out “by tonight or tomorrow” multiple times, but it was delayed over 1.5 weeks. Overall, content-wise, the class isn’t bad, and you get ample time for homeworks. However, I did not enjoy my experience in this class. For Intro to Java, you have to purchase a subscription to ZyBooks, which was annoying. I was glad that we did not have to for Data Structures. I will say that Ed Discussion was probably my favorite resource for this class, since the TAs are SO responsive and give great answers.
+
+--------------------------------------------------------------------------------
+
+Review 2
+Review ID: 89622
+Submission date: 2026-05-05T13:38:30
+Course: COMS W3134 - Data Structures in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+5 Homework Pairs of Coding and Written sections released separately but treated together, they can be very large/confusing but you'll also be given ample time to complete them: worth 40%. Two Mid-Terms worth 15% each, the first one is easier than the second content wise. The final constitutes the remaining 30%. The course load averages out to about 7 Hours a week, however some weeks you'll find yourself just watching lectures (if even), and others you'll need to spend an entire day doing a homework. Class is curved up to a B+ and the typical uncurved average is a B-.
+
+Review content:
+If you've taken COMS1004 before (or know Java) the transition into this class will be much easier than if you don't, so absolutely make sure you have some understanding of Java. That being said, Blaer's class is good as it doesn't make Data Structures any harder than it needs to be; it's certainly not a weeder class.  Much like his Intro to Java class, attendance is optional and everything you need is posted online or is explained in depth the textbook, you can effectively treat this like an online class with three in person exams. However be warned that this fact does not make Data Structures as a subject any easier, and most people stumble by not taking the class as seriously as they need to. Attend/watch lectures live and ask pointed questions (or engage with Blaers questions). As while Blaer is a decent lecturer you'll find more value in what he has to say if you probe him for a bit more information. Make honest initial attempts on the homeworks despite their length, and clarify things with the TA's (the ones that are nice). The textbook is accessible online, and while you wont need it half the time if you watch lecture, I recommend using it to bolster your understanding as Blaer begins to blitz through certain topics after the first midterm and complete. This is a very manageable class which will reward you if you put the time in, and compared to the other Data Structure's sections I would say Blaer's is your best choice for the least painful experience. Don't go delaying Data Structures by a semester for Blaer though he's not THAT good.
+
+--------------------------------------------------------------------------------
+
+Review 3
+Review ID: 89446
+Submission date: 2026-04-22T20:12:18
+Course: COMS W1004 - Introduction to Computer Science in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+10 Homework Assignments, ~5 written and ~5 coding based, worth 40%. A midterm worth 20% and a final worth 30%, both pen and paper, closed book. ~8 Zybook Homework Assignments worth the remaining 10%. Hours of dedication vary but 2-10 Hours weekly is the general range, with serious students spending an average of 4-6 hours outside class weekly. As for the exams, Blaer makes it very clear what will be on them.
+
+Review content:
+Blaer's teaching style isn't for everyone, but as someone with a weak CS background, I can say it worked fine for me. Lecture attendance is optional, and everything is uploaded on Courseworks, though I recommend you engage with every lecture closely as while the exam content rarely ventures outside the bounds of the lectures, small things Blaer may say in between big topics can and have appeared on exams. Not to worry though, because if you miss anything Blaer says the Zybook Textbook is a wonderful resource, and if you do actually complete them you'll find yourself ahead of the curve. And he does curve the class, with the average being a B+. The biggest downside of this class are the exams, which may appear relatively simple when you take them, but have tough grading. Overall, Blaer doesn't make this class any harder than it has to be and is a perfectly good choice for an intro professor, and in the event that you find him to be unhelpful, the textbook for the class (and some TA visits) will do just fine.
+
+--------------------------------------------------------------------------------
+
+Review 4
+Review ID: 89350
+Submission date: 2026-04-14T14:42:47
+Course: COMS W3134 - Data Structures in Java
+Rating: 5/5
+Feedback counts: agree=1, disagree=2, funny=0
+
+Workload:
+He basically tells you exactly whats on every exam question for question. The content is not easy but his teaching style makes it as easy as is possible. The written homeworks are interesting and easy. The coding homeworks are absolutely brutal and the one thing bad about the course.
+
+Review content:
+Paul Blaer is an excellent professor with an obvious love for teaching. He explains things clearly, gives fair assessments, and is entertaining in class. Columbia is lucky to have him.
+
+--------------------------------------------------------------------------------
+
+Review 5
+Review ID: 89176
+Submission date: 2026-02-25T15:27:41
+Course: COMS W1004 - Introduction to Computer Science in Java
+Rating: 5/5
+Feedback counts: agree=1, disagree=1, funny=0
+
+Workload:
+PSets were time consuming
+
+Exams were very straightforward and had no surprises on them.
+
+Review content:
+The goat.
+
+Very good curve.
+
+--------------------------------------------------------------------------------
+
+Review 6
+Review ID: 89023
+Submission date: 2026-01-22T12:56:49
+Course: COMS W3134 - Data Structures in Java
+Rating: 4/5
+Feedback counts: agree=2, disagree=1, funny=0
+
+Workload:
+Weekly HW assignments (half written, half programming), a midterm, and a final
+
+Review content:
+Good course overall. I thought Blaer taught Intro Java better than Data Structures, but that could just be me. He is still the same quirky and funny guy from 1004 though.
+
+--------------------------------------------------------------------------------
+
+Review 7
+Review ID: 89019
+Submission date: 2026-01-22T12:32:14
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+Weekly HW assignments (half written/theoretical, half programming), one midterm, and one final (which he provides a review session for and generally tells you "what to study")
+
+Review content:
+Really good intro CS course, particularly with Paul Blaer, who paced the course really well. He's a great lecturer, sometimes gets sidetracked with stories, but I feel like that just adds to his quirkiness. He's overall a great professor. This course teaches you all the basics of Java and some other general CS concepts.
+
+--------------------------------------------------------------------------------
+
+Review 8
+Review ID: 88963
+Submission date: 2026-01-18T22:03:36
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 5/5
+Feedback counts: agree=1, disagree=0, funny=0
+
+Workload:
+Blaer offers late days, which is absolutely fantastic. Super chill and reasonable. Definitely a difficult class if you have never taken CS before, but YouTube is a great way to fill the gaps.
+
+Review content:
+Blaer is fire. Nobody can tell me otherwise.
+
+--------------------------------------------------------------------------------
+
+Review 9
+Review ID: 87778
+Submission date: 2025-11-19T00:08:28
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 3/5
+Feedback counts: agree=1, disagree=3, funny=1
+
+Workload:
+Weekly ZyBooks assignments--superrrr helpful and a great investment for the class. Not a TON of work and answers are visible for help.
+
+Weekly Codio/Gradescope assignments which are not too difficult as well.
+
+Review content:
+Computer Science is a difficult topic to lecture. Blaer truly embodies that. His teaching is definitely difficult to keep up with because its just so boring. He's monotone, but not monotone in a quiet kinda way--monotone in a LOUD kinda way. He does record his lectures and give late days for assignments which are a huge plus and it seems like he understands that people go through things/make mistakes.
+
+--------------------------------------------------------------------------------
+
+Review 10
+Review ID: 87572
+Submission date: 2025-10-01T15:52:19
+Course: COMS W3134 - Data Structures in Java
+Rating: 5/5
+Feedback counts: agree=1, disagree=0, funny=0
+
+Workload:
+Homework took ~3-4 hours/week. Preparing for ~3-5 hours for an exam is fine.
+
+Review content:
+I enjoyed Blaer's lectures, though they can be a little slow-paced. He's clear, thorough, and funny. Homework is a little tricky sometimes, just go to TA office hours when needed. Exams are easier than the homework in my opinion––they're largely straight-forward and Blaer literally walks through question-by-question what will be on the exam. Just pay attention and you'll be fine. Blaer sets a good foundation for an essential concept for computer science students.
+
+--------------------------------------------------------------------------------
+
+Review 11
+Review ID: 87420
+Submission date: 2025-07-05T16:43:38
+Course: COMS W3134 - Data Structures in Java
+Rating: 4/5
+Feedback counts: agree=4, disagree=0, funny=0
+
+Workload:
+10 assignments (half written, half coding, given in pairs) with about 2 weeks to submit each pair. Assignments - 50%, midterm - 20%, final - 30%. 
+
+The assignments are fair, they just may take a bit of time or extra thinking to complete. The exams I also thing are fair, you just need to seriously know the concepts and may have to memorize a bit of code for algorithms. He does a review session before the exam so you know what to study, and as long as you seriously follow it, you should be good.
+
+Review content:
+I had heard good things about Blaer, and he fit most of the descriptions. He records his lectures which is great for reviewing more difficult concepts while studying. Pretty chill teacher and tells at least 1 joke or story a class. Direct and clear teaching style, explains concepts, gives examples, and then walks through it in code. The content was fine, more complex topics given in the later half so it's important to stay on top of things but overall not too difficult if you're willing to put in the work.
+
+--------------------------------------------------------------------------------
+
+Review 12
+Review ID: 87395
+Submission date: 2025-06-20T16:26:39
+Course: COMS W3134 - Data Structures in Java
+Rating: 4/5
+Feedback counts: agree=2, disagree=0, funny=0
+
+Workload:
+20% midterm, 30% final, 50% for 10 homework assignments. Half of the homeworks are written assignments, and half are coding. He gives about 2 weeks to complete each pair of assignments (one written, one code). He tells you exactly what will be on the exams, but he doesn't give practice exams.
+
+Review content:
+Prof Blaer is great. His lectures are always interesting, and he sometimes sidetracks with somewhat related, funny stories. His lectures alternate between explaining the math behind an algorithm and implementing it in code. He tells you exactly what is expected of you, so as long as you pay attention and complete assignments, you will do fine. I took this class without having taken Intro Java, although I did take AP CSA in high school. He does warn against skipping Intro Java, but if you put in the work, it's completely manageable.
+
+--------------------------------------------------------------------------------
+
+Review 13
+Review ID: 87143
+Submission date: 2025-05-15T22:38:21
+Course: COMS W3134 - Data Structures in Java
+Rating: 4/5
+Feedback counts: agree=5, disagree=0, funny=0
+
+Workload:
+imo the midterm and final were easier the than the intro to java exams. The content was more straightforward, Blaer basically lays out what you need to know in a review sheet before the exams. 10 homeworks, assigned in pairs (1 written, 1 programming). One pair is dropped.
+
+Review content:
+Blaer is the goat. Had him for Intro to Java and Data Structures. His lectures are clear and easy to follow, and they're all recorded. I will say this course is pretty data structures theory focused, as in symbolic/pen-and-paper representations of the data structures, and not very focused on the coding aspect. This makes the class easier, but I wish we were given more opportunities to practice coding so the material would be actually useful.
+
+--------------------------------------------------------------------------------
+
+Review 14
+Review ID: 87032
+Submission date: 2025-05-07T14:02:33
+Course: COMS W1004 - Introduction to Computer Science in Java
+Rating: 3/5
+Feedback counts: agree=0, disagree=0, funny=1
+
+Workload:
+10 homeworks 5 written 5 coding, readings on zybooks, and then a midterm and final. Start homeworks early if you can, for exams he tells you roughly what is on it but what that maps to often is relativley unexpected for people so really review every topic and the zybooks before exams.
+
+Review content:
+Honestly, I learned a lot in this class but it took a few of the harder coding assignments to make sense. Also, I really reccomend office hours as they helped me a lot. This class starts with what I feel like is sort of a weed out written homework but then gets into java and moves relatively slowly for thr first few weeks. Everything related to obect orientation in java and classes/objects is kind of rushed as well as arrays and that makes the midterm a little harder, so I would reccomend reading/working ahead to the sections up until arrays so that there's more time to process some of this. Homeworks 6 and 8 are the hardest but if you spend the time doing them the rest of this class will make sense and become a lot easier. Really the key is learning how to debug and understanding objet orientation in java as well as how java as a laguage functions. If you do the harder homeworks well the other concepts will be relatively easy because they just build on the basics. Also the last portion of this class helps to prepare you for data structures so it actually is relatively important as well. There are really great office hours for this class, and I really enjoyed this class in the end. I found professor Blaer to be very good overall, but some of the concepts he really doesn't go into depth on so I would do the readings before class. Also, grading and assignments being released can be disorganized at times but it was never a huge issue for me.
+
+--------------------------------------------------------------------------------
+
+Review 15
+Review ID: 86750
+Submission date: 2025-04-15T12:46:27
+Course: COMS W3134 - Data Structures in Java
+Rating: 4/5
+Feedback counts: agree=2, disagree=0, funny=0
+
+Workload:
+10 homework assignments (5 written, 5 coding), lowest two are dropped. The workload is very manageable. One midterm and final which are very fair (midterm average was 74.7%). He tells most of what are on the tests so they are easy to prepare for. His TAs are wonderful and are so helpful during office hours. The course is curved to a B+/A- average.
+
+Review content:
+Blaer teaches very well and clearly. He wants every student to do well and this comes across. He is down to earth and does his best to make class interesting and entertaining through stories and jokes.
+
+--------------------------------------------------------------------------------
+
+Review 16
+Review ID: 86617
+Submission date: 2025-02-27T23:54:26
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+Work was so easy and grading was incredibly fair. Spent about 2 hours max per week on this class and maybe 3-4 hours studying for the midterms/finals just to review content.
+
+Review content:
+Everyone told me such great things about Professor Blaer, and honestly he sets the bar really low for doing well in the class. He's super engaging in class and him + the TAs always care about your work and will respond to any emails / Ed Discussions. Content is a little difficult if you haven't taken a Java course before, but he does explain things if you haven't.
+
+--------------------------------------------------------------------------------
+
+Review 17
+Review ID: 86453
+Submission date: 2025-01-16T09:01:10
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 3/5
+Feedback counts: agree=6, disagree=0, funny=0
+
+Workload:
+Assignments were perfectly doable on my own, with minor clarification from TAs, as long as I had a good grasp of the lecture and textbook content. Grading is fine. Blaer's very clear about when regrade requests are due, just get them in before then and they'll handle it. Lowest even and lowest odd numbered HW assignment grade is also dropped (very appreciated, given that I couldn't turn 2 assignments in even by the late deadline). Finals was tough but with a lot of studying it also went fine.
+
+Review content:
+Disclaimer is that I have never touched cs before. Ever. So this course was definitely a challenge. Blaer is friendly, straightforward, hilarious in lectures at times, but he definitely does sort of assume a foundational type of knowledge on how code works. I didn't feel like we had time to absorb the foundations before starting on subtopics. After I got the basic principles in my head though, it went much better, and I did well starting from the midterms. I never showed up to the lectures in person, personally found it much more helpful to rewatch the recordings at 2x speed, coding along, pausing and replaying parts at my own pace. Lecture content feels a little disjointed at first, not always clear how everything connects, so you do need to read and do! the! ZyBooks! Not gonna lie though, this course would've taken me a lot longer if it weren't for me basically using GPT4 as an on demand tutor/TA, helping explain to me textbook and lecture content, as well as providing more practice questions. 
+
+Overall still a good course. Feel very meh about the subject though, just wanted to try.
+
+--------------------------------------------------------------------------------
+
+Review 18
+Review ID: 86418
+Submission date: 2025-01-13T17:51:41
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 3/5
+Feedback counts: agree=3, disagree=1, funny=0
+
+Workload:
+
+
+Review content:
+Okay, so disclaimer, I never did Java before this class, but I do have programming experience in Python, which made it easier for me to grasp Java concepts and figure out coding logic.
+
+ For starters, I do not really like Blaer's teaching style, its kinda all over the place and there arent any slides or anything. Its more like he codes and talks. Honestly, I did not find it helpful to go to lecture because of this. I found it a better use of my time to just learn Java on my own. 
+
+The homeworks do progressively get harder and more time consuming, so my advice is to start early and go to TA OH. Some TAs are better than others imo cuz some of them would not even know what the assignment is about while others were more prepared to answer questions, so find out which TAs work better for you. Also, check EDStem while doing HW, because often the HW instructions are not very specific and there will be new requirements that are not mentioned in the HW instructions that you only find out about because someone else asked about it on ED Stem.
+
+I do like that Blaer tells you what topics are going to be on the exam before hand so that you know what to really drill down for the exam. I only went to Blaer's OH one time, and he was lowkey condescending. I asked my question in a respectful manner so I think the rudeness was uncalled for.  If many people are saying hes unapproachable then I doubt this was just a one time thing. 
+
+Grading for this class is chill though, its curved well. I ended up with an A w a raw of 92. Class average was like a 70 for the final and midterm.
+
+--------------------------------------------------------------------------------
+
+Review 19
+Review ID: 86331
+Submission date: 2025-01-06T04:12:50
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=2, disagree=0, funny=0
+
+Workload:
+40% Homework, 10% Zybooks participation (only need to do 80% to get full credit), 20% Midterm, 30% Final. The raw average for my semester was an 82, and he curves the average to a low B+ and the median to an A-, so it is pretty fair.
+
+Review content:
+As someone with little experience in Java, this class was definitely difficult. I would only take this course if you are seriously interested in majoring/minoring in CS - it is not just an elective you can push off to the side. I took COMS1004 to see if I wanted to major in CS and realized it wasn't for me, so the last couple of months were a pain to get through because the homework gets harder and harder. Honesty, everything after the midterm dramatically increased in difficulty. I also found the homework to be inordinately difficult compared to the exams. Expect to spend 5-10 hours on each homework, probably more on the Poker assignment. 
+
+Blaer is a very charismatic and enjoyable lecturer. However, if you are someone who doesn't know what is going on, it's easy to get confused because he incorporates jargon that we learned in class into his explanations. If you don't understand a previous concept, MAKE SURE you figure it out asap.
+
+As someone who got an A and was incredibly confused half of the semester, my best advice is to 1) Start HW early and go to office hours for help. There are lots of TAs so I'd suggest going to different ones and figuring out which TAs you like; 2) Actually read the Zybooks and make sure you know how to do all of the problems. For greater understanding, do the challenge problems; 3) Go to the review sessions and study everything he says for the midterm/final. I found YouTube and previous lectures/HWs to be helpful. Final and midterm are similarly structured, and if you're confused start with memorizing the syntax of the algorithms he covers (binary search, linear search, max/min, selection/insertion sort).
+
+I took ESP and that was a super chill, surface-level introduction to CS concepts.
+
+--------------------------------------------------------------------------------
+
+Review 20
+Review ID: 86320
+Submission date: 2025-01-05T16:37:35
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 5/5
+Feedback counts: agree=2, disagree=0, funny=0
+
+Workload:
+Extremely fair grading. Hours depend on how comfortable you are with the material.
+
+Review content:
+Great Professor who understands Java inside and out. Even if you come with knowledge of programming already (which I did with python) you will still learn a lot and maybe fall in love with java. If you didn't you will be fine and you will learn a lot and maybe fall in love with programming. The most important thing I realized is to code along with Prof Blaer during his lectures. Just open a personal Codio Project and type with him as he codes on his computer. Coding > taking notes and you will do well on the exam. When it comes to exams Prof Blaer does half the work for you already. He lists out all that you need to know in a txt file. All you have to do is just reimplement (from your understanding/memory) what's on the list two days before the exam. Allow one day of sleep to commit to memory and you will get 90+ on exams. It worked for me and it may work for you but everyone has their own study methods! Have fun!
+
+--------------------------------------------------------------------------------
+
+Review 21
+Review ID: 86290
+Submission date: 2025-01-04T16:39:56
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+10 homework assignments (40%), weekly Zybook exercises (10%), a midterm exam (20%), and a final exam (30%)
+Zybook is basically reading assignments with coding exercises.
+
+Average, maybe a bit heavier workload if you have no coding experience.
+
+Grading is fair. The written responses for both homework and exams, however, are strict in a way that you have to answer exactly what they are expecting. I got points deducted because the response not 100% the same with the rubric, although I already show clear understanding to the question.
+
+Review content:
+Overall positive experience. Professor Blaer is a very kind person. He is the most understanding professor of all the professors I have taken class with. He truly tries his best to adjust the release date and homework deadline to make our lives easier because he understands we have a lot of work to do.
+He and the TAs are also very supportive, super quick in responding questions on ed.
+
+I have to however agree with other comments that I don't love his teaching style. He is not bad at explaining concepts, but there are no slides or complementary notes for most coding lectures and therefore the learning process feels unstructured. The strategy is to make your own notes with the recordings after class, because it's hard to make a structured notes in class when you don't know where he's going. I however did not realize this early on and did not make my own notes. So although I ended up an A I feel like I did not have a clear picture of what I have learned.
+It's a bit ironic because the logistics stuff in this class are pretty structured and organized in my opinion.
+
+I personally did not encounter any difficulties in seeking support, so I disagree with other comments saying he is unapproachable.
+
+--------------------------------------------------------------------------------
+
+Review 22
+Review ID: 86255
+Submission date: 2025-01-02T15:23:02
+Course: COMS W1004 - Introduction to Computer Science in Java
+Rating: 2/5
+Feedback counts: agree=3, disagree=1, funny=0
+
+Workload:
+10 assignments, alternating between programming and Zybooks problems, 1 hour max for written homework’s, 3 hours max for programming homeworks
+
+Review content:
+I dislike Blaer’s teaching style. All he does is talk through code that is explained in Zybooks anyway. He gets frustrated at students for asking questions when he is the one that can’t understand their questions. Lots of the problems on the midterm/final are so semantic and I feel like a lot of them don’t properly test your ability to program. His TA’s are mostly awful, most of them are useless and some don’t even show up to their office hours. Would not recommend taking this intro class with Blaer, he moves too quickly for actual beginners and his attitude towards students is peeving, at best.
+
+--------------------------------------------------------------------------------
+
+Review 23
+Review ID: 85777
+Submission date: 2024-11-27T20:45:16
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=3, disagree=0, funny=0
+
+Workload:
+There are 10 homework assignments and additional practice problems and readings (about 10 total). Some of the homeworks take longer than others (anywhere from 20 min to 6 hours) and overall I would say the workload is fair. Practice problems and readings often took me about an hour. The TAs grading can be a little harsh and inconsistent because there are about 20 TAs.
+
+Review content:
+I had previously taken APCSA before so I didn't find this class to be particularly challenging. However, I think it would be for someone who has no coding experience as it can be quite fast. Classes tend to consist of Professor Blaer coding something and talking through his process. Attendance is optional and all classes can be attended on zoom, in-person, or watched at a later time (lectures are recorded). Professor Blaer is very funny and relaxed.
+
+--------------------------------------------------------------------------------
+
+Review 24
+Review ID: 85571
+Submission date: 2024-11-11T07:05:28
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 1/5
+Feedback counts: agree=18, disagree=86, funny=12
+
+Workload:
+He fails to make assignments live on time. I've had points deduced from several correct answers and the TAs act like its your problem when you confront them about it.
+
+Review content:
+Dr Paul Blaer is a terrible professor. His lecture isn't worth going to because he talks about himself half of the time. He frequently changes his schedule to compensate for his poor lifestyle decisions and expects students to adjust to it. He's existed at Columbia as a professor because he clueless with fundamentals such as JSON which are heavily used in the profession and would never last in corporate. His TAs take off points for no reason then they make you fill out a "regrade request form" to fix their grading error and never entertain it. Its amazing that a university such as Columbia employs him when they have so many better options. Dr Blaer is unable to uphold any standards and grades out of his own complacency. Such a waste of time & money.
+
+--------------------------------------------------------------------------------
+
+Review 25
+Review ID: 85463
+Submission date: 2024-09-06T23:22:36
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=7, disagree=5, funny=1
+
+Workload:
+There were some coding assignments that weren't terribly hard and some written assignments that were a bit strict with how they were graded. I would 100% say though that if you study well enough and pay attention none of the assignments or exams are too difficult.
+
+Review content:
+Professor Blaer is an amazing lecturer and does a good job of keeping the class interesting. He's generally very organized when it comes to the material he's covering and was not unfair about grading or what should be expected for each assignment. His office hours are very brief though and he can come off as unfriendly during them, so I would only recommend attending them if you really need help that only he can provide (otherwise his TA's should be enough). If you have an ounce of coding background this class is fairly light; just pay attention to the lectures and you'll be fine. If you're completely new, I would recommend watching Java videos to supplement the lecture/textbook material since I've heard it can be quite confusing on its own.
+
+--------------------------------------------------------------------------------
+
+Review 26
+Review ID: 85078
+Submission date: 2024-04-20T07:25:34
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 3/5
+Feedback counts: agree=2, disagree=1, funny=0
+
+Workload:
+Assignments were not overly difficult and were graded fairly. Maybe spent 1 hour most times on assignments, up to 2-3 hours on the more difficult ones, but again did have some experience in Java.
+
+Review content:
+I had some background in Java so this class wasn't too difficult for me but it was to others. Blaer is an overall nice professor, however beware that there is not much "teaching" in class, more-so practice of textbook concepts.
+
+--------------------------------------------------------------------------------
+
+Review 27
+Review ID: 85015
+Submission date: 2024-04-16T00:09:36
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+If I remember correctly, there were 10 assignments, half were coding and the others were written (theory and such). There is one midterm worth 20%, HW is worth 50% and final is 30%, I did spend a lot of time on the HW probably 10-12 hours on the worst one but it was doable. Professor Blaer’s grading is fair, TA hours are SUPER HELPFUL, got a B+ in this class and I’m content with that :).
+
+Review content:
+Was absolutely terrified going in given my little experience in the subject but Professor Blaer explained the content very well, he’s a super kind professor and also pretty funny. First few days is just teaching the basic definitions and ideas but then we went straight into coding, the coding in class would relate to our homework as well. Was absolutely horrified at my midterm grade but the final really saved my butt, there’s also an overall curve on your grade at the end of the semester so don’t be scared if you failed a HW or the midterm. Content mostly covered the basics of Java like operators, arrays, importing Java resources, command line arguments, Boolean, recursion, etc.
+
+--------------------------------------------------------------------------------
+
+Review 28
+Review ID: 84803
+Submission date: 2024-01-17T19:52:17
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 3/5
+Feedback counts: agree=5, disagree=0, funny=2
+
+Workload:
+10 assignments (5 theoretical/written, 5 programming), and the lowest score from each category is dropped. 1 midterm and 1 final. HWs are 50% of the grade, though, so focus on those. He also curves the class at the end, so it makes up for the harsh grading. The programming assignments take a long time, so start them early and go to TA's when you need help.
+
+Review content:
+I'd like to start off this review by saying that I already knew how to code in JavaScript, so things like if statements, while loops, etc. was just a review. When it came to things that were knew to me, though, it took a long time to learn them and grasp a basic understanding of each concept. I can't even begin to imagine what this course would have been like for someone who knew absolutely no code. (If you have time, I would recommend watching intro to Java videos on YouTube to get preliminary exposure to the content!) The assignments were hard, I'm not gonna lie. Especially the programming ones. For the biggest assignments I probably spent close to 15 hours/week on them, and still wasn't able to get a perfect score. When it comes to TA's, you just have to find the good ones. Some of them simply don't show up or don't know what they are doing, and some of them are better then Blaer tbh. Also, ALWAYS REQUEST REGRADES!!! I can't even count the amount of times TA's messed up my grade, even on the Midterm. When in doubt, just send a regrade request. 
+
+Blaer is a fun prof. He tells fun stories and will go over concepts again for better understanding. Sometimes he glosses over things that are actually important though, so I would recommend re-watching parts of lectures closer to the exams to make you studied everything.
+
+--------------------------------------------------------------------------------
+
+Review 29
+Review ID: 84791
+Submission date: 2024-01-16T19:46:40
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+10 homeworks (5 written and 5 coding) with lowest odd numbered and even numbered homework dropped. HW - 50%, Midterm - 20% and Final - 30%. He had review sessions before both exams where he basically tells us what will be on the exam but the actual exams had a little twists here and there. Generously curved up the final grade which I got B from C grade.
+
+Review content:
+Professor Blaer is super funny and he is active on Reddit, commented on my post about him which caught me as a surprise. His class is never boring and he always makes time to answer any questions any students have. He does Zoom meetings for all his lectures and uploads them on Canvas. As a student with 0 prior experience in programming, his lectures are easy enough to follow and he explains the concepts very thoroughly. I would like to take Data Structures in Java class with him as well but unfortunately, he has taken sabbaticals. I would highly recommend taking his classes if you can.
+
+--------------------------------------------------------------------------------
+
+Review 30
+Review ID: 83911
+Submission date: 2023-05-05T23:14:59
+Course: COMS W3137 - Data Structures and Algorithms
+Rating: 4/5
+Feedback counts: agree=1, disagree=1, funny=0
+
+Workload:
+10 assignments in pairs (5 written, 5 coding). They are assigned in pairs and have around 2 weeks for each pair. Almost all of them are quite difficult and each pair would probably take between 5-15 hours (at least for me including OH). 1 was dropped at the end for us. The midterm and final had both coding questions and theoretical questions and Blaer is very good at telling you the types of questions that will be on it. However, there is still a lot of content to study.
+
+Review content:
+I had Blaer for 1004 and really enjoyed it, but Data Structures was definitely a step up in terms of both difficulty of understanding and workload. I liked Blaer's teaching and thought he explained concepts very well, but at times I felt the class was too conceptual/theoretical and since Blaer does not write out his notes (so you just have to take notes of him while he is speaking), I found it was difficult to synthesize the information and retain it after class was over. The homeworks were difficult but the TAs were helpful so going to OH helped a lot.
+
+--------------------------------------------------------------------------------
+
+Review 31
+Review ID: 83786
+Submission date: 2023-04-21T02:53:47
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 3/5
+Feedback counts: agree=10, disagree=4, funny=0
+
+Workload:
+Grading is very fair and probably the most lenient out of all the other professors.
+
+Review content:
+This is not an introductory class at all. This man expects you to already know most things. He doesn't go over most concepts as they are "too trivial" and you will end up very lost on the homework assignments. It is possible to get very high grades in this class- I was completely new to programming and wasn't even intending to be a CS major so I had a VERY hard time adjusting to his lecture style and the concepts. But I had to study a disgusting amount of time just to understand the lectures. The midterm is mostly handwriting code and even though he "tells you every question on the exam," that review session is like two days before the exam and probably won't help much if you're a normal student with problem sets and other exams to study for. He also teaches new concepts that are on the exam literally the last lecture before the exam date, so nothing even marinates in time for you to apply what you learned on the exam. If you don't have prior experience in CS, you should prolly take it with a diff professor because you won't actually LEARN anything, it'll just be you trying to survive the assignments and exams.
+
+--------------------------------------------------------------------------------
+
+Review 32
+Review ID: 83761
+Submission date: 2023-04-18T19:33:36
+Course: COMS W3134 - Data Structures in Java
+Rating: 3/5
+Feedback counts: agree=10, disagree=1, funny=1
+
+Workload:
+5 written and 5 coding assignments (50%), midterm (20%), final (30%)
+
+Review content:
+Before getting into this class, other CS majors said that DS would be easy. For me, it was a little harder than Intro to Java with Blaer. There is a lot of more content to understand and fit in. Blaer does a good job of going through and explaining the overall general concepts of DS but I found him to digress into off topic subjects this semester, which made the learning tougher for me. I did not enjoy how he taught us how to code using DS algorithms by just perusing through the textbook code. It would have been nice if had done live coding of DS algorithms in example coding like he did in Intro to Java, because when it came to completing the homeworks, I understood the concepts but barely know how to code such concepts from scratch. His grading policy is very consistent, which I appreciate. The midterm was more difficult than what I expected. Even though he said what was going to be on the midterm, I found the questions to be more complex than I thought. There were a lot of tree questions, even though he had taught it the week prior without giving us time to absorb how trees work through homework. I like the class' consistency in written and coding assignments.
+
+--------------------------------------------------------------------------------
+
+Review 33
+Review ID: 83740
+Submission date: 2023-04-16T17:07:51
+Course: COMS W3134 - Data Structures in Java
+Rating: 5/5
+Feedback counts: agree=0, disagree=0, funny=1
+
+Workload:
+I probably spent 5-10 hours on each coding assignment and under 5 hours per written assignment.
+
+Review content:
+I had Blaer for intro java as well and really enjoyed his teaching, which is why I wanted him for data structures. I loved how all the classes were recorded because it was really easy to catch up on missed material and review for tests. Also, his grading policy was very lenient. His mean tends to be a B+ and his median an A-. There are 8-10 homework assignments (half written, half coding), one midterm, and a final. You get two weeks to complete each homework assignment, and 8 late days.
+
+--------------------------------------------------------------------------------
+
+Review 34
+Review ID: 83726
+Submission date: 2023-04-09T04:33:37
+Course: COMS W1004 - Introduction to Computer Science in Java
+Rating: 5/5
+Feedback counts: agree=2, disagree=0, funny=0
+
+Workload:
+10 hw assignments (50%) - half programming, half written - lowest grade for each type is dropped. Starting early is so so crucial, plus TA office hours tend to get packed closer to the deadline. Two exams -- one midterm (20%) and one final (30%). Go to the review sessions, he literally goes thru the exam questions!!!
+
+Review content:
+Went into this class with zero coding experience and the first few weeks were a huge learning curve. It seemed like everyone already knew the basics, but reading the textbook was a massive help. Blaer's a loud, funny guy who engages students effectively with entertaining lectures and mini tangents. Homeworks felt challenging at the time, but it's definitely because I waited until the last minute to start them. Assignment releases/TAs and grading were a bit disorganized sometimes, but it wasn't too horrible. 
+
+Overall I'd take another class with Blaer, but I probably wouldn't take this class unless you need to fulfill a requirement, since it requires a lottt of effort if you don't have prior experience.
+
+--------------------------------------------------------------------------------
+
+Review 35
+Review ID: 83711
+Submission date: 2023-03-22T15:51:32
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 5/5
+Feedback counts: agree=1, disagree=1, funny=0
+
+Workload:
+Workload was okay. Lots of work to understand in the beginning but got better. 10 homework assignments, and two were dropped.
+
+Review content:
+I highly recommend this class with Blaer. If you have the chance to take Java 1004 with him, do it. 
+
+He is a very entertaining lecturer who shares fun stories while still effectively teaching all the material. 
+
+I came in with no CS experience, and there was a bit of a learning curve, but this class made me want to be a CS major. I loved it so much. It was a good amount of work, especially the first semester, to just understand the syntax of everything. It was a lot like learning a new language. But once I got the hang of things it was fine. 
+
+He does the lectures in person, but also streams them on zoom so you can watch online if you’d like. They’re also all recorded and posted to courseworks, so you can watch whenever you want and rewatch for review. That is super helpful. 
+
+Only bad thing about this class is that even though there are a crazy amount of TA’s, it’s hard to have significant one on one time with a TA in office hours because they’re so crowded. You really have to come in with one specific question rather than just a general statement of confusion. It’s just a huge class and everyone wants help at office hours, so it’s hard to get much attention. 
+
+Also we got our semester grade super late: January 18. That sucked. 
+
+I also took Java Labs, which I would recommend for the grade boost and for having more time learning the material. 
+
+tldr; great class! awesome professor who is both effective and entertaining. had no experience and made me want to be a cs major
+
+--------------------------------------------------------------------------------
+
+Review 36
+Review ID: 83683
+Submission date: 2023-01-31T18:49:03
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+Intense but manageable.
+Ten homework assignments, 5 programming, 5 written assignments distributed over the course of the semester. 150 late hours given, lowest homework grade dropped. One midterm and one final. Both curved, though the method of curving is opaque.
+
+Review content:
+Disclaimer: After this class I became a computer science major. 
+
+I feel this class was an effective and comprehensive introduction to programming. Blaer is an entertaining and passionate lecturer. I will say that Blaer will lie to you about how quickly you will get grades back. I will say that it is likely not the best introductory class for you if you are not planning to major or minor. 
+
+This class can be intimidating. It is a massive lecture class. My section had ~400 students and the class overall had ~600. Most students also seem to have some programming experience. I came in with no programming experience and did find it intimidating. The difficulty of the homework assignments does increase rapidly. 
+
+However, there is a fair grading breakdown and support available. 
+
+I took this class in conjunction with Emerging Scholars Program and Java Labs. I greatly enjoyed both and found them to be low commitment but worthwhile. Would recommend Java Labs for anyone with no prior experience. ESP was a very interesting high-level overview of Computer Science fields.
+
+--------------------------------------------------------------------------------
+
+Review 37
+Review ID: 83607
+Submission date: 2023-01-12T13:01:58
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 3/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+The course workload was intense, but manageable, with some weeks requiring substantially more effort than others. Two of the programming assignments (termed "the beast" and "baby beast") were very difficult, but really forced you to become a competent beginner Java programmer. I credit those two assignments with making many of the programming concepts I didn't understand come together in my mind.
+
+The class was divided between those who had prior programming experience (mainly Python, though we did have some Java programmers as well) and those who didn't. It was my sense that those already familiar with a programming language had an easier time handling the workload that those who didn't.
+
+Review content:
+The course content mainly pertained to programming in Java rather than foundational concepts in computer science. While we did occasionally touch on topics like computer memory, these were very briefly presented in relation to a programming concept rather than as distinct topics to be familiar with. Professor Blaer is an excellent instructor in that he is firm, but fair. However, it's clear that he is spread thin and thus relies heavily on his TAs who made frequent grading errors and were often difficult to reach. There also appeared to be some grading variation (in that some TAs would grant or withhold points for given criteria while others wouldn't).
+
+--------------------------------------------------------------------------------
+
+Review 38
+Review ID: 83003
+Submission date: 2023-01-11T23:34:56
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=1, disagree=0, funny=0
+
+Workload:
+Homework assignments are half written and half programming. Written ones are usually relatively straightforward, the latter programming ones can be very time consuming taking many hours over 1-2 weeks, but are worth it as they really help you understand the concepts and OOP in Java.
+
+Review content:
+Really great professor! Blaer is an entertaining, funny lecturer but also explains everything super well and takes the time to answer everyone's questions, no matter how basic, and is very patient. Lectures usually consisted of live coding with an occasional pen and paper to explain concepts. My only complaint would be 1. The TA office hours are always extremely busy, and 2. false promises for grading; when Blaer says to expect grades by a certain date, expect it 2 weeks later. Would really recommend this class!
+
+--------------------------------------------------------------------------------
+
+Review 39
+Review ID: 82926
+Submission date: 2022-12-24T07:30:45
+Course: COMS W3139 - Honors Data Structures and Algorithms
+Rating: 5/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+6 HWs, ~2 weeks each, 150 late hours (max 48/HW), lowest dropped (50%)
+Midterm (20%)
+Final (30%)
+
+Review content:
+Taken Spring 2021.
+
+Humorous and engaging lecturer. Storytime tangents that give insight or are just funny.
+
+Textbook: Mark Allen Weiss, Data Structures and Algorithm Analysis in Java, 3rd Edition, Pearson, 2012. ISBN: 9780132576277.
+
+Topics Covered:
+Recursion
+Algorithm Analysis
+Linked Lists
+Stacks, Queues
+Trees
+Heaps
+Sorting
+Hashing
+Graphs
+NP-Completeness
+Functional Programming
+
+~JW CC'24
+
+--------------------------------------------------------------------------------
+
+Review 40
+Review ID: 82896
+Submission date: 2022-12-18T22:43:15
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 3/5
+Feedback counts: agree=1, disagree=0, funny=0
+
+Workload:
+Workload was manageable 10 hws (textbook and programming). There are textbook readings to fully understand the lectures but they are pretty long and boring.
+
+Review content:
+Prof. Blaer is kind and funny. He is a good person and has big positive energy. Downside? He is not a good lecturer. You will find yourself having to self-learn most if not all of the material. A lot of the people who do good in this class have had prior programming or java experience. If you are a complete beginner, you will struggle! There are TA sessions everyday and Blaer definitely tries his best to help and devote his time.
+
+--------------------------------------------------------------------------------
+
+Review 41
+Review ID: 83117
+Submission date: 2021-05-01T00:00:00
+Course: COMS W3134 - Data Structures in Java
+Rating: None/5
+Feedback counts: agree=4, disagree=0, funny=3
+
+Workload:
+No workload text provided.
+
+Review content:
+I didn't know Hagrid's calendar moves at a different rate than us mortals. When Hagrid says he will upload homework or post your grades at a certain time, expect that to take maybe about ten times longer because us mortals' calendars somehow move at a faster speed than Hagrid's.
+
+--------------------------------------------------------------------------------
+
+Review 42
+Review ID: 83118
+Submission date: 2021-04-01T00:00:00
+Course: COMS W3134 - Data Structures in Java
+Rating: None/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+No workload text provided.
+
+Review content:
+The review dated June 09, 2020 is probably the most accurate review of this class imo. In short: Blaer is a lovely, hilarious teddy bear that I want to befriend irl but he isn't the most outstanding Professor.
+I think that Blaer can choose better TAs tbh. There are several TAs who are frequently arriving to their OHs late/ forgetting to attend their own OHs. Furthermore, some of them don't bother to refresh their memory on the current topics/homework. That being said, Bo is the most amazing TA I've ever met! He taught me to approach Blaer's data structures class in a more lighthearted manner. I will miss Bo after this semester!
+
+--------------------------------------------------------------------------------
+
+Review 43
+Review ID: 83119
+Submission date: 2021-03-01T00:00:00
+Course: COMS W3134 - Data Structures in Java
+Rating: None/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+No workload text provided.
+
+Review content:
+The class content is not hard. Professor Paul tends to extend the homework due date when most students starting on it later than his expectation. That's great since we were supposed to have 6 homework sets and now we have 5.
+The entire TAing system is a mess. When there are questions regarding clarification of the homework problems, TAs may give inconsistent answers. So the best thing to do is post the clarification question on Piazza directly.
+Homework problems are related to his lecture closely. And he sometimes will talk through the structure of some coding homework problems during class which is helpful.
+Exams are similar to homework but much easier.
+
+--------------------------------------------------------------------------------
+
+Review 44
+Review ID: 83120
+Submission date: 2021-02-01T00:00:00
+Course: COMS W3134 - Data Structures in Java
+Rating: None/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+No workload text provided.
+
+Review content:
+This class is a hot mess. I don’t know if it is because it’s online or just his teaching style but the lectures are super confusing. It seems that he just talks and talks and expects the information to naturally stick. Even worse, the textbook makes no sense and is very dense. Being the only DS class offered this semester I had to take it, but definitely one of the most confusing classes I have taken so far.
+
+--------------------------------------------------------------------------------
+
+Review 45
+Review ID: 83121
+Submission date: 2021-01-01T00:00:00
+Course: COMS W3134 - Data Structures in Java
+Rating: None/5
+Feedback counts: agree=1, disagree=0, funny=0
+
+Workload:
+No workload text provided.
+
+Review content:
+Prof. Blaer is my favorite professor at Columbia and I loved taking Data Structures with him! His lectures always target the key points, and he’ll occasionally throw in a relevant joke or story. He’s also accommodating and receptive to feedback, and the curve is generous. Even if you aren’t pursuing a CS degree, I highly recommend taking Data Structures with him if you enjoyed 1004.
+My only complaint is that the Weiss textbook is subpar and should not be your primary resource in this class. The book is dense and reads more like an academic paper; it’s clogged with esoteric proofs and errors. Use Weiss for its source code, but refer to Cracking the Coding Interview, YouTube videos (I recommend the Back To Back SWE channel), and sites like GeeksforGeeks for mastering the concepts.
+
+--------------------------------------------------------------------------------
+
+Review 46
+Review ID: 82201
+Submission date: 2020-06-09T08:09:44
+Course: COMS W3134 - Data Structures in Java
+Rating: 3/5
+Feedback counts: agree=0, disagree=0, funny=1
+
+Workload:
+Reasonable.
+
+Review content:
+The good: Blaer is nice, funny, approachable, and the curve is generous. The hw sets are also reasonable.
+
+The bad: Blaer is not a good lecturer. The currciuculum glosses over a lot of topics. The motivation behind the data structures are not explained. Honestly, data structures at Columbia is a joke. For a class that is very important to computer science, you will feel like you can do the problem sets and maybe get As, but will end the class thinking that you did not learn anything. Connections between the data structures are not explained. A lot of times I had knowledge of the topic behind explained, but sat there and saw him explain it for the first time and thought that if this was my first time being exposed to what he is saying, I wouldn't have grasped the material. Honestly, a very frustrating experience. Also the book is terrible; the code is filled with a lot bugs. Skip class and learn the material on your own. Also use problems sets from other universities to actually learn data structures. If you are doing the problem sets being assigned and think they are easy, that is because you are not learning actual data structures, just a bunch of disconnected programs. The theory part is better than the programming though. The course lacks the depth needed for cs.
+
+--------------------------------------------------------------------------------
+
+Review 47
+Review ID: 82175
+Submission date: 2020-05-25T09:41:37
+Course: COMS W3134 - Data Structures in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+One written and one programming homework every two weeks-ish
+One midterm
+One final
+
+Review content:
+Hagrid is a clear, knowledgeable, kind, and helpful professor. I admit the class felt a little easy because of how slow he went; I ended up not paying attention to most lectures and instead relied on the very excellent textbook by Weiss to get me through. The homeworks and tests were quite easy and fair.
+
+It's not a breeze though. You need to put in the time to understand these occasionally complex algorithms, and develop an intuition for them. If you know the basics of Java, the programming is a breeze. The written homeworks (i.e. exercises from the textbook) were occasionally difficult, but never completely stumped me. I never used them, but I've heard office hours and TAs are genuinely incredible.
+
+--------------------------------------------------------------------------------
+
+Review 48
+Review ID: 82132
+Submission date: 2020-05-15T18:35:16
+Course: COMS W3134 - Data Structures in Java
+Rating: 3/5
+Feedback counts: agree=0, disagree=1, funny=0
+
+Workload:
+- 6 written HWs (25%). + 6 programming HWs (25%) **He lets you drop your lowest written/programming hw grade
+- Midterm (20%)
+- Final (30%)
+
+Review content:
+Blaer is a nice guy who is not a great teacher. As a professor of a large lecture class, those two qualities are heightened: his jokes (though repetitive) can be stress-relieving, and if you have a background in java, his explanations are intriguing. However, if you don't have a background in java, Blaer is not very good at explaining simple concepts. He over-explains, confuses students, and gets distracted easily. I personally felt that my time was better spent on learning java online than learning in his class.
+
+One specific moment that comes to mind is Blaer's introduction to stacks. He went on an hour-long description of the intricacies of a stack, over-explaining it, when in all honesty it's a somewhat-simple java topic. All he really needed to say was "this is like a list, but instead of being able to access any node at any time, stacks follow the process of last-in first-out, like a tissue box or a pile of books."
+
+To be fair to Blaer, he is an incredibly nice professor who has the difficult job of teaching nearly 450 students in one large lecture class. I'm not sure anyone would have been able to do as good a job as online learning, especially in a class on Computer Science. 
+
+My advice: take his class, but don't expect it to be great. Enjoy the comedic, positive side of Blaer, and deal with the negative sides of the class by learning online or reading the textbook.
+
+--------------------------------------------------------------------------------
+
+Review 49
+Review ID: 81851
+Submission date: 2020-01-23T02:06:28
+Course: COMS W1004 - Introduction to Computer Science in Java
+Rating: 5/5
+Feedback counts: agree=2, disagree=0, funny=0
+
+Workload:
+About 10 homework assignments. Half programming, half written problems from the textbook. Programming homeworks significantly harder than written, both scored on accuracy and grading can be a little pedantic depending on your TA but you can also request a regrade quite easily.
+One midterm and a final.
+
+Review content:
+If you have a decent amount of experience programming, this class will probably be a breeze but pay attention to the minutia of how Java works and especially to the hardware and theory lectures.
+If you've never programmed before, this is the class to start with. It might be rough, but pay attention and practice and you will succeed. There will be a temptation to slack off during lectures because you will have your laptop open and sometimes the content can seem a little slow. Do not do this.
+Paul Blaer is a lovely, hilarious, clear, concise, friendly, loud guy and an incredible teacher.
+
+--------------------------------------------------------------------------------
+
+Review 50
+Review ID: 81763
+Submission date: 2020-01-05T09:07:31
+Course: COMS W3134 - Data Structures in Java
+Rating: 5/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+Homework: ~every 2 weeks. Had a coding component & written component. Most are not too bad & the first couple are pretty easy. A lot are pretty complicated & take some time, so I highly recommend going to office hours. Blaer said back when he took the class they took him ~24+ hours each to complete & I think that's pretty accurate.
+
+Exams: Midterm (moderately difficult, but curved a lot), and final (pretty similar to midterm). They're kinda similar to the homeworks & blaer gives lots of hints to questions in class ;)
+
+Review content:
+LOVE Paul Blaer!! Hands down my favorite Professor at Columbia so far. He is such a good teacher & amazing at explaining concepts. He is also incredibly nice & just a really genuine, down to earth person. 
+
+As for the class itself: I loved it as well & was definitely one of my favorite classes at Columbia so far. I had actually not done any programming in Java for a few years, because I had taken AP CS in high school & skipped 1004, so it took me a bit of time to adjust and remember/relearn some things. The class was definitely challenging, but not too much and in a good way I think. I really learned a lot from the class & fell in love with CS again (I wasn't a CS major going into the class, but I am now). 
+
+The TAs were also super super helpful & I highly recommend going to office hours to work on the assignments/study for tests (it's so much harder on your own trust me), and there are so many TAs so there are office hours like literally all the time which is so nice. 
+
+This class is required for the CS major & minor, but I'd honestly recommend taking it even if you aren't majoring/minoring in CS. I would also highly recommend taking it when Blaer is teaching,if possible (he's like 1000x better than the other profs who teach it).
+
+--------------------------------------------------------------------------------
+
+Review 51
+Review ID: 81547
+Submission date: 2019-11-12T18:12:26
+Course: COMS W1004 - Introduction to Computer Science in Java
+Rating: 5/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+About one programming or writing assignment a week. --> a couple hours of work at most
+1 midterm
+1 final
+
+Review content:
+A witty, intelligent, and entertaining professor. He talks a bit fast at times but is always willing to repeat what he said if you ask. Assignments aren't too difficult but might take some time if you're 100% new to CS. If he hears people talking while he's lecturing he will ask what they are talking about or if a part of a song accidentally plays aloud he will ask what song it was – those moments definitely add some excitement to class. All in all a good teacher he seems to genuinely want to help his students succeed. Note: He gives out many A- but As are quite difficult to get.
+
+--------------------------------------------------------------------------------
+
+Review 52
+Review ID: 81481
+Submission date: 2019-07-16T02:56:35
+Course: COMS W3134 - Data Structures in Java
+Rating: 5/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+Will be highly variable depending on your background, but if you are already comfortable with Java then none of the homeworks are that time consuming.
+
+Review content:
+One of the best professors at Columbia hands down. The material is non-trivial but he makes it a breeze with great lectures and a generally well organized course. Blaer is also very approachable if you happen to have questions in office hours.
+
+Many people will take this as a required course, but even for non-CS majors I'd highly recommend.
+
+--------------------------------------------------------------------------------
+
+Review 53
+Review ID: 80920
+Submission date: 2018-08-09T20:27:33
+Course: COMS W3134 - Data Structures in Java
+Rating: 5/5
+Feedback counts: agree=15, disagree=2, funny=7
+
+Workload:
+A bit heavier since you have to do the readings to understand the material better
+
+Review content:
+Blaer is one of the best professors I ever had (and probably will ever have)!!! He is a well-organized lecturer and delivers the material in a very clear and succinct way. After taking this class, I decide to pursue CS further - one of the best course I have taken and my favorite class. 20/10 recommend!
+
+--------------------------------------------------------------------------------
+
+Review 54
+Review ID: 80651
+Submission date: 2018-02-01T03:16:36
+Course: COMS W3134 - Data Structures in Java
+Rating: 5/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+5 hw, mid term, and final
+
+Review content:
+By far the best professor I ever had. He speaks loudly and clear with a touch of wit. Most importantly, however, professor Blear knows how to explain the crap out of everything. I never walked out of his lecture asking myself, "What the hell was that?" 
+
+He has a way of explaining the most difficult topics so a 5-year-old could understand.
+
+Thank you, Professor Blear!
+
+--------------------------------------------------------------------------------
+
+Review 55
+Review ID: 80196
+Submission date: 2017-09-06T18:24:45
+Course: COMS W3134 - Data Structures in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+Medium-heavy to heavy.
+
+Review content:
+Great professor. As mentioned above, literally Hagrid. Has a booming voice that is easy to understand. Homework assignments are tough but fair. Exams are similar. Will not try to confuse you; go to class, read the book, and you'll be prepared for the exams.
+
+--------------------------------------------------------------------------------
+
+Review 56
+Review ID: 79864
+Submission date: 2017-04-03T17:25:45
+Course: COMS W3134 - Data Structures in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+just about enough
+
+Review content:
+Literally hagrid. 
+11/10 prof
+
+--------------------------------------------------------------------------------
+
+Review 57
+Review ID: 79241
+Submission date: 2016-05-27T17:23:50
+Course: COMS W3134 - Data Structures in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+Don't expect it to be easy. Consider Blaer's courses as the main stakes underpinning the rest of your schedule (perhaps, along with one other mainstay/major course, e.g., Discrete Mathematics).
+
+Review content:
+Prof. Blaer really reached out to me in a personal way to make both Intro to CS and Data Structures meaningful courses for me. Blaer is an expert in the field of computer science (also, has special interests in robotics programming), speaks [loudly and] clearly during lectures, has a dry but relatable sense of humor, and is generally an approachable friendly human.  
+
+tl;dr I highly recommend Blaer for CS major courses: 'Introduction to CS in Java' and 'Data Structures in Java'.
+
+--------------------------------------------------------------------------------
+
+Review 58
+Review ID: 79213
+Submission date: 2016-05-21T16:07:41
+Course: COMS W3139 - Honors Data Structures and Algorithms
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+6 homeworks, lowest dropped. 2 exams.
+
+Review content:
+A standard introductory data structures class. Professor Blaer is pretty good, although his proofs could be a little more rigorous. The class felt slow to me, but maybe it was the right speed for an introductory class. The "Honors" nature of this class consisted of learning a little bit of Ocaml, which was interesting.
+
+My one complaint is the textbook: Weiss Data Structures and Algorithm Analysis in Java. It is a expensive and terrible book. Both the code and the proofs are lacking.
+
+The homeworks were easy, easier than the ones in 1007. The exams were fine.
+
+--------------------------------------------------------------------------------
+
+Review 59
+Review ID: 79127
+Submission date: 2016-05-09T23:28:54
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+10 total homeworks (half programming and half written problems) which often took quite a few hours, midterm and final
+
+Review content:
+I came into this class having taken a basic programming course in high school.  It wasn't completely a breeze, but very doable and I came through with an A.  With such a basic CS course, there is a lot of information out there if you get lost, and you should utilize it.  The book is very useful, office hours are a big help, there are many resources online, and other students can be helpful with the homeworks if you don't know where to start.  Blaer is a great professor - entertaining, funny, and makes things very clear even when they're difficult concepts to grasp.  Having taken 1004 and 3134 with him, I'm sad to not have him as a professor next semester.
+
+Make sure that you read the book and get help early if you think you might need it - the concepts you'll learn build on each other so it's important to not get lost or it will take a while to get back on track (same with all CS courses, IMO).  If you're new to CS, expect a struggle in the beginning since the most basic concepts are covered pretty quickly, but it will get easier for sure.
+
+Get started on the homework as early as you can and things will go well!
+
+--------------------------------------------------------------------------------
+
+Review 60
+Review ID: 78974
+Submission date: 2016-03-27T23:04:01
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+11 Problem Sets - varied with just programming, some written, all written, etc. (1 was dropped)
+1 Midterm - avg of 106/150 so great curve
+Final
+
+Review content:
+If you have no experience with Java, it's OK. The world is not going to end, but it won't be easy neither. I'm not a fan of reading but Big Java, Late Objects is one of the best books out there to learn Java. I gave my full attention to Blaer, but sometimes I would wonder off. But, it always came to taking some time to read the book and get the hang of it. Some of the answers of the Problem Sets are in the book itself. It's really important and useful that you read the book. Going to recitation doesn't make that much of a difference, unless you want to ask a question. And then again, they may even not answer them, but tell you to wait until Office Hours, since you're not the only one there. 
+
+I had no experience with Java, got an A on the course. I am tech-savy, but it doesn't mean it's not achievable. Once you get the hang of it its pretty awesome! I do recommend taking the course with Paul. He is very funny and very lenient (we got our homework deadline extended like 3 times during the course). 
+
+The problems sets are not that hard. Just make sure you take notes during class so that you can do your homework with them.
+Not an "easy A", but its not impossible to get an A.
+
+--------------------------------------------------------------------------------
+
+Review 61
+Review ID: 78828
+Submission date: 2015-06-17T03:51:51
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+10 problem sets, half written/half programming. Takes some time.
+Midterm 
+Final
+
+Review content:
+tl;dr: This isn't a easy class if you have no compsci experience. However, if you insist on learning Java, Blaer's the best class to take. Problem sets are a bit of a struggle, exams are reasonable.
+
+Blaer's a fun guy. He's down-to-earth and isn't pretentious. Expect a lot of tangential stories though. There are a lot of TAs, and they're for the most part helpful. Recitation is usually staged more of an OH though, they take questions & don't really have a set plan. You must go to the first recitation--that's when they go through how to set up pico so you can actually code, and it's a million times easier seeing them do it in front of you than trying to read the tutorial.
+
+If you're like me and go into the class w/o knowing any compsci, you're going to spend the first few classes going "what the FUCK is going on." Be good about reviewing notes and reading the textbook though (and doing a lot of googling), and eventually you'll catch up.
+
+Before each exam he'll usually go over what will be tested. Make sure to go to at least one of the TA's review sessions--they'll usually cover something a little more comprehensively than Blaer. Exams are decent. Often I just read & reread the textbook and that was enough. The final covered way more content, but to make up for it it was also easier. 
+
+Also, use Piazza religiously. Questions are almost immediately answered and any question you might have will probably already be up there.
+
+An A is definitely doable, no matter your past experience; you're going to have to put in some work & effort though.
+
+--------------------------------------------------------------------------------
+
+Review 62
+Review ID: 78676
+Submission date: 2015-05-14T00:21:24
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+10 total homeworks, half programming and half written problems (basically one a week). Both are challenging, although the relatively diffictulty from one assignment to the next varies greatly. Allow yourself the time to fully explore them. Recitations are largely unnecessary/extra. One midterm, one final.
+
+Review content:
+If you have previous experience in coding, you most likely will not have trouble with this class. If this is your very first exposure to computer science, be forewarned that this is a challenging class. It will be much more rigorous than most likely any other introductory course in other fields. That being said, if you put in the effort, this class is very doable. You will be spending hours studying, as it requires learning both a language (java) and a general science (CS theory). If you do you not intend to be a computer science major, I would suggest taking a different course that involves coding (like a applications course that teaches Python with another subject, or a coding course for nonmajors). If you do take this course, be prepared to do a lot of googling & research on your own to figure out how Java works. It would really help you to do some basic tutorials to get the gist of it before you head into the first lecture. 
+
+Blaer is an excellent professor, and his explanatory style is very clear and concise. He gets very distracted in his lectures, and it's pretty hilarious and adorable--which always made them a pleasure to attend. His expectations for tests and homeworks are always very clear. He does, however, have a tendency to underemphasize how difficult/important topics will be. For example, when listing topics to go over on test, if he mentions something in passing, you should know it pretty much backwards and forwards. Another example, the second to last homework we used a hashmaps, FileReaders, and PrinterWriters--all of which he probably talked about for like two seconds and never explained. 
+
+Additionally, the TAs are beautiful, wonderful human beings. James Lin the head TA/(and I quote) "aspiring Little League Coach" is the best thing to happen to 1004 probably ever, and he was very encouraging and generally super kind in all his emails and communications. They are all very helpful, just be sure to find one who you get along with and remember their office hours (there are like a 11 TAs, and like always office hours). Piazza is also a great resource, with under 15 min response times. Usually all of my questions were already answered there before I even needed to ask anyone.
+
+--------------------------------------------------------------------------------
+
+Review 63
+Review ID: 78662
+Submission date: 2015-05-13T02:59:31
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+1 midterm 1 final ~9 homework assignments
+
+Review content:
+Definitely take this class. Blaer is incredible and hilarious. You don't really need to go to the lectures to understand this, especially because the book does a great job of explaining it but its good to go just to hear Blaer talk. The class is not too difficult and is a great introduction to Java, very interesting and I learned a lot. If you are on the fence about it you should for sure take the class.
+
+The homework assignments can be challenging sometimes but he gives you a ton of time to do them and there are so many TA's for this class that it makes everything very doable.
+
+--------------------------------------------------------------------------------
+
+Review 64
+Review ID: 78250
+Submission date: 2015-01-05T04:59:10
+Course: COMS W3134 - Data Structures in Java
+Rating: 3/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+6 HW Assignments, top 5 counted. (50%)
+Midterm Exam (20%)
+Final Exam (30%)
+
+Review content:
+Professor Blaer is a great instructor. He is clear, able to command a large lecture hall without much trouble, and able to explain concepts in a fairly simple manner. I honestly don't understand why some people chose not to attend this class because I found the book to be average at explaining concepts, while I found Professor Blaer to be exceptional at explaining the material. I rarely referred to the book after his lectures because I either understood the material from his lecture, or was able to understand is after digesting my notes. I think this is a sign of a great teacher. 
+
+Even in a 200+ person class, Blaer was able to captivate the room with his large voice and abundant personality. In addition, he managed to encourage student participation, which kept the class interactive and engaging. In addition, occasionally, Professor Blaer would drive home the importance of a particular concept with a story about his research, which usually involved a hilarious and catastrophic ending involving multi-ton robots ramming into buildings or almost running people over. 
+
+Professor Blaer's exams are fairly straightforward and he essentially tells you about 50% of the exam, so these are fairly low stress endeavors. I found the final harder than the midterm, but still fairly straightforward. Not much to worry about here. 
+
+My only complaint with Professor Blaer is an organizational complaint. He would usually claim he would post the HW by a certain date and note post it till 3 or 4 days afterwards. He also granted classwide extensions in unecesarry situations which made the last HW assigned and due during reading week, which was poor planning on his part. Lastly, I feel that the first 15 minutes of class, where students as clarification questions on the HW, is a waste of time. If he wrote his questions in a less ambiguous manner, and used this class time to teach more material, that would be more efficient. Apart from those organization things, I can't complain about this professor. I would recommend his class to anyone in a heartbeat.
+
+--------------------------------------------------------------------------------
+
+Review 65
+Review ID: 73369
+Submission date: 2014-12-19T15:39:05
+Course: COMS W3134 - Data Structures in Java
+Rating: 3/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+Homework: 50%
+Combination of both written exercises from Weiss's Data Structures in Java and programming projects. DO NOT PROCRASTINATE! Due every 2-2.5 weeks. Total of about 5-6 homework assignments (there were six this semester, but he only took the top 5 scores - the last was somewhat optional)
+
+Midterm: 20%
+Unlike the multiple-choice exams in 1004, the exams either require you to write a short answer, pseudocode, a short Java method, or walk through an algorithm (e.g. Dijkstra's) step-by-step. If you pay attention in class and study your notes/book, there should be no surprises.
+
+Final: 30%
+Similar to midterm, except longer.
+
+Review content:
+Paul Blaer is an excellent professor. His lectures are generally very clear and straightforward. Don't hesitate to ask questions if you don't understand something, since he is very good at answering questions both in-class and through emails. Occasionally he'll tell a few stories about his research. Overall, a cool and funny guy who definitely deserves the nugget.
+
+The learning curve might be a bit steep in the beginning (it wasn't too bad for me, but some of my peers thought it was), but once you can get over that initial hump everything works itself out. Just be sure to start early on the programming assignments or you will have a terrible time (no joke). In contrast to the 1004 TAs, it seemed that the 3134 TAs were more lenient on the style of the code - if the code works, you get a 100% regardless of how ugly your code looks.
+
+TL;DR Excellent class. If you put in the work and pay attention in class, you will do well.
+
+Reviewer's grade: A
+
+--------------------------------------------------------------------------------
+
+Review 66
+Review ID: 29745
+Submission date: 2014-09-06T20:44:59
+Course: COMS W3134 - Data Structures in Java
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+See reviews below.
+
+Review content:
+Took course over the summer. Very solid instructor, lectures were clear. Managed to make 3 hours of lecture bearable. Assignments really helped understand the material and were time-consuming, challenging, but not unmanageable. The reviews below apply.
+
+Why am I reviewing then, if what I've said above has already been said before? If you are taking THE SUMMER COURSE, expect to receive your final grade VERY LATE compared to the usual standards. Class ended in mid-August, and I received my grade early September, about 3-4 weeks after the end of the course. 
+
+When I took Intro to MATlab with him during the year a long time ago, grading timeliness was never an issue at all, so I'm not sure where the disconnect lies.
+
+--------------------------------------------------------------------------------
+
+Review 67
+Review ID: 29625
+Submission date: 2014-06-08T06:56:09
+Course: COMS W3137 - Data Structures and Algorithms
+Rating: 4/5
+Feedback counts: agree=0, disagree=1, funny=0
+
+Workload:
+heavy
+
+Review content:
+One of the best and most helpful professors I've ever had. His class is not easy, but if you can get through his class you'll make it through cs. He presents the material clearly. Keeps the class engaged with humor while not coming across as a goofball. 
+
+Do the assignments, don't expect perfection and read the text. Start early you won't finish projects if you start the night before. Recursion, writing compression and encryption algorithms, red/black trees, definitely a gateway to the more heavy duty programming classes. Much harder than the intro to cs classes. If you tap out of cs this is where you'll probably do it. But you shouldn't Prof. Blaer is very helpful. It might not necessarily lead to a high-flying gpa but its a great class to put on the books.
+
+--------------------------------------------------------------------------------
+
+Review 68
+Review ID: 28457
+Submission date: 2013-05-24T21:07:24
+Course: COMS W1005 - Intro to Computer Science- Programming in MATLAB
+Rating: 3/5
+Feedback counts: agree=9, disagree=0, funny=0
+
+Workload:
+6 Problem sets (1 dropped)
+1 Midterm
+1 Final
+Overall not too bad at all. Completely do-able.
+
+Review content:
+Best professor I've run into at Columbia so far. 
+
+About me: Took AP Comp Sci in High School, had Art of Engineering the previous semester so I knew some rudimentary Matlab. 
+
+I found his lectures really clear and if you take good notes you shouldn't find anything a surprise in the midterm or final. Also he uploads the things he ran in Matlab at the end of lecture so you see what you kinda covered during the lecture. Definitely go to class. 
+
+No textbook required: i managed without it. You can also find a lot of the things on the Matlab website. 
+
+Workload: He has 6 problem sets and drops one. You should not wait until the day before its due because some will take a bit of time. Start early and do a little each day and workload isn't bad at all. Also, he often extends the due date for things which is always a plus for you procrastinators but don't try to rely on that. 
+
+Exams: He reviews what will be on it and reviews the exam after. 
+
+Exams go for "breadth rather than depth." Exams weren't too difficult at all. You shouldn't have an awful time. He's also quite friendly and approachable. I found he answers emails in an appropriate amount of time. 
+
+Overall I recommend this professor!
+
+--------------------------------------------------------------------------------
+
+Review 69
+Review ID: 28411
+Submission date: 2013-05-20T21:07:01
+Course: COMS W1005 - Intro to Computer Science- Programming in MATLAB
+Rating: 3/5
+Feedback counts: agree=2, disagree=0, funny=0
+
+Workload:
+5 homeworks, each about 2 weeks to do, 6th homework is extra credit (a one question assignment involving GUIS). The first homework is super easy, average is 100. HW 3 and 4 are pretty hard, certain problems can take you a few hours to solve. Nothing too serious though.
+1 midterm that's after spring break. Pretty hard, 150 points, 90 is curved to B+, ~120 for an A.
+1 final, easier than midterm, 250 points.
+I got an A without too much stress, and you can too.
+
+Review content:
+I took this class having little prior programming experience, having only learned a bit of MATLAB in Art of Engineering. For SEAS and particularly BME students who are required to take this class, having the background in MATLAB from AoE is pretty useful and allows you to slide through the first couple of weeks easily. However, as the class progresses you start discussing Big O notation, structs, object oriented programming, functions like varargin and varargout, and recursion, which were not mentioned in AoE but are really useful to know and require some more time. Later in the course when Blaer talks about histogramming images, you can again use some of the code you wrote in AoE in the homework for this class. Anyway, Blaer is a great professor. He's easily approachable immediately after class or in his office hours. Blaer holds review sessions before the midterm and final, which are really helpful. He tells you what he's going to test over, explains challenging concepts, and in some cases tells you the exact questions. The best advice I can give is to go to class, because Blaer's teaching really clarifies the concepts asked about in the homework. Often you will be able to modify code he wrote in class to solve homework problems. Furthermore, nobody usually goes to TA office hours, but they're really helpful if you're having trouble with a particular problem on the homework, even if you have to go to the crowded Comp. Sci. lounge to utilize them. 
+
+Other notes:
+*You don't need the textbook for this class. Just take good class notes or get them from someone else. Blaer also posts all the code he writes on his website. 
+*Also, you don't need any calculus for this course, but any coding experience will help.
+*Just go to class. It makes everything easier... Blaer always asks if people have questions at the beginning of class.
+*Blaer also tells funny stories about things like cat whiskers and building robots, another reason to attend class.
+
+--------------------------------------------------------------------------------
+
+Review 70
+Review ID: 27561
+Submission date: 2012-09-28T19:07:20
+Course: COMS W1007 - Object-Oriented Programming and Design in Java
+Rating: 3/5
+Feedback counts: agree=6, disagree=1, funny=2
+
+Workload:
+The workload consisted of four homework assignments (worth 50% of the grade), one midterm exam (average ~79 - and worth 20% of the grade), and one final exam that was said to be worth 30% of the grade, but most people are wondering if he ever graded/counted it, and the average was undisclosed.  The assignments were fair in their content, but they were timed pretty poorly, such that the last one was due the midnight before the final exam.
+
+Review content:
+I'm optimistically assuming that the computer science department has the sense to never let Professor Blaer teach this class again, in which case this review doesn't really serve much of a purpose.  However, given the finite probability that computer science continues to show the lack of judgment that they showed in allowing him to teach COMS 1007 this past summer, I feel justified in writing this review.
+
+I just got reminded this morning that I took COMS 1007 with Professor Blaer this past summer when I got an email that my grade arrived.  The date of the final exam was Thursday August 9th.  I had been checking Courseworks weekly since the end of the course, and this is the first time that I saw the grades posted for assignments 3-4.  I am currently enrolled in COMS 3137 and have completed the first two assignments prior to receiving my grades for the last two assignments and my final grade from COMS 1007.  There is still no grade posted on Courseworks for the final exam, and given that combined with the discrepancy between how well I did in the course and how poorly I felt I did on the final, I'm wondering if he even graded and/or counted the final exam.  This might sound like an outlandish accusation, but the classmates who I've talked to are  all speculating the same idea.  
+
+Professor Blaer told us during the final lecture, on Tuesday August 7th, that he was setting the following Monday as the grading deadline for the TAs, and therefore that we should expect to know our final grades by the Tuesday of that week.  We were never contacted with notification of any delay.  At first I thought it was just me when my grade wasn't posted all summer, but then I got to COMS 3137 and found that several of my classmates who were in the summer class had not received their grades either, and we all had contacted him several times via email, telephone, and direct office visits.  Professor Blaer didn't respond to most of the emails or telephone calls, and he wasn't in his office when most people arrived.  However, whenever one of us did hear from him, he said that the grades would be up "by the end of the day."  
+
+The lack of feedback and organization in this class was representative of the fact that the concern for students' learning was absent, which is a shame.  After all, isn't that the point of any class?  Professor Blaer's lectures were fine.  They weren't amazing, but they were fine.  However, in teaching a class in computer science, organization and feedback are at least as important as the lectures.  I'm my personal opinion, they're far more important because most of the true learning comes from working through and receiving feedback on assignments.
+
+--------------------------------------------------------------------------------
+
+Review 71
+Review ID: 27498
+Submission date: 2012-08-12T21:45:26
+Course: COMS W1007 - Object-Oriented Programming and Design in Java
+Rating: 3/5
+Feedback counts: agree=5, disagree=0, funny=0
+
+Workload:
+The grade was calculated with the following weights: 50% Homework Assignments (of which there were four), 20% Midterm Exam, 30% Final Exam.
+
+Review content:
+I honestly wanted to like this class, and expected to after reading several positive reviews.  Maybe there is an inherent flaw in teaching a class like this during the summer, but I suspect that the fatal flaw of this class was that it wasn't well planned.  Nonetheless, as I read the other reviews of Professor Blaer, I am suspecting that he might be better at implementing a course during the fall or spring than during the summer.  
+
+It seemed that this entire class was planned as an afterthought, and the class seemed to operate under principles that I previously thought violated those of learning computer science.  I thought computer science was about thoroughly understanding concepts and creatively applying them to solving problems.  I also thought that lectures were a supplementary feature to the learning process, and that the most important part of the learning came when working through assignments.  Finally, I was under the impression that computer science is a subject one couldn't cram for, and the way to learn is through practice.  I'm hoping that I was right about all this, and that the only reason I am questioning it now is due to the faulty implementation of this course.
+
+I went into this class with the expectation exams should be doable if one is able to figure out the homework assignments on your own.  After all, the purpose of said exams are to ensure that people truly understand the material and don't get rewarded with a top grade for getting through the assignments without fully understanding them (for example, by getting excessive TA help or copying from other students).  However, that really wasn't the case in this course.  The exams tested concepts and syntax that were not covered in the assignments, or that were covered in assignments that weren't assigned until after the exam.  (For example, the first time we were ever asked to write a program using anonymous classes was during the midterm exam.  These is nothing inherently difficult about using anonymous classes in Java, as it is just a quirky syntax to get used to.  However, this straightforward exam problem was significantly more challenging due to the fact that we had never been asked to implement an anonymous class on the computer prior to the exam.)  To be fair, he did teach the concepts in lecture, but it is very difficult (for most people) to learn computer science enough to quickly apply it exclusively through lectures.  
+
+Another expectation I had in taking a computer science class over the summer was that I'd be drinking from the fire hose.  I thought I'd be working hard and losing sleep to finish assignments on time.  The only time I truly found myself working hard and losing sleep to get the task done in the time allotted was when cramming for exams.  
+
+There were only four homework assignments, each of which consisted of a written portion and a programming portion.  The content of these assignments was fair.  They were time consuming (except for the first one), but completely reasonable in scope.  Nothing we were required to do went beyond the concepts discussed in class, yet I still found myself learning a good deal while working through these assignments.  That being said, I would've liked another assignment or two in order to thoroughly learn the material that was covered on exams but not on the projects, as well as to lessen the weight of each assignment on our grade.  Moreover, he extended the deadline for every assignment, which was great for the students who procrastinated.  However, for those of us who started the assignments when they were released, these extensions were more of a punishment because they were often granted after we had already allocated significant time to completing the assignment prior to the original deadline.  Further, he did not make the new assignment available until the extended due date of the previous one (despite promising to make them available earlier on a few occasions).  Due to the poor timing of assignments, the final assignments ended up being due the midnight prior to the final exam.  
+
+Feedback was another story.  Initially there was a single grader for the class, and as a result we did not receive feedback on the first homework assignment until the middle of the fourth week of class.  At that point, a new grader was hired.  The class ended last night and we have currently received feedback on two of our four homework assignments.  It also took two weeks to hand back the midterm exam in class.  To be fair, the instructor admitted that the lack of TA help was a problem the course was facing.  However, these delays were more than just annoying: they caused many students to be penalized multiple times for the same mistake.
+
+Lectures largely consisted of presentation of the textbook author's slides, from the book "Object-Oriented Design and Patterns" by Cay Horstmann, and occasionally he'd present additional examples of his own.  These lectures were fine, but not exactly easy to pay attention to for three hours.  Easy or not, paying attention was important, as many points he made during lecture had a tendency to show up on exams despite not appearing in the assignments nor being emphasized in the textbook.  When the instructor presented his own code, there was often a several day delay between the presentation of the code and the uploading of this code to the course website, which made at least one of the assignments much more difficult than it needed to be.  
+
+If you are planning to take this offering in the future, make sure you are very confident in your ability to learn computer science quickly and without much practice.  Otherwise, you will probably be sensitive to the problems with the course.
+
+--------------------------------------------------------------------------------
+
+Review 72
+Review ID: 26950
+Submission date: 2012-01-18T20:32:13
+Course: COMS W1005 - Intro to Computer Science- Programming in MATLAB
+Rating: 3/5
+Feedback counts: agree=2, disagree=3, funny=3
+
+Workload:
+5 homeworks: you have 2 weeks to complete them, but don't full yourself and start early. They tend to take a lot of you time. By a lot, I mean more than 15 hours in total for each homework.
+1 midterm. Easier than home works, but it doesn't change a fact that questions are connected and if you were wrong in first question, you can't be wright for the following 5. Though, have to addmit you do get a partial credit.
+1 final. Extremely long, and has lots of easy questions that you wouldn't expect, so do yourself a favor and review everything.
+
+Review content:
+When I registered for MATLAB class, I was inspired by good reviews on Culpa. However, in my experience not all of them turned to be true. 
+If you are really new to programming, there is no way you can get an easy A in this class. Though, you will not fail if you show your effort. Pr. Blaer is relativly an easy grader, but he grades only part of midterm and final, TAs do the rest. So go to his office hours and make sure he remembers your face out of other 100 people. 
+I am in no way saying it to discourage you, I learned a great deal in this class. However, even after putting increadible amount of time and effort, I can't say "I can programm now". 
+Peace of advise, do yourself a favor and find homeworks from previous semesters or keep a friend who knows programming,then you easily will be close to the high average of 84%. 
+I think problem is in description of this course that has no prerequisites and "assume no prior knowledge in programming", you need to know a great deal of Calculus and MUST understand basic programming for this class.
+Good luck!
+
+--------------------------------------------------------------------------------
+
+Review 73
+Review ID: 26156
+Submission date: 2011-05-23T05:21:15
+Course: COMS W1007 - Object-Oriented Programming and Design in Java
+Rating: 3/5
+Feedback counts: agree=4, disagree=3, funny=0
+
+Workload:
+5 homeworks (2 weeks to do each, with 1 that we had probably like a month to do and one that we had like 1 week). They are really doable, especially if you have friends who know programming/people in the class who get the hw/if you go to office hours/if you ask the TAs over e-mail.
+
+Review content:
+Most teacher I've had at this school thus far have been subpar (*SHITTY*). Blaer is very interesting and funny! He makes everything very understandable and the TAs are very accessible over e-mail. If you get how to do the homeworks you should have a good grasp of everything. The homeworks can take a bit, but they aren't intimidating. Seriously, just pay attention in class and write down everything he says. Should be an easy A if you dedicate some work to it!
+
+Blaer was awesome! It feels so weird that I can actually do programming! WA THE FUUUUH?!
+
+--------------------------------------------------------------------------------
+
+Review 74
+Review ID: 25247
+Submission date: 2010-12-27T06:31:54
+Course: COMS W3137 - Data Structures and Algorithms
+Rating: 4/5
+Feedback counts: agree=6, disagree=0, funny=0
+
+Workload:
+6 homework assignments, which involved theory and programming. The lowest was dropped. 
+
+Midterm and final were straightforward and easy as long as you made sure you not only understood, but could also run through each algorithm given some data and know its big-oh.
+
+Review content:
+Most of what I have to say about this class has been said: Blaer is a smart and funny teacher who does a great job explaining abstract concepts and making sure you understand them. He's accessible and fun to talk to, especially if you find him during office hours and/or not surrounded by a hoard of undergrads. He also has an amazing twitter that isn't updated often enough. You can google it easily. 
+
+Not sure what happened during my semester of 3137, but it seems like we had less GUI than previous classes. If that's just an anomaly, then, er, too bad... but I thought I would give CULPA a head's up, since it was a big source of pain and anguish for most of the reviewers below. 
+
+In other words, take this class with Blaer!
+
+--------------------------------------------------------------------------------
+
+Review 75
+Review ID: 24496
+Submission date: 2010-05-19T15:43:13
+Course: COMS W3137 - Data Structures and Algorithms
+Rating: 4/5
+Feedback counts: agree=12, disagree=0, funny=1
+
+Workload:
+On par with what you'd expect from this course. 5 homework assignments, one dropped (although from the way he talked about it in class, dropping a HW may not be the norm). Each assignment took around 10 hours, no more than 20 hours (may vary by your level of GUI expertise--I've done GUI before, but I'm definitely no expert). The midterm and final were very similar. They consisted of general theory questions, some coding, and some applications of data structures--fairly easy, especially if you studied.
+
+Review content:
+Paul Blaer is one of the best professors I've had at Columbia. His ability to clearly present course material and actually make you learn something is unparalleled. His lectures are very straightforward and well-paced. He will essentially analyze and go through each data structure/algorithm step-by-step, making sure the class is with him as he goes along. He's also a pretty funny guy and will sometimes go on tangents, but they were always CS-related and will be interesting and beneficial to you if you are a CS major (i.e., go to lecture! You don't know what you'll miss). He is a very accessible guy and friendly one-on-one, so although he's intimidating at first, don't be afraid to go to office hours or ask questions in class. A misguided reviewer for this course will have you believe that taking AP Computer Science AB will make this course a breeze. This is NOT the case. I have taken the AB course and I still learned a wealth of information from Blaer, not to mention that most of the material after the midterm was not covered in AB, including perhaps the most important topic, graph theory.
+
+Each homework assignment is divided into two parts: theory and programming. People I know in this class complained about the GUI. Yes, there is a lot of GUI, so be prepared--in fact, I'd say the GUI is about 50% of each programming assignment, which isn't necessarily a good thing, but it probably builds character or something. However, they tend to be fairly simple, such as drawing dots on a grid or drawing binary trees (protip: if you abstract your first tree GUI interface well enough, you can reuse it later on for at least one more assignment). However, there is just as much theory as there is GUI, and the theory is much more challenging than simply looking up how a JComponent works. Most theory questions are taken from the book and definitely require a bit of thought before you arrive at a solution. 
+
+Overall, if you have the option of taking this course with Blaer, don't wait. Take it with him. You'll learn data structures, you'll learn algorithms, you'll probably write some painful GUI code that you don't want to, but you'll come away a better computer science student.
+
+--------------------------------------------------------------------------------
+
+Review 76
+Review ID: 24422
+Submission date: 2010-05-16T20:52:33
+Course: COMS W3137 - Data Structures and Algorithms
+Rating: 2/5
+Feedback counts: agree=12, disagree=9, funny=0
+
+Workload:
+Five homework assignments, lowest dropped. A midterm and final around the difficulty of the homework assignments.
+
+Review content:
+This course is more aptly titled "COMS W3137: Java GUI and Data Structures," because really, data structures weren't as prominent as the name of the course suggests. Overall, a terrible experience that I'm glad I'm over with. 
+
+Prof. Blaer, in his lecturing ability, isn't to blame for why I hated this class so much. He's very clear in explaining the material and a funny guy overall. He was able to keep me awake even after I pulled an all-nighter working on the first assignment (see below).
+
+The material is too sparse to deserve an entire semester. For anyone who has taken AP Computer Science AB (not me, and for future CULPA readers, I guess not you, either), the actual data structures covered would already be second-nature, and the associated algorithms would be simple. I stopped going to lectures really early on in the semester since each week covered only roughly five pages of the textbook. 
+
+The homeworks were absolutely ridiculous. Most of the programming in the homework assignments didn't involve implementing the data structures (instead, we were just allowed to steal the source code from the textbook's website), but instead revolved around Java GUIs. All but one of the assignments had uninteresting programs for us to code (unsurprisingly, that exception was the one that involved the least fiddling around with GUIs) and in general took quite awhile of experimentation. Furthermore, the TAs were incredibly slow at grading the assignments. The 60-odd people's assignments were divided among four TAs (the remaining TA was solely recitation instructor) but would take somewhere between 3-4 weeks to get back to you. Of course, you could just say, "oh, each assignment takes a long time to grade," but the fact that they managed to grade all the exams within six hours after the midterm demonstrates that they can grade quickly, but simply choose not to. 
+
+On the bright side, code didn't have to be as strictly formatted and documented as it did in 1007... and... I'm done with this course! (and I pity all you future CS majors that have to take this class)
+
+--------------------------------------------------------------------------------
+
+Review 77
+Review ID: 23628
+Submission date: 2009-12-26T02:08:16
+Course: COMS W1005 - Intro to Computer Science- Programming in MATLAB
+Rating: 3/5
+Feedback counts: agree=7, disagree=5, funny=1
+
+Workload:
+~6 psets, first and last are really easy
+1 midterm
+1 final
+
+the homeworks are tough, but you have 2 weeks to do them
+the tests are definitely doable, especially if you've gone to class and understand the logic behind writing code... 
+generally the tests are much simpler than homework problems... they're just ridiculously long.
+
+Review content:
+I'm no compsci genius, but an A in this class wouldn't have been much more trouble from the A- I got. 
+
+He's a really good teacher, and even though waking up to get to a 9 am lecture was hard... I learned something every time I went (and didn't fall asleep). He'll walk you through pretty much everything and is really nice if you have questions- he was probably one of the friendliest professors I've ever had. 
+
+Matlab itself isn't very hard, and there are TONS of resources on the internet to help you if you have trouble...
+
+In all I would definitely recommend this professor and this class. As long as you're resourceful and willing to put in a little bit of effort, this class will be a breeze.
+
+--------------------------------------------------------------------------------
+
+Review 78
+Review ID: 23487
+Submission date: 2009-12-16T23:57:06
+Course: COMS W1005 - Intro to Computer Science- Programming in MATLAB
+Rating: 3/5
+Feedback counts: agree=6, disagree=4, funny=4
+
+Workload:
+Six homeworks (upwards of 10 hours each, especially from #3 - #5, granted he does warn you) every two weeks or so. One midterm (generously curved, thank goodness) and one final (tomorrow, woo).
+
+Review content:
+I had never taken a comp sci course before, and let's just say it was rough. Homeworks took me roughly 10-15 hours to complete (boy did I hate the computer labs in Hartley and Mudd after this course), granted I usually did them the weekend before they were due, but it was painful. 
+
+Professor Blaer moves very quickly in his lectures, flipping back and forth between Editor and Workspace so it was often difficult to write down what he had typed before he switched windows. He would also go back into code and edit what he had originally to create a new example, easy to do on a computer but almost impossible to write down the whole code again with the change (usually very small but really important to his point) by hand before he switched back to the workspace. 
+ 
+I went to every lecture but got lost during histograms and plotting and never really recovered until the last homework. I still don't understand the whole image-histograms-plotting thing, which bodes well for the final tomorrow. An unfortunate fact about matlab; not many people take it unless they are comp sci majors or bme kids (or need to fill the comp sci requirement for seas like me), so help around campus is limited. 
+
+My advice? If you've never taken comp sci before then find yourself a study/homework buddy in either your class or as an upperclassmen who has taken matlab before. Go to lecture. Get used to the idea of spending hours at a time in the computer lab (bring a sweatshirt, it gets cold in mudd). If you get to a point in the homework where you just can't handle it anymore, it's ok to just turn it in (especially if it's past 3am). Ask for help if you've sat in front of the computer for more than an hour without making any progress. Seriously. It's not healthy.
+
+Good luck.
+
+--------------------------------------------------------------------------------
+
+Review 79
+Review ID: 23022
+Submission date: 2009-07-17T17:20:43
+Course: COMS W1007 - Object-Oriented Programming and Design in Java
+Rating: 3/5
+Feedback counts: agree=4, disagree=0, funny=0
+
+Workload:
+6 programming assignments, the first and last were somewhat easier than the middle ones.
+
+Review content:
+As one of those students NOT coming from a strong CS background, I just have to put it out there that each homework assignment took me roughly 10-15 hours to complete. As for Prof. Blaer, I thought the textbook was just as good a teacher as he was, since he mostly repeated what was in there with some additional reinforcement and examples. He is fairly accessible and does a decent job of presenting the material, but ultimately Java is something you learn mostly by yourself. I certainly learned a lot through the programming assignments. Overall I would recommend him just because he's so helpful and cares about the students doing well.
+
+--------------------------------------------------------------------------------
+
+Review 80
+Review ID: 22777
+Submission date: 2009-05-14T19:42:17
+Course: COMS W1007 - Object-Oriented Programming and Design in Java
+Rating: 4/5
+Feedback counts: agree=2, disagree=1, funny=0
+
+Workload:
+6 homework assignments, due every 2 weeks, that take 2-4 hours to complete if you have a good grasp of Java (and, I'm told, many more hours if you don't).
+
+1 midterm, 1 final, both fairly predictable and not too difficult.
+
+Review content:
+As one of the students that has "practically taken this course before" mentioned below, I should preface this review by noting that if you have any kind of Java experience beyond the AP CS AB level, you should really try to test out of it. I asked about skipping the class and was strongly discouraged by everybody in the department that I talked to; in the end, I think that was a mistake.
+
+That being said, a class that by all rights should have been an unbearable repetition of things I'd already taught myself turned out to be a reasonably good experience. Blaer is a really engaging lecturer and an all-around smart, friendly guy -- he was happy to entertain various questions I had about side projects totally unrelated to the course material, and is really accessible outside of class.
+
+The homework turns out to be enjoyable as well -- there's enough freedom and flexibility in the assignments, particularly the middle few, that you can have fun playing around within the constraints.
+
+All in all, I highly recommend Blaer (and would happily take any other course he teaches), but be wary of signing up for 1007 if you come from a CS background.
+
+--------------------------------------------------------------------------------
+
+Review 81
+Review ID: 22624
+Submission date: 2009-04-24T20:44:34
+Course: COMS W1007 - Object-Oriented Programming and Design in Java
+Rating: 4/5
+Feedback counts: agree=3, disagree=0, funny=0
+
+Workload:
+Watch out!  The biweekly assignments can easily run to 20+ hours, or even 30 hours.
+
+Review content:
+Professor Blaer seems to know anything and everything there is to know about the Java programming language, and practically lives and breathes CS.  He's always happy to explain the finer points of Computer Science to us.  His office hours, immediately after class, are held at an unusually convenient time for most students and even if it takes him more time than he thought it would, we rarely go away with our questions unanswered.  In addition to holding his posted office hours, he vigilantly monitors the course discussion board.  His board posts are essential (and appreciated) given the difficulty of his assignments.
+
+The 6 assignments can be quite time-intensive for people who are less than overqualified, including top students from the recommended prerequisite course (COMS W1004).  A substantial number of students have a much stronger background than this, and some have practically taken COMS W1007 beforehand.  These may be the people who would call the workload "not too bad."  The rest of us just get a lot of programming practice.  Fortunately, the grading and grading curve are generous.  The median grade is usually B+, and this semester it might be A-.  
+
+Lectures are understandable and thorough.  Professor Blaer sometimes talks so quickly that note taking becomes a bit difficult, but most of the material is from the textbook anyway.  The textbook, _Object-Oriented Design and Patterns_ by Cay Horstmann, explains concepts reasonably clearly but provides inexcusably buggy solutions to exercises.  Exams are long and information-intensive, but manageable if you've studied.
+
+Professor Blaer LOVES to make fun of students who procrastinate (he never singles out individual people but talks about Columbia students as a group).  He is also merciful toward those who do procrastinate, because of his liberal extension policy.  Sometimes he says things about the average student's level of organization (i.e. our lack thereof) that aren't true.  I hope his lectures get put on CVN because they are so good, but those parts are cut because they reflect badly on Columbia University and are a lie.  Most students are doing well this semester, and our organizational skills are one of the reasons. 
+
+I highly recommend this course, but only if a student has taken COMS W1004 or the equivalent beforehand.  Otherwise they might get buried in coursework.
+
+--------------------------------------------------------------------------------
+
+Review 82
+Review ID: 22108
+Submission date: 2009-01-05T10:44:23
+Course: COMS W1005 - Intro to Computer Science- Programming in MATLAB
+Rating: 4/5
+Feedback counts: agree=8, disagree=3, funny=1
+
+Workload:
+not much at all.  5 assignments throughout the semester, a midterm and a final that were pretty straightforward with a generous curve.
+
+Review content:
+Blaer is amazing! I was convinced that I would hate computer science and that I would probably do poorly in it.  Thinking that MATLAB would be a practical way for someone interested in research to fulfill the SEAS programming requirement, I was less than enthusiastic at first about the course.  However, Blaer made the course interesting and I loved it- probably my favorite course last semester.  I did the work (it wasn't that much) and got an A.  I highly recommend taking comp sci with paul blaer--he is engaging, funny, a really nice guy, and a great instructor to boot! I would consider being a cs major after this course (except of course that the fact that I am a sophomore and I took 1005 instead of 1004 makes this an impossibility).
+
+--------------------------------------------------------------------------------
+
+Review 83
+Review ID: 21139
+Submission date: 2008-04-16T00:00:00
+Course: COMS W1004 - Intro to Computer Science- Programming in Java
+Rating: 4/5
+Feedback counts: agree=2, disagree=0, funny=0
+
+Workload:
+Five (5) homework assignments, each worth 10% of your grade. They are not difficult. One (1) midterm, fairly difficult, make sure you know your theory. One (1) final.
+
+Review content:
+Paul Blaer is a master in his field. He knows exactly what he is doing, and can answer damn near any question you can come up with. The homework assignments are not extremely difficult, but do take time and actual mastery of the subject. He makes himself very available if you need help, and has knowledge of Computer Science that extends far beyond Java. The workload is not serious, and you do not really need to attend lecture if you're keeping up with the book. However, it doesn't hurt your grade at all to attend lecture, as he often gives clarification on confusing topics and a myriad of extra information which could help you out on the midterm and final.
+
+--------------------------------------------------------------------------------
+
+Review 84
+Review ID: 21029
+Submission date: 2008-03-05T00:00:00
+Course: COMS W1005 - Intro to Computer Science- Programming in MATLAB
+Rating: 4/5
+Feedback counts: agree=5, disagree=1, funny=1
+
+Workload:
+Programming Assignments, Midterm and Final- Nothing too difficult and a very generous curve as far as I know (I got around the average on both tests, did relatively well on my programming and got an A)
+
+Review content:
+To be honest I didn't go to class very often but when I went I found his lectures very clear and engaging. The subject matter was relatively easy. I think this is the least rigorous choice for the SEAS computer science requirement. Matlab is incredibly useful so if you know you don't want to pursue computer science then you should take this class.
+
+--------------------------------------------------------------------------------

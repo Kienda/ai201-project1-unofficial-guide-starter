@@ -1,0 +1,570 @@
+[
+  {
+    "url": "https://culpa.info/api/review/professor/3429?page=1",
+    "payload": {
+      "number_of_reviews": 16,
+      "reviews": [
+        {
+          "agree_count": 1,
+          "content": "This is a very interesting class. Ie, it bridges the software and hardware part of computer systems. Professor Simha is a good teacher, he uses board and slides when possible. He answers questions thoroughly and tries to keep students engaged. The materials, in my view, weak, are very foundational to understand how and what goes into designing computing framework.",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 87865,
+          "submission_date": "2025-11-23T13:38:58",
+          "workload": "50 % homeworks (4 homework (15pt each)) and 50% final exam. However, this is very unforgiving if you screw up on one homework or the final exam, you're cooked. LECTURE IS NOT RECORDED, NO NOTES ARE POSTED, NO ED DISCUSSION. When you reach December, prepping for the final exam, if you do not have good written notes, you're cooked. Studying for the final exam is a bit hard as you cover all materials and no available resource except what you have made of it. Class uses canvas discussion which mostly gets unanswered. Grading and everything seems scattered around, rubric mostly posted after a week or so. This class can benefit from organization, and having some course material posted. DON'T MISS LECTURES, TAKE NOTES. \n50% required to pass this course. Lowest grade C+, Average grading (TA dependent) ...."
+        },
+        {
+          "agree_count": 1,
+          "content": "GOAT professor. Very interesting material learned so much. Got more out of it than Security I.  \n\n ",
+          "course_header": {
+            "course_code": "COMS E6424",
+            "course_id": 8775,
+            "course_name": "HARDWARE SECURITY"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 86868,
+          "submission_date": "2025-04-28T11:39:19",
+          "workload": "4 homeworks and 1 long homework. all group work."
+        },
+        {
+          "agree_count": 0,
+          "content": "great lectures and explanations. took the class only because it fit my schedule but came out of it genuinely interested in the material covered in the class. definitely worth taking.",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 0,
+          "funny_count": 1,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 86485,
+          "submission_date": "2025-01-20T22:08:25",
+          "workload": "not difficult"
+        },
+        {
+          "agree_count": 1,
+          "content": "Prof. Sethumadhavan\u2019s class is one of the best at Columbia, hands down. It\u2019s super well-structured and does an amazing job demystifying how modern computer systems actually work. If you\u2019re even remotely interested in systems\u2014or just want something that\u2019s incredibly useful for internships and jobs\u2014you should absolutely take this class. Honestly, the material from just the first two months helped me answer so many interview questions. The parts on memory and out-of-order execution were awesome, but the material on locking, coherence, and consistency...next level. It also tied together a lot of concepts I\u2019d seen in OS and other courses, and cleared up so many misunderstandings I had on how stuff really works.\n\nThe quality of instruction is top-notch. Prof. Sethumadhavan is super organized and has this incredible way of breaking down complicated concepts so they\u2019re easy to understand. He mostly used the board in class, which made it easier to follow along in real-time. Even when I missed a couple of lectures, I was able to catch up by borrowing notes and going to his office hours, where he was super approachable and willing to explain anything I didn\u2019t get.\n\nWe also worked through some in-class problems, which I found super helpful. I wish we\u2019d had more of those, but I get that we had a lot of material to cover. The TAs were great too. One of them mentioned in class that the key to doing well is to take good notes, review them regularly, keep up with the readings, and ask questions during office hours if anything\u2019s unclear. Honestly, that advice was gold\u2014if you follow it, you\u2019ll be in a really good place.\n\nThis was honestly one of the best educational experiences I\u2019ve had at Columbia. The class is not only incredibly well-taught, but the material is directly applicable to both other courses and real world situations. I\u2019d recommend it 100%\u2014it\u2019s an absolute must for anyone interested in systems.\n",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 5,
+          "review_id": 86386,
+          "submission_date": "2025-01-08T23:20:37",
+          "workload": "The homeworks were easy/manageable as long as you started early, but they definitely teach you more the deeper you dive into them. Heads up though\u2014if your programming skills are weak, this might not be the best class for you. Also, choose your partners carefully for group assignments; it makes a huge difference.\n\nThe final exam was exactly what Prof. Sethumadhavan said it would be. About 75 to 80% of it was straightforward and straight from the lectures. A couple of questions required applying what we\u2019d learned to new situations, which was interesting but definitely more challenging. Looking back, I wish I\u2019d spent more time in office hours to really solidify my understanding of the trickier material\u2014would\u2019ve helped me feel more confident on those questions. I don't think I did very well on those questions but still ended up with a A-\n\nThe grading was super fair, with lots of partial credit, which I appreciated. If you put in the effort, it\u2019ll show in your grade.\n\n"
+        },
+        {
+          "agree_count": 0,
+          "content": "Computer Architecture is one of the most important classes you should take if you have any interest whatsoever in the intersection of software and hardware. Essentially, if you were a big fan of Fundies, then you'll love this class. The class starts with memory systems such as DRAM, SRAM, and most importantly CACHE. A lot of memory systems can be boiled down to types of caches and their implementations within large pipelines. Out of Order processors are the next large topic that really allows you to understand the life cycle of a program. I found this part to be the most challenging with all of the micro-architecture details, but extremely cool to learn. Finally, you'll end the class talking about Network on chips, GPUs, and ML centric chips. Overall, a very interesting class. Simha makes this class manageable since it has the potential to be one of the hardest CS/EE classes. Simha is actually one of the greatest professors in the CS department, he actually spends a lot of class making sure that everybody understands what he talks about. Especially in office hours, he takes the time to get to know you as a student and help you learn. I would take any chance to go his Office hours again if given the chance. ",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 4,
+          "review_id": 86159,
+          "submission_date": "2024-12-23T22:26:14",
+          "workload": "As mentioned before, this class is very manageable with 50% of your final grade being 4 homework assignments. Each of them are more of a research and analysis type of homework rather than implementation. I would say this would be the only downside if you learn by implementation best. The other 50% is the final exam. This is the hardest part of the course since there is no midterm and no practice final at all. The final was very broad in content and very difficult to prepare for since you didn't know what to expect. However, the questions weren't too hard so really try your best to learn all of the topics mentioned in class at a basic fundamental level. Don't be scared though, since all you need is a 50% raw score to pass with a C so it is very fair. "
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 11,
+          "content": "Simha is the worse professor I've had at Columbia. He gaves way too much work; the work from his class was more than the work from all my other courses combined. He doesn't seem to understand what a reasonable amount of work is. \r\n\r\nHis lectures are extremely boring and hard to follow. The assignments and tests are poorly written and are ambiguous making the already difficult work even harder. \r\n\r\nAs a person he's kind of a nice guy. However as a professor he seems to think that students have no other commitments beyond his class.\r\n\r\nOverall, avoid this professor at all costs.",
+          "course_header": {
+            "course_code": "CSEE W3827",
+            "course_id": 4251,
+            "course_name": "Fundamentals of Computer Systems"
+          },
+          "disagree_count": 6,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 2,
+          "review_id": 23763,
+          "submission_date": "2010-01-03T21:20:44",
+          "workload": "extremely heavy"
+        },
+        "controversial_review": {
+          "agree_count": 1,
+          "content": "Prof. Simha seems like a cool guy, and the content of the course is fairly well structured. We learned about various aspects of, as the name suggests, computer architecture \u2013 out-of-order execution, memory design, interprocessor communication and synchronization, and more. I thought the professor was a solid, engaging, lecturer too. I didn\u2019t have trouble paying attention during the class. That being said, the structure of this class makes it feel like a headache to deal with. No slides, no recorded lectures whatsoever, no Zoom sessions. If you miss a class for whatever reason (even for an arguably valid one such as sickness), you're screwed unless you happen to get a hold of someone else\u2019s notes. For that reason amongst others, I am not sure if it\u2019s worth the potential GPA blow and/or the stress in preventing that from happening.\n\nAs for the HW assignments, while they don't feel extremely hefty for the time we have to do them, there are many parts of the assignments that feel a bit vague. An example was for the first homework, where we had to run C code that copied bytes of data. We apparently had to test it on both our personal computers and through the Google Cloud Platform virtual machines, despite that not having been specified in the assignment instructions.",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 86150,
+          "submission_date": "2024-12-23T00:55:36",
+          "workload": "The structure of the class involved 4 homework assignments (50% of the grade total) and 1 final exam (50% of the grade). Beyond the slight bits of ambiguity in the homework, they\u2019re fairly manageable so long as you get a good partner to work with. The TAs largely grade for completion, especially for the last homework, where we had to try different approaches to optimize sorting for a given virtual machine. As for the exam, it was\u2026pretty awful. And my classmates agreed (even though they\u2019re probably going to end up with better grades than me). The questions felt like a strong departure from the content of the practice questions we had been given during the semester and arguably more challenging. I barely finished personally, to the point where I pretty much gave up on the last two sections of the last question. I attended all of the lectures, took notes in every lecture, and reviewed content I wrote about, and the test was still rough. I know some people jump for joy at a class with a high exam weighting, but I honestly don't get it, ESPECIALLY for a class where there's no actual notes for references of what the professor lectures with. There is assigned reading, and some of it is related to the exam content. But I feel like there were a fair share of topics that weren\u2019t quite in the reading."
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/3429?page=2",
+    "payload": {
+      "number_of_reviews": 16,
+      "reviews": [
+        {
+          "agree_count": 1,
+          "content": "Prof. Simha seems like a cool guy, and the content of the course is fairly well structured. We learned about various aspects of, as the name suggests, computer architecture \u2013 out-of-order execution, memory design, interprocessor communication and synchronization, and more. I thought the professor was a solid, engaging, lecturer too. I didn\u2019t have trouble paying attention during the class. That being said, the structure of this class makes it feel like a headache to deal with. No slides, no recorded lectures whatsoever, no Zoom sessions. If you miss a class for whatever reason (even for an arguably valid one such as sickness), you're screwed unless you happen to get a hold of someone else\u2019s notes. For that reason amongst others, I am not sure if it\u2019s worth the potential GPA blow and/or the stress in preventing that from happening.\n\nAs for the HW assignments, while they don't feel extremely hefty for the time we have to do them, there are many parts of the assignments that feel a bit vague. An example was for the first homework, where we had to run C code that copied bytes of data. We apparently had to test it on both our personal computers and through the Google Cloud Platform virtual machines, despite that not having been specified in the assignment instructions.",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 86150,
+          "submission_date": "2024-12-23T00:55:36",
+          "workload": "The structure of the class involved 4 homework assignments (50% of the grade total) and 1 final exam (50% of the grade). Beyond the slight bits of ambiguity in the homework, they\u2019re fairly manageable so long as you get a good partner to work with. The TAs largely grade for completion, especially for the last homework, where we had to try different approaches to optimize sorting for a given virtual machine. As for the exam, it was\u2026pretty awful. And my classmates agreed (even though they\u2019re probably going to end up with better grades than me). The questions felt like a strong departure from the content of the practice questions we had been given during the semester and arguably more challenging. I barely finished personally, to the point where I pretty much gave up on the last two sections of the last question. I attended all of the lectures, took notes in every lecture, and reviewed content I wrote about, and the test was still rough. I know some people jump for joy at a class with a high exam weighting, but I honestly don't get it, ESPECIALLY for a class where there's no actual notes for references of what the professor lectures with. There is assigned reading, and some of it is related to the exam content. But I feel like there were a fair share of topics that weren\u2019t quite in the reading."
+        },
+        {
+          "agree_count": 1,
+          "content": "Simha is a legend",
+          "course_header": {
+            "course_code": "COMS E6424",
+            "course_id": 8775,
+            "course_name": "HARDWARE SECURITY"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 5,
+          "review_id": 85435,
+          "submission_date": "2024-08-20T11:48:30",
+          "workload": "Weekly paper readings and a serious final project where you implement/extend one."
+        },
+        {
+          "agree_count": 1,
+          "content": "One of the best and most essential CE courses Columbia has to offer. As a computer engineer, I went into this class expecting it to be the natural continuation of Fundies (Fundamentals of Comp. Sys.) and was blown away. The course was well-paced starting with the hardware fundamentals of DRAM, caches & virtual memory and gradually progressing into incorporating the software side of out-of-order processing, coherence, SIMD instructions etc. \n\nProf. Sethumadhavan is a fantastic lecturer, and arguably the best out of all the CS/EE professors I've had so far.  A majority of his lectures involved him dissecting topics by drawing diagrams on chalkboards which ultimately allow you to understand how a CPU works from hardware to memory access in the pipeline to how the architecture presents itself from a programmer's perspective. He breaks down the more complicated subjects in the course so that they seem almost trivial and entertains all questions presented during lectures somehow answering them both thoroughly and concisely enough that the flow of the lecture is uninterrupted. He's also incredibly approachable and will gladly answer your most basic questions without making you feel judged for your lack of understanding.\n\nI highly recommend this class if you're a computer engineer or else if you have any mild interest in understanding how a computer actually works.",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 5,
+          "review_id": 84727,
+          "submission_date": "2024-01-10T03:07:52",
+          "workload": "The homework load (50% of the grade) was incredibly light. There were 4 homework assignments (with the 4th one being a longer project-like assignment) each involving basic C programming, occasionally reading/analyzing a relevant academic paper, and were generally centered around some subgroup of the content covered in lectures. They were not so much meant to test your knowledge of class material but rather to help you understand how the content can be applied. I found them useful without being unnecessarily time-consuming, and the grading was very fair. The first 3 homeworks took roughly 5 hours each (depending on how thoroughly you presented your analysis, optimized your code, etc. & whether or not you worked with a partner) and for the 4th we were given a month to complete it with a group of up to 4. \n\nThere was no midterm with a cumulative final being worth 50% of your grade in the class, but it was a fair final and generally centered on a broader conceptual understanding of the material. Prof. Sethumadhavan generally gave the impression that he cared more about us making an effort to learn the material than about making the course unnecessarily difficult. "
+        },
+        {
+          "agree_count": 0,
+          "content": "Simha didn\u2019t really know what he was doing, but he certainly tried. He was not a particularly good teacher, and I was lucky that I\u2019d seen much of the first half of the course in Intro to EE; many of my CS friends were totally lost from the get go. We were all pretty confused during the second half as well, which covered computer architecture and assembly language. To his credit, Simha sent out regular surveys for feedback, and did seem to care. However, this does not excuse the fact that the problem sets were totally unlike what we had learned in class (as in going to class wouldn\u2019t even prepare you to answer them, you\u2019d need to read the textbook). Luckily, they were ungraded, and most people I know wouldn\u2019t do them.\r\n\r\nThe logistics of this class were the worst I\u2019ve ever seen, and worse than anything I could possibly conceive of myself. Attendance factored into your grade, but since it was a 300 person class, Simha made us hold up signs with our name and UNI on them and then photographed the entire room (309), having the TAs search through the photo to mark us present. There were weekly \u201cstudy groups\u201d (recitations) that were longer than class itself and factored into your attendance grade. These were really awkward, since everyone would sit there and not pay any attention to the poor TA. For the midterm, which was after the semester had been moved to remote instruction, Simha had us film ourselves, record our screen, and submit both for full credit. Yikes! I know he\u2019s a security expert, but that is the dumbest thing I\u2019ve ever heard, plus students were allowed to use the bathroom.\r\n\r\nSimha is a smart dude. He clearly knows the material well... he must have had a good professor when he took the class as an undergrad.",
+          "course_header": {
+            "course_code": "CSEE W3827",
+            "course_id": 4251,
+            "course_name": "Fundamentals of Computer Systems"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 82158,
+          "submission_date": "2020-05-21T17:29:33",
+          "workload": "Nonexistent"
+        },
+        {
+          "agree_count": 0,
+          "content": "The lectures were informative but they sometimes contained too much information that simply could not be digested in a 90 minute lecture (for example the lectures on DRAMs, out of order processing were discussed in great detail but required knowledge and hands-on experience, like VLSI, that was far beyond the scope of the class). \r\n\r\nThere was too much breath and not enough depth in the class. For example, pipelining was discussed in class but there were no real, hands-on, \"get your hands dirty\" coding, simulation or hardware exercises to implement the idea. This can lead to confusion because as the semester goes by, the student sees more and more jargon/words without having had properly assimilated the information. But perhaps this is just representative of many classes at Columbia due to the lack of time and weariness students feel as the semester goes by.\r\n\r\nSome of the homework questions were based on optimizing code or running simulations of hardware, which is alright. But no circuit simulations. So more of a CS class than an EE class. \r\n\r\nMidterm was take-home and you had to skype the professor to discuss ideas. \r\n\r\nNo practice final. So only lecture notes to go back on. Pretty difficult final because a lot of the material wasn't properly integrated into the homeworks/paper reading and the huge breath of the lectures did not properly prepare for the depth of the final. This class requires a lot more studying than it seems!",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": null,
+          "review_id": 80909,
+          "submission_date": "2018-07-14T21:44:59",
+          "workload": "Four homework assignments, the last one created in the last minute it seemed (assigned from textbook). \r\nEach homework might take around 10 hours. Depends on whether you have installed the software before hand, remember how to code in C/python/Java etc.\r\nGroup homeworks mostly and reading of papers. \r\n\r\nFinal and take home midterm."
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 11,
+          "content": "Simha is the worse professor I've had at Columbia. He gaves way too much work; the work from his class was more than the work from all my other courses combined. He doesn't seem to understand what a reasonable amount of work is. \r\n\r\nHis lectures are extremely boring and hard to follow. The assignments and tests are poorly written and are ambiguous making the already difficult work even harder. \r\n\r\nAs a person he's kind of a nice guy. However as a professor he seems to think that students have no other commitments beyond his class.\r\n\r\nOverall, avoid this professor at all costs.",
+          "course_header": {
+            "course_code": "CSEE W3827",
+            "course_id": 4251,
+            "course_name": "Fundamentals of Computer Systems"
+          },
+          "disagree_count": 6,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 2,
+          "review_id": 23763,
+          "submission_date": "2010-01-03T21:20:44",
+          "workload": "extremely heavy"
+        },
+        "controversial_review": {
+          "agree_count": 1,
+          "content": "Prof. Simha seems like a cool guy, and the content of the course is fairly well structured. We learned about various aspects of, as the name suggests, computer architecture \u2013 out-of-order execution, memory design, interprocessor communication and synchronization, and more. I thought the professor was a solid, engaging, lecturer too. I didn\u2019t have trouble paying attention during the class. That being said, the structure of this class makes it feel like a headache to deal with. No slides, no recorded lectures whatsoever, no Zoom sessions. If you miss a class for whatever reason (even for an arguably valid one such as sickness), you're screwed unless you happen to get a hold of someone else\u2019s notes. For that reason amongst others, I am not sure if it\u2019s worth the potential GPA blow and/or the stress in preventing that from happening.\n\nAs for the HW assignments, while they don't feel extremely hefty for the time we have to do them, there are many parts of the assignments that feel a bit vague. An example was for the first homework, where we had to run C code that copied bytes of data. We apparently had to test it on both our personal computers and through the Google Cloud Platform virtual machines, despite that not having been specified in the assignment instructions.",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 86150,
+          "submission_date": "2024-12-23T00:55:36",
+          "workload": "The structure of the class involved 4 homework assignments (50% of the grade total) and 1 final exam (50% of the grade). Beyond the slight bits of ambiguity in the homework, they\u2019re fairly manageable so long as you get a good partner to work with. The TAs largely grade for completion, especially for the last homework, where we had to try different approaches to optimize sorting for a given virtual machine. As for the exam, it was\u2026pretty awful. And my classmates agreed (even though they\u2019re probably going to end up with better grades than me). The questions felt like a strong departure from the content of the practice questions we had been given during the semester and arguably more challenging. I barely finished personally, to the point where I pretty much gave up on the last two sections of the last question. I attended all of the lectures, took notes in every lecture, and reviewed content I wrote about, and the test was still rough. I know some people jump for joy at a class with a high exam weighting, but I honestly don't get it, ESPECIALLY for a class where there's no actual notes for references of what the professor lectures with. There is assigned reading, and some of it is related to the exam content. But I feel like there were a fair share of topics that weren\u2019t quite in the reading."
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/3429?page=3",
+    "payload": {
+      "number_of_reviews": 16,
+      "reviews": [
+        {
+          "agree_count": 0,
+          "content": "I would not recommend this professor or course. A brief summary of two takeaways:\r\n\r\n1. The course is artificially difficult exacting rote memorization of content delivered verbally rather than quantitative skills or abstract thought.\r\n\r\n2. Timely feedback was not provided, grading seemed arbitrary and contradicted the syllabus.\r\n\r\nSethumadhavan is knowledgable and encourages discussion during class. He waits for students to think through the examples he gives, entertains follow up questions and does not rush through the material. The midterm was challenging and a good opportunity to apply cache optimization techniques to a benchmark of scientific software. \r\n\r\nSethumadhavan verbally delivered the majority of the content for the course. During this time he drew hundreds of rectangles on the blackboard to illustrate the interaction of different computer hardware components. This often seemed frivolous and distracting. Lectures were sometimes obfuscated by sloppy or incomplete handwriting. Slides might help to organize and deliver important concepts clearly and concisely. \r\n\r\nGrading seemed arbitrary and feedback was delivered late, if at all. No comments were provided on the implementation section of the midterm and the grade was returned the day before the final. After the course finished in May, the homework was decreased by 10% of the total grade and the midterm was increased by 10% of the total grade contradicting what was stated on the syllabus and on Canvas throughout the semester. \r\n\r\nCS is a broad field. Some courses may be challenging due to inherently abstract or mathematical content. This is not the case with computer architecture. If you study computer systems or are an aspiring computer architect you may enjoy certain aspects of the class; others may feel that the difficulty is contrived and the course lacks substance.",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 79203,
+          "submission_date": "2016-05-20T02:05:26",
+          "workload": "Three homework projects with both group and individual portions (textbook questions, summarizing papers, running profiling tools and modifying C programs), one take home midterm with two parts (proposing and implementing software or hardware optimizations) and an in class final (multiple choice and short answers)."
+        },
+        {
+          "agree_count": 0,
+          "content": "This is one of those classes that every systems programmer should take, even if they will never design a chip in their life. You will lean so much about what actually goes on in a modern CPU -- much of which is not very well documented by online resources. It's essential for anyone who wants to write fast code -- for example, if you plan to work on operating systems, libraries, or high-frequency trading. \r\n\r\nI learned a lot from the lectures, despite being scheduled Thursday 7 - 9:30 PM when everyone is exhausted. Prof. Sethumadhavan was a great lecturer for the first half of the semester, but then he stopped making jokes (probably because he was tired like the rest of us - but jokes help us stay awake). There are definitely some lectures that were extremely dry even though they could've been interesting. Also, his explanations are unclear (self-contradictory) sometimes on complex things, like how to access a DIMM.\r\n\r\nThe most helpful part of the course was taking with Prof. Sethumadhavan during halftime and at the end of class. He is really great at explaining stuff in small groups and genuinely takes pleasure in hearing interesting questions from students. Wish I had attended office hours more.\r\n\r\nThe problems from the book truly horrifying - they are filled with ambiguities and errors - but my understanding is that there are not that many textbooks about computer architecture. Maybe there are some non-textbooks that we could integrate into the course. \r\n\r\nHowever, I really enjoyed the group homeworks where we had to argue about how to interpret computer architecture papers and write programs to demonstrate concepts from class. The midterm was in the same vein - come up with some optimizations and then implement them - so I also enjoyed it a lot.\r\n\r\nSometimes the assignments were poorly worded or had bugs. For example, the hw3 skeleton code did not properly check whether the optimization changed the program's output, despite several corrections by the TAs over two weeks. This did not affect our group because we figured it out, but had we not been so careful, we could've wasted a lot of time and had nothing to show for it. I understand that TAs are busy, but correctness is also important.",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 79093,
+          "submission_date": "2016-05-03T01:03:10",
+          "workload": "A bit heavier than most classes in the department. Not as bad as classes like OS or PLT though. \r\n\r\nThree long homeworks, each one with an individual and group component. Pick competent group members so you'll have something interesting to talk about. Since there are only three homeworks, the workload is bursty if you (like most people) procrastinate until the weekend before the deadline. \r\n\r\nTake-home midterm which takes about two months. "
+        },
+        {
+          "agree_count": 0,
+          "content": "Great lectures, Prof S is explains things well and knows his stuff. Would be even better if he made slides for all lectures and posted them. Very poor logistics and not enough TAs - grades took forever to get back, room overcrowded in 1st half of semester, not much help on Piazza, etc. Early HWs did not really relate to the test much and were long, later HWs were more reasonable. Far too much reading was assigned, but you didn't really need to do it all anyway. Doesn't let non CVN students view the lecture videos online which is unfortunate.\r\n\r\nHopefully he'll keep teaching the class, and improve on the TA and logistics in future semesters because the core of the class - his lecture ability - is solid.",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 29446,
+          "submission_date": "2014-05-11T13:55:34",
+          "workload": "7/10. 4 problem sets of varying difficulty, 1 midterm 1 final (both closed book). Tests are a bit hard but not totally unreasonable."
+        },
+        {
+          "agree_count": 1,
+          "content": "Spring 2014 is the first time Simha has taught Computer Architecture. He didn't have a lot of slides, and used the blackboard for a majority of the course. Nevertheless, he is a good teacher: he takes times to explain concepts clearly, and actively takes questions. However, he doesn't employ nearly enough TAs, due to which assignments and exams are returned horribly late. Moreover, half the assignment just lists textbook exercises -- and the exercises in the Hennessy & Patterson are really ambiguous and poorly designed. The other half is a group portion that involves either reading papers or running simulations, which is not bad. The exams are very sensible and test exactly what Simha taught in class.\r\n\r\nOverall, I enjoyed the course and learnt quite a lot.",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 29335,
+          "submission_date": "2014-04-15T22:21:28",
+          "workload": "6/10. 4 assignments, 1 mid-term, 1 end-term."
+        },
+        {
+          "agree_count": 11,
+          "content": "Simha is the worse professor I've had at Columbia. He gaves way too much work; the work from his class was more than the work from all my other courses combined. He doesn't seem to understand what a reasonable amount of work is. \r\n\r\nHis lectures are extremely boring and hard to follow. The assignments and tests are poorly written and are ambiguous making the already difficult work even harder. \r\n\r\nAs a person he's kind of a nice guy. However as a professor he seems to think that students have no other commitments beyond his class.\r\n\r\nOverall, avoid this professor at all costs.",
+          "course_header": {
+            "course_code": "CSEE W3827",
+            "course_id": 4251,
+            "course_name": "Fundamentals of Computer Systems"
+          },
+          "disagree_count": 6,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 2,
+          "review_id": 23763,
+          "submission_date": "2010-01-03T21:20:44",
+          "workload": "extremely heavy"
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 11,
+          "content": "Simha is the worse professor I've had at Columbia. He gaves way too much work; the work from his class was more than the work from all my other courses combined. He doesn't seem to understand what a reasonable amount of work is. \r\n\r\nHis lectures are extremely boring and hard to follow. The assignments and tests are poorly written and are ambiguous making the already difficult work even harder. \r\n\r\nAs a person he's kind of a nice guy. However as a professor he seems to think that students have no other commitments beyond his class.\r\n\r\nOverall, avoid this professor at all costs.",
+          "course_header": {
+            "course_code": "CSEE W3827",
+            "course_id": 4251,
+            "course_name": "Fundamentals of Computer Systems"
+          },
+          "disagree_count": 6,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 2,
+          "review_id": 23763,
+          "submission_date": "2010-01-03T21:20:44",
+          "workload": "extremely heavy"
+        },
+        "controversial_review": {
+          "agree_count": 1,
+          "content": "Prof. Simha seems like a cool guy, and the content of the course is fairly well structured. We learned about various aspects of, as the name suggests, computer architecture \u2013 out-of-order execution, memory design, interprocessor communication and synchronization, and more. I thought the professor was a solid, engaging, lecturer too. I didn\u2019t have trouble paying attention during the class. That being said, the structure of this class makes it feel like a headache to deal with. No slides, no recorded lectures whatsoever, no Zoom sessions. If you miss a class for whatever reason (even for an arguably valid one such as sickness), you're screwed unless you happen to get a hold of someone else\u2019s notes. For that reason amongst others, I am not sure if it\u2019s worth the potential GPA blow and/or the stress in preventing that from happening.\n\nAs for the HW assignments, while they don't feel extremely hefty for the time we have to do them, there are many parts of the assignments that feel a bit vague. An example was for the first homework, where we had to run C code that copied bytes of data. We apparently had to test it on both our personal computers and through the Google Cloud Platform virtual machines, despite that not having been specified in the assignment instructions.",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 86150,
+          "submission_date": "2024-12-23T00:55:36",
+          "workload": "The structure of the class involved 4 homework assignments (50% of the grade total) and 1 final exam (50% of the grade). Beyond the slight bits of ambiguity in the homework, they\u2019re fairly manageable so long as you get a good partner to work with. The TAs largely grade for completion, especially for the last homework, where we had to try different approaches to optimize sorting for a given virtual machine. As for the exam, it was\u2026pretty awful. And my classmates agreed (even though they\u2019re probably going to end up with better grades than me). The questions felt like a strong departure from the content of the practice questions we had been given during the semester and arguably more challenging. I barely finished personally, to the point where I pretty much gave up on the last two sections of the last question. I attended all of the lectures, took notes in every lecture, and reviewed content I wrote about, and the test was still rough. I know some people jump for joy at a class with a high exam weighting, but I honestly don't get it, ESPECIALLY for a class where there's no actual notes for references of what the professor lectures with. There is assigned reading, and some of it is related to the exam content. But I feel like there were a fair share of topics that weren\u2019t quite in the reading."
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/3429?page=4",
+    "payload": {
+      "number_of_reviews": 16,
+      "reviews": [
+        {
+          "agree_count": 4,
+          "content": "Professor Sethumadhavan genuinely has a passion for the subject and makes an effort to teach.  However, his teaching method is not too effective; he comes in with powerpoint slides, but unless we've read the book thoroughly prior to the lecture, it's very difficult to keep up.  Sometimes, he'll realize that he made a bad lecture, and he'll come to the next lecture being a lot more prepared.\n\nI have to give him an A for effort.  He makes some joke in class, which weren't funny, but at least it shows that he tries to lighten up the mood.  He also makes an effort to remember your name.  This is his first time teaching in Columbia, so hopefully, by the time he teaches this class again, he'll be better prepared and teach a lot better.\n\nThe textbook for the first half of the class (Brown and Vranesic, Fundamentals of Digital Logic with VHDL Design, McGraw Hill Publishers, Second Edition) was very poorly written (it refers to examples that require the reader to flip back ~10 pages), but the one for the second half (Patterson and Hennessy Computer Organization and Design: The Hardware/Software Interface, Elsevier, Third Edition) was much more well written.",
+          "course_header": {
+            "course_code": "CSEE W3827",
+            "course_id": 4251,
+            "course_name": "Fundamentals of Computer Systems"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 21165,
+          "submission_date": "2008-04-21T00:00:00",
+          "workload": "9 homework assignments, difficulty varies greatly, way too much (~10 hours, if not more) for some weeks, and very short for others; one very hard midterm (he claims that it should be okay for us because it took his TAs 1 hr 5 mins to do the midterm); and one final"
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 11,
+          "content": "Simha is the worse professor I've had at Columbia. He gaves way too much work; the work from his class was more than the work from all my other courses combined. He doesn't seem to understand what a reasonable amount of work is. \r\n\r\nHis lectures are extremely boring and hard to follow. The assignments and tests are poorly written and are ambiguous making the already difficult work even harder. \r\n\r\nAs a person he's kind of a nice guy. However as a professor he seems to think that students have no other commitments beyond his class.\r\n\r\nOverall, avoid this professor at all costs.",
+          "course_header": {
+            "course_code": "CSEE W3827",
+            "course_id": 4251,
+            "course_name": "Fundamentals of Computer Systems"
+          },
+          "disagree_count": 6,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 2,
+          "review_id": 23763,
+          "submission_date": "2010-01-03T21:20:44",
+          "workload": "extremely heavy"
+        },
+        "controversial_review": {
+          "agree_count": 1,
+          "content": "Prof. Simha seems like a cool guy, and the content of the course is fairly well structured. We learned about various aspects of, as the name suggests, computer architecture \u2013 out-of-order execution, memory design, interprocessor communication and synchronization, and more. I thought the professor was a solid, engaging, lecturer too. I didn\u2019t have trouble paying attention during the class. That being said, the structure of this class makes it feel like a headache to deal with. No slides, no recorded lectures whatsoever, no Zoom sessions. If you miss a class for whatever reason (even for an arguably valid one such as sickness), you're screwed unless you happen to get a hold of someone else\u2019s notes. For that reason amongst others, I am not sure if it\u2019s worth the potential GPA blow and/or the stress in preventing that from happening.\n\nAs for the HW assignments, while they don't feel extremely hefty for the time we have to do them, there are many parts of the assignments that feel a bit vague. An example was for the first homework, where we had to run C code that copied bytes of data. We apparently had to test it on both our personal computers and through the Google Cloud Platform virtual machines, despite that not having been specified in the assignment instructions.",
+          "course_header": {
+            "course_code": "CSEE W4824-1",
+            "course_id": 5392,
+            "course_name": "Computer Architecture"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Simha",
+            "last_name": "Sethumadhavan",
+            "nugget": 2,
+            "professor_id": 3429,
+            "uni": null
+          },
+          "rating": 3,
+          "review_id": 86150,
+          "submission_date": "2024-12-23T00:55:36",
+          "workload": "The structure of the class involved 4 homework assignments (50% of the grade total) and 1 final exam (50% of the grade). Beyond the slight bits of ambiguity in the homework, they\u2019re fairly manageable so long as you get a good partner to work with. The TAs largely grade for completion, especially for the last homework, where we had to try different approaches to optimize sorting for a given virtual machine. As for the exam, it was\u2026pretty awful. And my classmates agreed (even though they\u2019re probably going to end up with better grades than me). The questions felt like a strong departure from the content of the practice questions we had been given during the semester and arguably more challenging. I barely finished personally, to the point where I pretty much gave up on the last two sections of the last question. I attended all of the lectures, took notes in every lecture, and reviewed content I wrote about, and the test was still rough. I know some people jump for joy at a class with a high exam weighting, but I honestly don't get it, ESPECIALLY for a class where there's no actual notes for references of what the professor lectures with. There is assigned reading, and some of it is related to the exam content. But I feel like there were a fair share of topics that weren\u2019t quite in the reading."
+        }
+      }
+    }
+  }
+]

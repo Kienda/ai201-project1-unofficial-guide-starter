@@ -1,0 +1,1062 @@
+[
+  {
+    "url": "https://culpa.info/api/review/professor/13076?page=1",
+    "payload": {
+      "number_of_reviews": 31,
+      "reviews": [
+        {
+          "agree_count": 1,
+          "content": "I had one of the roughest semesters of my life, ended up with a ~50 raw score in the class. She gave me a C. I worship the ground she walks on.\n\nBTW, her assignment grading is decently lenient and I only got such a low score because I straight up did not do about half of the assignments. This is because I spent about half of the semester in what can best be described as a depression-spurred fugue state. Her textbook is insanely helpful and easy to understand. I used to think math was fun before calc and linear algebra and discrete definitely is fun if you like math!! I regret not doing more of the assignments not just for the grade but because they were actually fun.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 5,
+          "review_id": 89847,
+          "submission_date": "2026-05-17T20:45:42",
+          "workload": "You get a cheat sheet for exams (there are 2). There were 11 written assignments and 4 python coding assignments. She drops the scores for your lowest written assignment and lowest coding assignment. I'd say they were pretty fair. The coding assignments took me under an hour and the written assignments were reasonable."
+        },
+        {
+          "agree_count": 0,
+          "content": "really easy class but too easy where you don\u2019t learn anything. going to lecture felt unproductive since you could watch the lectures in 2x speed. you could get an easy A on exams if you paid attention and woke up on time for exams. felt like i didn\u2019t learn anything important and online videos on youtube covered the concepts in more depth. learned a lot of different concepts but none in enough detail for it to matter. take the class if you want an easy A",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 3,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 3,
+          "review_id": 88071,
+          "submission_date": "2025-12-05T18:12:12",
+          "workload": "exams 30% hw are both coding and conceptual "
+        },
+        {
+          "agree_count": 2,
+          "content": "This class is taught very well and everything builds upon the previous concepts. How she taught it I felt like everything made sense and there were no prior gaps or concepts I struggled with. I took this over the summer after I had to drop this class before, and the way she teaches everything makes sense. Easily she\u2019s one of the nicest CS professors and also very good at actually teaching course content and explaining why it matters. I also really appreciated her own textbook made for the class, everything felt straightforward and well prepared. I also feel like I learned more in this class with her since she really goes over the basics well and gives you a solid foundation in the material. Taking this class made me actually end up liking discrete math and I\u2019m 100% glad I took it with her. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 5,
+          "review_id": 87540,
+          "submission_date": "2025-09-09T22:31:39",
+          "workload": "Very straightforward problem sets, weekly and recitation problems, and text book readings. Recitation problems were sometimes tricky but helped a lot. Don\u2019t cheat on the homework or any of the problems because they help to prepare you for the exams. Learning latex was the hardest part but also kind of rewarding. Really the hardest part of this class for me was proofs because they just take a lot of practice to make sense. "
+        },
+        {
+          "agree_count": 2,
+          "content": "Took over the summer. Class builds fast but not overwhelmingly. If you study and plan well, you can definitely get an A. Class isn\u2019t easy but she is a very good teacher which helps.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 5,
+          "review_id": 87447,
+          "submission_date": "2025-07-24T22:18:43",
+          "workload": "Assignments ranged in difficulty but the easy assignments were easy to get A\u2019s and the difficult assignments got curved."
+        },
+        {
+          "agree_count": 3,
+          "content": "I don't understand all the negative reviews, she's GOATed. Breaks down concepts so you can understand. She cares more that you get it rather than trying to trick and challenge you at every turn and having the class average be in the 40s and 50s so you depend on the curve like other CS professors. Also extremely sweet and her lectures are engaging.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 5,
+          "review_id": 87390,
+          "submission_date": "2025-06-12T06:49:40",
+          "workload": "5 assignments, not too bad"
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 10,
+          "content": "Ansaf is a very sweet and nice person. She's probably one of the most approachable professors in the CS department, which is such a relief. She is very understanding of how much stress students go through, and she sometimes extends the weekly homeworks if she feels that she hasn't covered most of the material on time. The homeworks don't require you to break your head and overstress--basically based on what you learned in class and from her textbook notes but a little bit more challenging by a tad bit. There are 4 coding assignments that deal with coding in Python and are very easy. The midterm questions were almost the same style as the homework with some questions being a little more challenging. Haven't taken the final yet. I heard that a lot of people got A's in the class. So I think as long as you're in the average grades, you'll be fine.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 5,
+          "funny_count": 4,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 83758,
+          "submission_date": "2023-04-18T14:12:53",
+          "workload": "~12 Written Assignments: 30%, 4 Coding Assignments: 15%, Midterm 25%, Final: 30%"
+        },
+        "controversial_review": {
+          "agree_count": 7,
+          "content": "Do not take this course if you are decently great at mathematics.\r\nI absolutely learned NOTHING in this course. I tested out this course but I decided to take it anyway to graduate in time. It was the worst mistake I had in Columbia. The problem is that the professor did not go over anything in-depth and I am not even sure she knows the content well.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 19,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 1,
+          "review_id": 82057,
+          "submission_date": "2020-04-28T18:50:15",
+          "workload": "weekly assignment, annoying"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13076?page=2",
+    "payload": {
+      "number_of_reviews": 31,
+      "reviews": [
+        {
+          "agree_count": 6,
+          "content": "AI with Prof. Ansaf was solid. For context, I took it during the Fall 2023 semester. It served as a nice opportunity to learn concepts and strategies that serve as a basis for artificial intelligence and gradually transition to working with actual AI technology. The balance between coding and conceptual assignments also served as a way of putting these concepts we learned in lecture into practice (though they got a bit tedious at times). Though I\u2019ve never attended her office hours, Prof. Ansaf seemed approachable. She also was fairly engaging as a lecturer.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 0,
+          "funny_count": 2,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 86239,
+          "submission_date": "2024-12-31T14:27:25",
+          "workload": "The class had 5 coding assignments and 5 conceptual assignments (50% total), and two exams throughout the semester (25%) that effectively served as \u201cmidterms\u201d without any final when I took it. To my knowledge, this setup doesn\u2019t apply anymore and the second exam had gotten pushed to later on in the semester and became a final. The assignments were staggered such that the conceptual assignment was always due before the accompanying coding assignment. The lowest coding and conceptual grades also got dropped at the time. The conceptual assignments involve calculations, short-answer, etc. related to the topics we went through for the course, while the coding assignments involved applying these concepts for Python code. The assignments we did were:\n* comparing search algorithms (breadth-first search, depth-first search, etc.) for number sliding puzzles\n* backtracking with optimization for solving sudoku puzzles \n* minimax for deciding a move for 2048\n* using a neural network for sign language sign classification\n* a 5th assignment that I unfortunately don\u2019t have the file for at the moment as I skipped it (my apologies)\n\nThese assignments get reused between semesters, and I would say the 2048 algorithm was the most difficult, as it involved testing out different values as part of functions that you need to implement. The sudoku and number-sliding puzzles were the second-hardest, then the neural network one was the easiest out of the four I completed for the class. The exams, however, were pretty rough. I was able to do decently on the first with moderate studying for it, but I admittedly did much worse on the second since I couldn\u2019t finish. However, the course gets curved accordingly, and these exams take up relatively low weight compared to other classes. To that end, the work is a lot more doable to be able to get an A compared to Prof. Dear, as well as other CS classes in the department \u2013 do what you will with that information\u2026"
+        },
+        {
+          "agree_count": 5,
+          "content": "Ansaf is for sure one of the nicest professors in the CS department. However, that's not a very high bar. She allows for leeway in her grading system and seems reasonable. I enjoyed discrete (which she thankfully recorded) and would take AI with her in the future. If you have the option, I would try to get Ansaf as a teacher. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 7,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 85216,
+          "submission_date": "2024-05-03T00:35:03",
+          "workload": "2 tests, 1/2 homework assignments due every week. The homework assignments were fairly short, but we probably had a total of 15 for the entire semester, so many of the due dates were fairly close."
+        },
+        {
+          "agree_count": 3,
+          "content": "Could not understand a thing that she said and her voice made it unbearable to attend class. Her lecture style is also very confusing, the content did not make sense according to how she explained it. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 18,
+          "funny_count": 3,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 1,
+          "review_id": 84866,
+          "submission_date": "2024-02-02T04:32:52",
+          "workload": "Weekly assignments that were about 1.5 hours. Midterm and Final. Weekly recitations, in my opinion, did not help at all. "
+        },
+        {
+          "agree_count": 5,
+          "content": "Ansaf is absolutely amazing. I had her for discrete math as well and she is just so kind and really cares about her students. I absolutely recommend taking this class with her. There are two midterm exams (no final which is really nice because if gives you time to focus on your other classes at the end of the semester) and I thought they were more on the difficult side, especially because it was a time crunch, but the curve will really help you.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 5,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 84856,
+          "submission_date": "2024-01-25T22:15:30",
+          "workload": "Assignments (coding + written) 50%, Midterm1 25%, Midterm2 25%"
+        },
+        {
+          "agree_count": 9,
+          "content": "This class is so good for my soul. It goes at snail speed that you probably won't ever be stressed about this course. You do learn things, just not a lot and at a pretty surface level. If you're looking for a chill STEM class that will still hopefully teach you a thing or two and want to zone out during class come back five minutes later seeing the prof still re-explaining the same concept for the fourth time, this is definitely the class and prof for you. The only downside I would say is that some of the TAs seem genuinely unfamiliar with discrete math which is definitely somewhat concerning especially when it comes to grading, but don't worry this can all be fixed by shamelessly submitting regrade requests after regrade requests. (but of course there are still some TAs that are nice and amazing)",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 4,
+          "funny_count": 1,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 83971,
+          "submission_date": "2023-05-15T07:16:51",
+          "workload": "Weekly assignments which are super straightforward and take about an hour or two. Midterm and final are both pretty simple. Four coding assignments throughout the semester and take like 15 minutes each if you are familiar with python. "
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 10,
+          "content": "Ansaf is a very sweet and nice person. She's probably one of the most approachable professors in the CS department, which is such a relief. She is very understanding of how much stress students go through, and she sometimes extends the weekly homeworks if she feels that she hasn't covered most of the material on time. The homeworks don't require you to break your head and overstress--basically based on what you learned in class and from her textbook notes but a little bit more challenging by a tad bit. There are 4 coding assignments that deal with coding in Python and are very easy. The midterm questions were almost the same style as the homework with some questions being a little more challenging. Haven't taken the final yet. I heard that a lot of people got A's in the class. So I think as long as you're in the average grades, you'll be fine.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 5,
+          "funny_count": 4,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 83758,
+          "submission_date": "2023-04-18T14:12:53",
+          "workload": "~12 Written Assignments: 30%, 4 Coding Assignments: 15%, Midterm 25%, Final: 30%"
+        },
+        "controversial_review": {
+          "agree_count": 7,
+          "content": "Do not take this course if you are decently great at mathematics.\r\nI absolutely learned NOTHING in this course. I tested out this course but I decided to take it anyway to graduate in time. It was the worst mistake I had in Columbia. The problem is that the professor did not go over anything in-depth and I am not even sure she knows the content well.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 19,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 1,
+          "review_id": 82057,
+          "submission_date": "2020-04-28T18:50:15",
+          "workload": "weekly assignment, annoying"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13076?page=3",
+    "payload": {
+      "number_of_reviews": 31,
+      "reviews": [
+        {
+          "agree_count": 2,
+          "content": "I thought this class was going to be much harder than it was. Ansaf was an amazing professor and made an effort to help all her students, answer their questions, and even tried to learn everyone's names (in a class of 100 people). She writes live on her ipad and projects it but she also uploads typed notes online. Although I liked her teaching style, at times the pace of the class was way too slow, and also I felt like there were too many topics covered, so within each topic, we only covered it on a very surface level. \n\nThere are also recitations on Friday but they are not mandatory (+ they are recorded).",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 3,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 83912,
+          "submission_date": "2023-05-05T18:20:04",
+          "workload": "10 written problem sets, 1 dropped. The majority are very easy/simple and similar to the problems given for the recitation. Then there are 4 coding assignments, 1 dropped. These are also relatively easy, although I would say there was 1 that was quite difficult. There is a midterm and a non cumulative final, each with 4 sides cheat sheet, so this class is very easy and you do not need to remember the content from the first half of the semester after the midterm. However it is easy to make small mistakes so small mistakes can cost you good grades.\n\nI probably spend maximum 2 hours on this class per week not including midterms and finals"
+        },
+        {
+          "agree_count": 10,
+          "content": "Ansaf is a very sweet and nice person. She's probably one of the most approachable professors in the CS department, which is such a relief. She is very understanding of how much stress students go through, and she sometimes extends the weekly homeworks if she feels that she hasn't covered most of the material on time. The homeworks don't require you to break your head and overstress--basically based on what you learned in class and from her textbook notes but a little bit more challenging by a tad bit. There are 4 coding assignments that deal with coding in Python and are very easy. The midterm questions were almost the same style as the homework with some questions being a little more challenging. Haven't taken the final yet. I heard that a lot of people got A's in the class. So I think as long as you're in the average grades, you'll be fine.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 5,
+          "funny_count": 4,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 83758,
+          "submission_date": "2023-04-18T14:12:53",
+          "workload": "~12 Written Assignments: 30%, 4 Coding Assignments: 15%, Midterm 25%, Final: 30%"
+        },
+        {
+          "agree_count": 5,
+          "content": "Didn't learn shit. This class was terrible. A buggy script determines your grade for the coding portion, and the professor just reads off the slides that she got off somewhere else. Recitations were mostly not good either, with most TAs being bad, but there are some exceptions.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 7,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": null,
+          "review_id": 83233,
+          "submission_date": "2021-04-01T00:00:00",
+          "workload": null
+        },
+        {
+          "agree_count": 2,
+          "content": "If you're going to take an intro to AI class, Dr Salleb-Aouissi is the one to take it with. Her presentation of materials is concise and she usually goes over each concept twice, and they build on top of each other. She's a clear lecturer and her slides are pretty in-depth. She's always available for help outside the classroom as well, as are the TAs. Some TAs are hit or miss as they're undergrads.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 9,
+          "funny_count": 1,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": null,
+          "review_id": 83232,
+          "submission_date": "2021-04-01T00:00:00",
+          "workload": null
+        },
+        {
+          "agree_count": 2,
+          "content": "This was a great class. Ansaf is an excellent professor and cares a lot about her students. I took the fall 2020 version of the course which was entirely online.  Ansaf did a terrific job adapting the course to an online format.  \nI am talented at math (A+ in the course) but still got a lot out of the course.  I think prior reviewers do future students a disservice by saying the class is too easy.  \nSo here are the exam stats for my semester: midterm average was 88.6 and the final exam average was 78.4.  Clearly many students struggled with the material on the final exam.  It was a very fair exam -- my point is that the class is not trivial if you really want to master it.     \nSome students have said that it is easy to hurt your score by making a careless mistake. The class is not akin to a heavy computational Ordinary Differential Equations course where a single mistake is easy to make and will throw you off. If you are making mistakes on the problems in this class, you generally do not have a perfect understanding of the concepts. And these are key concepts in mathematics.      \nIf you actually pay attention in lecture, read the notes, and also read the text (the Scheinerman text is solid), you will learn a few important concepts even if you have a solid math background.  And these are very key concepts in math.  The coding assignments are good Python practice. \nEven if you place out of the course, I would recommend taking it.  It's a very crucial course in one's intellectual development and it's enjoyable.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 5,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": null,
+          "review_id": 83236,
+          "submission_date": "2021-01-01T00:00:00",
+          "workload": null
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 10,
+          "content": "Ansaf is a very sweet and nice person. She's probably one of the most approachable professors in the CS department, which is such a relief. She is very understanding of how much stress students go through, and she sometimes extends the weekly homeworks if she feels that she hasn't covered most of the material on time. The homeworks don't require you to break your head and overstress--basically based on what you learned in class and from her textbook notes but a little bit more challenging by a tad bit. There are 4 coding assignments that deal with coding in Python and are very easy. The midterm questions were almost the same style as the homework with some questions being a little more challenging. Haven't taken the final yet. I heard that a lot of people got A's in the class. So I think as long as you're in the average grades, you'll be fine.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 5,
+          "funny_count": 4,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 83758,
+          "submission_date": "2023-04-18T14:12:53",
+          "workload": "~12 Written Assignments: 30%, 4 Coding Assignments: 15%, Midterm 25%, Final: 30%"
+        },
+        "controversial_review": {
+          "agree_count": 7,
+          "content": "Do not take this course if you are decently great at mathematics.\r\nI absolutely learned NOTHING in this course. I tested out this course but I decided to take it anyway to graduate in time. It was the worst mistake I had in Columbia. The problem is that the professor did not go over anything in-depth and I am not even sure she knows the content well.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 19,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 1,
+          "review_id": 82057,
+          "submission_date": "2020-04-28T18:50:15",
+          "workload": "weekly assignment, annoying"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13076?page=4",
+    "payload": {
+      "number_of_reviews": 31,
+      "reviews": [
+        {
+          "agree_count": 2,
+          "content": "Ansaf is one of the kindest professors you\u2019ll meet at Columbia, but she\u2019s a mediocre teacher; she\u2019s too prone to glossing over the meat of the material. Everything you need to know can be easily found in the lecture notes she posts at the end of each week, so attending lectures is pointless. I think attendance trickled down to 20-30 students after the midterm.\nI will say that the course felt rushed near the end. Discrete was recently bumped up from 3 credits to 4 credits because the syllabus was revised to add more targeted prep for classes like AI. However, it\u2019s clear that Ansaf was not ready for this change. We went through the first three chapters at a snail\u2019s pace before the midterm, and then Ansaf had to cancel a full week\u2019s worth of lectures because she got COVID. As a result, the second half of the semester felt strapped for time, and we blitzed through the rest of the material. It got to the point where I don\u2019t feel adequately prepared for classes that require Discrete as a prerequisite even though I got an A in this class.\nOn the TAs: it seemed like most of them were TAing for the first time. Piazza posts took forever to get answered, and it usually took a few weeks for graded work to be returned. I never attended their Friday recitations, but the problems they made were generally harder than the homework or exams. Being able to solve these problems means that you truly understand the material, so be sure to do them if you know you\u2019ll need Discrete in the future.\nAt the end of the day, I\u2019m not sure if I can recommend Ansaf\u2019s version of Discrete. It\u2019s one of the easiest classes at Columbia and doesn\u2019t require a ton of work, but don\u2019t expect it to sufficiently prepare you for higher-level math or theoretical CS classes. If you have the option of testing out, I think doing so and taking a more advanced course in its place would be a better use of your time unless you desperately need the GPA boost.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": null,
+          "review_id": 83234,
+          "submission_date": "2021-01-01T00:00:00",
+          "workload": null
+        },
+        {
+          "agree_count": 2,
+          "content": "Hands down the most annoying class I've taken so far. A lot of students are saying this is an easy class but I have to respectfully disagree. I will agree with one thing from other reviews: Prof Ansaf is a really nice person.\nGrading literally took ages, with no communication from the TAs or the Prof on why it took nearly a month to get our assignments graded. This made it difficult to see what I needed to work on, and also strategize if I should skip the last assignment or not (since the lowest assignment is dropped).\nThe Head TA for this semester was, to put it nicely, rude. That is the nicest word that comes to mind based on their class-wide announcements and personal interactions. I'm sure they're smart and are very knowledgeable on the subject matter at hand - but their communication skills when interacting with students are poor.\nThat said.. there are some things I really enjoyed:\n\nGenerous final grade, +2 pts if you submit something on time, implementation of Python coursework is a great addition to the course, allowing 'coding group' to work on a coding assignment together was a great way to meet new people in a virtual environment.\nCaveat: I took this class in Fall '20 in the middle of the pandemic. While I faced a heavy workload due to this course I'm sure the teaching staff did as well.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": null,
+          "review_id": 83235,
+          "submission_date": "2021-01-01T00:00:00",
+          "workload": null
+        },
+        {
+          "agree_count": 7,
+          "content": "Do not take this course if you are decently great at mathematics.\r\nI absolutely learned NOTHING in this course. I tested out this course but I decided to take it anyway to graduate in time. It was the worst mistake I had in Columbia. The problem is that the professor did not go over anything in-depth and I am not even sure she knows the content well.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 19,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 1,
+          "review_id": 82057,
+          "submission_date": "2020-04-28T18:50:15",
+          "workload": "weekly assignment, annoying"
+        },
+        {
+          "agree_count": 1,
+          "content": "I took this class Spring 2018\r\n\r\nProfessor: I think that professor Ansaf is great. Really, despite all the comments written below I still think that it is unfair to moke professor only because she is a naturally kind person. She was always approachable and her course was extremely well organized.\r\n\r\nOrganization:\r\n- first of all, you can see all the topics she is going to cover on courseworks from the very first day of the class\r\n- you can also see the dates of upcoming exams/midterms to organize your schedule (you may think that it is always the case but once you get more experience with Columbia, you may realize that it is NOT)\r\n- there were always availability of lecture notes handwritten and typed (also very helpful and rare at Columbia)\r\n- there are two books for this class which cover all the material but students usually do not notice the existence of the second one: it is only for \"inference topic\" but you do not have to buy it. All of them are always available at the library \r\n\r\nOHs:\r\nI personally never went to OH and I cannot say anything about TAs for this class, but the overall organization was so great that I even didn't have to! Everything was in books and lecture notes. \r\n\r\nExams:\r\nMidterms were great: you can have a cheat sheet with formulas you may forget. Then you do not need to study formulas: you basically have to UNDERSTAND the material. Moreover, it consists of numerous small problems: it never happens that the problem is worth 40-50-60% of the exam (as it happens in other classes: but you realize it again only with more experience at Columbia).\r\nThat is why when you cannot solve something - you still will be fine.\r\n\r\nOverall feeling:\r\nIt was the only course where you didn't need to stress out and be scared as hell before exams if you missed a lecture because everything was organized so well that another student even didn't need to go to a lecture. Probably, that is why everybody decided not to attend lectures and then to complain.\r\n\r\nTeaching style:\r\nThis class is big: one section is around 150 students. And it is always hard to explain material if there are so many people. \r\nIf you go to the lecture and keep attention to what the professor explains - you will definitely enjoy her teaching style.\r\nIf you stay in the last row and spent half of the lecture on facebook - you probably will not enjoy her teaching style.\r\nThat is why to enjoy this class I would suggest to go to the lecture and try to listen to the professor, to attend her OHs: \r\nit is the only way you will really enjoy the Discrete. Believe me, Ansaf is great: you just have to keep attention to what she is saying. \r\nIn any case, if compared to other classes, you always will be well equipped with all the materials needed.  ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 1,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 81510,
+          "submission_date": "2019-10-07T20:44:03",
+          "workload": "Depends on your background: can be very easy if you have one or hard if you don't have\r\nHowever, all the prerequisites are written in syllabus \r\n\r\nAssignments (40%):10 assignments. \r\nExams (55%): 3 in-class midterms\r\nParticipation in class (5%)\r\n\r\nAs far as I know, the class was changed and now it is the following formula:\r\nAssignments (~40%)\r\nCoding assignments (~10%)\r\nMidterm  (~25%)\r\nFinal (~25%)\r\n\r\nThey added coding and I find it amazing. \r\nPython is really needed for AI class but the only class offering it before AI is COMSW1012, \r\nwhich you have to take before Java Intro if you are unfamiliar with coding.\r\nIf I could, I would like to take this class again:)"
+        },
+        {
+          "agree_count": 1,
+          "content": "Professor Ansaf lies somewhere in between awful and good. Extremely friendly and approachable but very mediocre when it comes to teaching the actual material. This is not really a big deal because discrete maths (as taught in Columbia anyways) is a very easy class, lacking all the rigour that makes discrete mathematics actually useful for CS. My biggest problem, however, are the ridiculous midterms , designed not to test someone's knowledge and understanding but rather how careful one is in avoiding silly mistakes. If you are taking this class, you better hope you are the type of person that does not make dumb oversights or else you really are in hard for a hard time\r\n",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 3,
+          "review_id": 81250,
+          "submission_date": "2019-03-19T23:00:29",
+          "workload": "3 hours a week \r\n6 hours around midterms\r\n3 Midterms no final\r\nLatex is honestly the hardest part\r\n"
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 10,
+          "content": "Ansaf is a very sweet and nice person. She's probably one of the most approachable professors in the CS department, which is such a relief. She is very understanding of how much stress students go through, and she sometimes extends the weekly homeworks if she feels that she hasn't covered most of the material on time. The homeworks don't require you to break your head and overstress--basically based on what you learned in class and from her textbook notes but a little bit more challenging by a tad bit. There are 4 coding assignments that deal with coding in Python and are very easy. The midterm questions were almost the same style as the homework with some questions being a little more challenging. Haven't taken the final yet. I heard that a lot of people got A's in the class. So I think as long as you're in the average grades, you'll be fine.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 5,
+          "funny_count": 4,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 83758,
+          "submission_date": "2023-04-18T14:12:53",
+          "workload": "~12 Written Assignments: 30%, 4 Coding Assignments: 15%, Midterm 25%, Final: 30%"
+        },
+        "controversial_review": {
+          "agree_count": 7,
+          "content": "Do not take this course if you are decently great at mathematics.\r\nI absolutely learned NOTHING in this course. I tested out this course but I decided to take it anyway to graduate in time. It was the worst mistake I had in Columbia. The problem is that the professor did not go over anything in-depth and I am not even sure she knows the content well.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 19,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 1,
+          "review_id": 82057,
+          "submission_date": "2020-04-28T18:50:15",
+          "workload": "weekly assignment, annoying"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13076?page=5",
+    "payload": {
+      "number_of_reviews": 31,
+      "reviews": [
+        {
+          "agree_count": 0,
+          "content": "Don't take this class - it isn't worth the paper you will write notes on. \r\n\r\nOverall, one of the worst classes ever. Ansaf is very nice which is a redeeming factor for her but her TAs are lazy and never graded an assignment on time  - we got the midterm back two weeks before the final and homeworks were continuously regraded because one of the TAs decided that the class is \"too easy\" and said to a few of us that he will take it in his own hands to make the class tougher-  completely graded off rubric should never be allowed to TA. Ansaf is lazy as fuck and would be disorganized. Her iPad never works but she insists on projecting it to everyone. \r\n",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 1,
+          "funny_count": 1,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 2,
+          "review_id": 80633,
+          "submission_date": "2018-01-21T18:35:50",
+          "workload": "2 Exams, weekly assignments that are graded randomly out of a range from 50 to 123 (Wtf) "
+        },
+        {
+          "agree_count": 2,
+          "content": "I learned a lot in this course. \r\n\r\nI didn't really know much about the theoretical underpinnings of AI and in the semester I took the course (Spring 2017), we went through a bunch of unsupervised/supervised learning techniques. The lecture slides were very good and I found her lectures also quite understandable. \r\n\r\nI thought the exams were quite fair as well, with the Midterm being a bit long but still doable. The Final wasn't cumulative so the amount of material to cover in both tests is actually reasonable. If you go through the lecture slides, you should be fine.\r\n\r\nThe assignments were a different animal. I really underestimated how much time the 1st assignment would take, which was a lesson I learned the hard way (I basically spent Friday-Sunday writing code all day). The 2nd assignment was frustrating because your entire grade was based on 10 test cases (and I thought the times I ran tests on my own computer, I scored better). Thankfully, the last three assignments are definitely easier and took me way less time.\r\n\r\nOverall, I'd say it was a pretty good introduction to AI. The curve seemed to be fairly forgiving based on the grade I got.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 80623,
+          "submission_date": "2018-01-18T12:05:09",
+          "workload": "5 assignments, midterm, final"
+        },
+        {
+          "agree_count": 1,
+          "content": "I took this Fall 2017. \r\n\r\nLecture: I know that most students stopped going to lecture at the end of the semester because they found it useless, but I disagree. Although she does post power point slides summarizing what she teaches in lecture, they are a fair amount of helpful examples that she goes over in class which are not included in the power points. These in-class examples are also closely aligned with what she puts on the exams. The overall consensus within the department is that Ansaf is a nice person, but a so-so teacher. This is true. Her lectures were average in every respect: organization, clearness, etc. I was a student that always asked questions in class and she was always willing to stop what she was doing, unlike other professors, to answer my question and make sure I understood. \r\n\r\nHomework: Took me about 5-7 hours for every homework assignment. If I got stuck, I would go to the TA office hours for help\u2014at OH, the TAs (at least the ones I went to) were incredibly helpful and often just gave me the answer. Homework is doable if you pace yourself, ask for help from your friends/TAs at OH/TAs on Piazza. \r\n\r\nExams: The exams are EASIER than the homework, and as I said before the questions on the exams are closely aligned with the ones she goes over in lecture (again, go to lecture). \r\n\r\nOverall, I would recommend this class. Ansaf's kindness/approachability, combined with a generous curve, make this class worth taking despite the fact that her teaching is so-so. You will learn. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": null,
+          "review_id": 80577,
+          "submission_date": "2018-01-08T15:40:23",
+          "workload": "10 homeworks (40%), 2 midterms (30%), final (20%), and participation (10%).  For participation, your participation in the in-class quizzes (which are not graded for correctness, just completeness), going to office hours, asking questions on piazza, is rewarded. I was a student that went to most lectures, but if you don't go to lecture you could just ask your friend who does go to put your name on the in-class quiz and turn it in for you. \r\n\r\nI got an 87 on the first midterm, a 96 on the second midterm, an 81 on the final, and ~95 on the homeworks and I got an A. "
+        },
+        {
+          "agree_count": 0,
+          "content": "Ansaf is nice. That is the best thing I can say about her. I had her for Python last year, and she has improved since then, but her Discrete Math class remains disorganized and frustrating. \r\n\r\nAnsaf has the basic skills of a teacher. She is able to introduce and explain new concepts and provide examples to clarifies what she means. Beyond that, though, she becomes very repetitive. She teaches at an extremely basic level without any breadth or depth. Her lectures could be condensed to fifteen minutes. Her lectures are organized and simple, which made them worth going to rather than just reading the textbook, but not extraordinary or even excellent. \r\n\r\nAnsaf's exams are a nightmare. Not that they're hard - they're actually quite easy, according to the nonexistent curve. Which means that if you make a mistake, there will be no \"safety net\" to catch you. Her exams simply aren't rigorous enough. You need to be careful and achieve perfection. Watch out for the TAs: their grading is arbitrary and aggressive. You will lose a large number of points on small mistakes.\r\n\r\nThe quality of class is subpar but you will survive. You'll just be miserable while you're there.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 2,
+          "review_id": 80408,
+          "submission_date": "2017-12-11T22:19:42",
+          "workload": "1 weekly homework assignment, up to 3 hours to complete\r\n2 midterms, 1 double sided handwritten cheat sheet allowed\r\n1 short final on the last day of class, 2 double sided handwritten cheat sheets allowed"
+        },
+        {
+          "agree_count": 0,
+          "content": "Ansaf is so, so kind and helpful, but tends to oversimplify concepts in class.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 3,
+          "review_id": 80366,
+          "submission_date": "2017-12-07T19:33:28",
+          "workload": "Weekly HWs, 2 midterms (easy), 1 final (a little harder)"
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 10,
+          "content": "Ansaf is a very sweet and nice person. She's probably one of the most approachable professors in the CS department, which is such a relief. She is very understanding of how much stress students go through, and she sometimes extends the weekly homeworks if she feels that she hasn't covered most of the material on time. The homeworks don't require you to break your head and overstress--basically based on what you learned in class and from her textbook notes but a little bit more challenging by a tad bit. There are 4 coding assignments that deal with coding in Python and are very easy. The midterm questions were almost the same style as the homework with some questions being a little more challenging. Haven't taken the final yet. I heard that a lot of people got A's in the class. So I think as long as you're in the average grades, you'll be fine.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 5,
+          "funny_count": 4,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 83758,
+          "submission_date": "2023-04-18T14:12:53",
+          "workload": "~12 Written Assignments: 30%, 4 Coding Assignments: 15%, Midterm 25%, Final: 30%"
+        },
+        "controversial_review": {
+          "agree_count": 7,
+          "content": "Do not take this course if you are decently great at mathematics.\r\nI absolutely learned NOTHING in this course. I tested out this course but I decided to take it anyway to graduate in time. It was the worst mistake I had in Columbia. The problem is that the professor did not go over anything in-depth and I am not even sure she knows the content well.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 19,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 1,
+          "review_id": 82057,
+          "submission_date": "2020-04-28T18:50:15",
+          "workload": "weekly assignment, annoying"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13076?page=6",
+    "payload": {
+      "number_of_reviews": 31,
+      "reviews": [
+        {
+          "agree_count": 5,
+          "content": "Before I write this review, I would like to preface it: Professor Ansaf is probably the nicest, most committed teacher I have ever had at Columbia. She was incredibly personable, and always had time during her office hours to help or chat. \r\n\r\nSo...I didn't think this was a good class. I know a lot of seniors took this class because it was supposed to be relatively easy where you still learned a lot. Unfortunately, neither of those were true this semester. This could be because this is the first time in two years that this course has been offered, or perhaps because she (very nicely) expanded the class to 275 students, so there was less one-on-one time with instructors. As it was, the Professor would show up late (despite her best efforts) every class because of a meeting directly prior to class. That's unfortunate, because it means the first 5-15min of class were used for setting up instead of lecturing. I think if the Professor knew she would be teaching a class at 1:10pm, she should have scheduled her meeting for another time (or vice versa). \r\n\r\nAdditionally, the class was incredibly disorganized. The homework instructions were generally incredibly vague and because of that on Piazza there would be -- I kid you not -- 50-80 unanswered piazza posts during homework times. The homeworks were also badly managed, as they were more rushed in deadlines towards the end of the semester. Also, there was a time where a homework was due the same time as the midterm, which was incredibly distracting and in my opinion badly managed. Considering how much time the homeworks took, it was relatively disorganized schedule-wise.\r\n\r\nThe exams weren't much better - instead of testing the actual content of the class slides/lectures, they tested your speed in problem solving. If you're able to do each problem in about a minute to 5 minutes you'll be fine -- but that was not typical. If you take the exams, I recommend that you first focus on the highest weighted problems first -- aim for the max points in the least time, not about going in depth. The practice problems are good for general formatting, but not on timing. If the professor had added more practice problems for exams I think that would have helped. \r\n\r\nFinally, the TAs were generally useless. Of the about 10 TA's, all of whose office hours I went to, only about 3 were consistently able to answer my questions and help me on my homeworks. Jimmy/Ruicong was the best TA so I hope he stays on if this class gets taught again. \r\n\r\nIn general, I wouldn't take this class again. I didn't feel like I learned anything, and the homeworks were just implementing algorithms in a really convoluted way. ",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 1,
+          "funny_count": 1,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 3,
+          "review_id": 79992,
+          "submission_date": "2017-05-07T18:02:36",
+          "workload": "1 Midterm - 20%\r\n1 Final - 30%\r\n5 Homeworks - 50%"
+        },
+        {
+          "agree_count": 2,
+          "content": "As a senior, this is possibly one of the worst classes I have ever taken in the Columbia CS department. Full disclosure: I got an A in this class, so this isn't just whining.\r\n\r\nProfessor Ansaf is super nice but incredibly disorganized. She never showed up to class on time, and every class had \"technical issues\" that would last the first 15 minutes of lecture time. Furthermore, when she would teach, it would be rushed and very high level, when what you needed to know on the exams and homework were much more detailed. Again because of her disorganization, the first half of the class was very laid back - there was very little work and only two homeworks. Then, for some godforsaken reason she decided to assign homework 3 (the 2048 game, in my opinion, the hardest homework because of the necessary optimization problems) and have the midterm two days apart. It was endless sleepless nights because the homework took so goddam long and so did studying for the midterm. Her practice exam was only slightly helpful, and neither were her lectures for the midterm.\r\n\r\nSide note: her exams don't test knowledge. They test speed. The midterm exam was absolutely ridiculous because it had about twice as many questions as were possible to answer in that time period. It was super frustrating, especially since none of the students knew that coming in, so a lot of people absolutely bombed that exam when we actually knew the content. When I went to talk to her about it, she said she wasn't going to help because everyone was graded on a curve. Okay, thanks for that nonexistent help. \r\n\r\nFinally, the last half of the class was incredibly rushed, because she realized she hadn't taught any of the topics she needed for the homeworks. So instead of giving us time for the assignments by spacing them out, she instead gave us an assignment every week. The homeworks are incredibly time-consuming (because you always have to optimize over and over again) so you barely had any time at the end of the semester to do anything. Finally, the final again was ridiculous. \r\n\r\nAll I can say is that I hated this class. Professor Ansaf was disorganized and there were only 1 or 2 TAs that were actually helpful. In essence, take this class only if you're prepared to learn everything on your own, and get no support from the professor besides a curve. ",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 2,
+          "review_id": 79991,
+          "submission_date": "2017-05-07T11:33:50",
+          "workload": "5 Homeworks - 50%\r\n1 Midterm - 20%\r\n1 Final - 30%"
+        },
+        {
+          "agree_count": 0,
+          "content": "I took this in Fall 2016. Disclaimer: I got an A+.\r\n\r\nDiscrete math is an easy topic, but the professor is a bad, boring, slow lecturer, and the TAs are neither very friendly nor understanding (although very responsive). They all seemed to think they were much smarter than every student--and I'm sure they all A+'d the class and think this is easy stuff, but that doesn't give them an excuse to talk down to us. I have friends taking this now (Spring 2017), and they also think the TAs are very full of themselves and have times gotten into little spats with students on Piazza. They're constantly arriving late to office hours, sometimes unable to solve the homework problems that they make and assign themselves, and overall just incredibly pretentious.\r\n\r\nTake this class with a different lecturer--or just different TAs--if you can.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 1,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 3,
+          "review_id": 79970,
+          "submission_date": "2017-05-02T15:50:59",
+          "workload": "1 midterm, 1 final, problem sets about once every two weeks"
+        },
+        {
+          "agree_count": 0,
+          "content": "Ansaf is a strange breed at Columbia. I've never seen a teacher care so much about the academic and personal well-being of her students. Step into office hours and she exudes warmth and happiness.  Her and the TAs were very responsive on Piazza, and also very willing to listen to arguments for grading changes. Lots of partial credit on exams as well. Overall pretty easy class.\r\n\r\nHowever, the actually teaching quality has a high variance. I think she does a fine job of explaining stuff, but she goes extremely slowly and there is almost 0 value to actually showing up to class, when you can just skim the entire week's powerpoints in 20 minutes and have caught up on the material. \r\n\r\nOverall, I would definitely recommend this section. However, if you want a rigorous understanding of Discrete, and also to be challenged in class, I would look elsewhere. Jessica Ouyang taught a concurrent section the semester I took the class, but she was less popular simply because she offered those things and people (including myself) were too lazy and just wanted to get out of a requirement. ",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 3,
+          "review_id": 79674,
+          "submission_date": "2016-12-31T06:02:45",
+          "workload": "very light. 1 homework every 10 days. Homework takes about 5 hours to complete. 3 midterms (20% * 3 midterns + 60% HW grade)"
+        },
+        {
+          "agree_count": 1,
+          "content": "Prof Ansaf is very friendly and the class was interactive. There was a good balance of traditional AI topics such as agents, search algorithms, CSPs and logic with a focus on machine learning in the second half of the semester. The prof mainly used her slides but there were some chalk board sessions as well. The slides were very well prepared and Prof Ansaf takes you through the math in a very simplified manner. The slides are sufficient and the text book can be used for any reference reading.\r\n\r\nThere were four assignments and all of them had Python programming. Basic programming knowledge is sufficient for this class as Python is easy to pick up. There was a Python recitation taken by one of the TAs in the beginning of the semester and it was very helpful to get started. The assignments were interesting (application of AI to games like 2048, mazes etc) but time consuming - as you can keep trying to improve the performance of your program. Definitely the best way to understand the intricacies of the algorithm though and the prof was kind enough to give additional time on the assignments when required. There were a lot of opportunities to score extra credit if you needed to catch up on a bad performance. We had one quiz and a lot of suggested reading material if you were interested. The course covered a lot of topics - AI and ML related. But the midterm and final were both open notes so you could focus on application rather than memorizing formulae or algorithms. The exams definitely made you think but as long as you understood the content it, the problems were solvable. The final grading formula was very generous and took the best performances into account for most students.\r\n\r\nThe TAs were helpful during office hours and on Piazza. Especially close to exam time, the response time of the prof on Piazza was great which helped a lot.\r\n\r\nThe professor balanced heavy course material with lighter \"historical moments of the day\" and current events in AI which made the two and a half hour class easier to get through. We also had a guest lecturer in the last class. All in all the professor really cared and took great initiative to give us more information than strictly the course content and made the classes more fun.",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 3,
+          "review_id": 78321,
+          "submission_date": "2015-01-16T16:21:34",
+          "workload": "Weekly lecture 2.5 hours + 4 Python programming assignments (45%) + Class participation (5%) + Midterm/Final Exam (50%) + lot of opportunities to score extra credit."
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 10,
+          "content": "Ansaf is a very sweet and nice person. She's probably one of the most approachable professors in the CS department, which is such a relief. She is very understanding of how much stress students go through, and she sometimes extends the weekly homeworks if she feels that she hasn't covered most of the material on time. The homeworks don't require you to break your head and overstress--basically based on what you learned in class and from her textbook notes but a little bit more challenging by a tad bit. There are 4 coding assignments that deal with coding in Python and are very easy. The midterm questions were almost the same style as the homework with some questions being a little more challenging. Haven't taken the final yet. I heard that a lot of people got A's in the class. So I think as long as you're in the average grades, you'll be fine.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 5,
+          "funny_count": 4,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 83758,
+          "submission_date": "2023-04-18T14:12:53",
+          "workload": "~12 Written Assignments: 30%, 4 Coding Assignments: 15%, Midterm 25%, Final: 30%"
+        },
+        "controversial_review": {
+          "agree_count": 7,
+          "content": "Do not take this course if you are decently great at mathematics.\r\nI absolutely learned NOTHING in this course. I tested out this course but I decided to take it anyway to graduate in time. It was the worst mistake I had in Columbia. The problem is that the professor did not go over anything in-depth and I am not even sure she knows the content well.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 19,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 1,
+          "review_id": 82057,
+          "submission_date": "2020-04-28T18:50:15",
+          "workload": "weekly assignment, annoying"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://culpa.info/api/review/professor/13076?page=7",
+    "payload": {
+      "number_of_reviews": 31,
+      "reviews": [
+        {
+          "agree_count": 0,
+          "content": "I took this AI class with Ansaf. I like her teaching style and her class. She focus on the searching algorithm and machine learning for most time which are quite interesting to me. It is not easy to cover all the machine learning algorithms in less than half semester so that she taught a little bit fast in the machine learning part. The after class studying will be necessary if you want to grasp these algorithms. I also like her homework. She have assigned four homework, all programming in python. Most of them are very practical problem(for example to program a AI for 2048 game) and some of them are very challenging. \r\n\r\nIt is hard to say the importance of this class to me. Honestly I expect more in this class because firstly I have taken machine learning before and I want to have a systemic understanding about how to build up an AI. But after taken this class, what I have learn and what I can understanding is not clear enough. I cannot say that I have a clearly and systemic understanding about how to build up a practical AI. Maybe it is because the artificial intelligence is a quite wild field that cannot be cover by only one class in one semester. If I can arrange the topics in this class, I will set this class as a higher level class and the machine learning class should be required before this class. Then the professor may discuss more in AI rather than take most of time to discuss machine learning and algorithm. \r\n\r\nAll in all, Ansaf is a quite instructive teacher. For those students who haven't taken machine learning before, this class is very useful and you can learn a lot in this class.\r\n\r\n(written by Z.H.)",
+          "course_header": {
+            "course_code": "COMS W4701",
+            "course_id": 26,
+            "course_name": "Artificial Intelligence"
+          },
+          "disagree_count": 0,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 3,
+          "review_id": 78296,
+          "submission_date": "2015-01-12T06:39:52",
+          "workload": "4 homework+1quizz+1midterm+1final\r\nThe overall aggregation is as follows: \r\n45% *HW  +   5% * participation_class +  50% * MAX(midterm,final)"
+        }
+      ],
+      "reviews_spotlight": {
+        "agreed_review": {
+          "agree_count": 10,
+          "content": "Ansaf is a very sweet and nice person. She's probably one of the most approachable professors in the CS department, which is such a relief. She is very understanding of how much stress students go through, and she sometimes extends the weekly homeworks if she feels that she hasn't covered most of the material on time. The homeworks don't require you to break your head and overstress--basically based on what you learned in class and from her textbook notes but a little bit more challenging by a tad bit. There are 4 coding assignments that deal with coding in Python and are very easy. The midterm questions were almost the same style as the homework with some questions being a little more challenging. Haven't taken the final yet. I heard that a lot of people got A's in the class. So I think as long as you're in the average grades, you'll be fine.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 5,
+          "funny_count": 4,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 4,
+          "review_id": 83758,
+          "submission_date": "2023-04-18T14:12:53",
+          "workload": "~12 Written Assignments: 30%, 4 Coding Assignments: 15%, Midterm 25%, Final: 30%"
+        },
+        "controversial_review": {
+          "agree_count": 7,
+          "content": "Do not take this course if you are decently great at mathematics.\r\nI absolutely learned NOTHING in this course. I tested out this course but I decided to take it anyway to graduate in time. It was the worst mistake I had in Columbia. The problem is that the professor did not go over anything in-depth and I am not even sure she knows the content well.",
+          "course_header": {
+            "course_code": "COMS W3203",
+            "course_id": 397,
+            "course_name": "Discrete Mathematics"
+          },
+          "disagree_count": 19,
+          "funny_count": 0,
+          "professor_header": {
+            "first_name": "Ansaf",
+            "last_name": "Salleb-Aouissi",
+            "nugget": 1,
+            "professor_id": 13076,
+            "uni": "as2933"
+          },
+          "rating": 1,
+          "review_id": 82057,
+          "submission_date": "2020-04-28T18:50:15",
+          "workload": "weekly assignment, annoying"
+        }
+      }
+    }
+  }
+]

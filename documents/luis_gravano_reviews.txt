@@ -1,0 +1,349 @@
+Professor: Luis Gravano
+CULPA professor ID: 375
+Public page: https://culpa.info/professor/375
+API source pattern: https://culpa.info/api/review/professor/375?page=1
+Total reviews reported by API: 18
+Reviews collected: 18
+
+================================================================================
+
+Review 1
+Review ID: 89252
+Submission date: 2026-03-31T20:20:30
+Course: COMS W4111 - Introduction to Databases
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+3 homeworks, 1 midterm, 1 final
+
+Review content:
+I really enjoyed the class and Prof. Gravano was really kind. Compared to the experiences of some of my other friends who took the class with other professors, I definitely think this class was really organized. The second half of the course was a bit difficult but it wasn't too bad.
+
+--------------------------------------------------------------------------------
+
+Review 2
+Review ID: 86646
+Submission date: 2025-03-14T13:29:15
+Course: COMS W4111 - Introduction to Databases
+Rating: 4/5
+Feedback counts: agree=10, disagree=0, funny=1
+
+Workload:
+There are two exams (one midterm and one final) which are reasonable and fairly similar to the practice exams made available. There is also one big project throughout most of the semester, which has several parts. The project consists on designing a database for an application, implementing it in SQL, populating it with data, and ultimately building a simple web app that uses it. This project was extremely helpful to understand how to use SQL databases in practice. The grading for the project is very forgiving. Just turn in everything on time and you will be fine
+
+Review content:
+Professor Gravano is overall a great Professor. In this class, you will learn mostly about SQL databases. You will learn how to design a proper database schema which enforces integrity constraints, how to implement this schema using PostgreSQL, and how to use and interact with a database server. These are all very useful for people who want to go into software engineering
+
+There are also some more niche topics covered (e.g. how database locks work to ensure atomic transactions) which are not as practical, but still very helpful.
+
+--------------------------------------------------------------------------------
+
+Review 3
+Review ID: 83977
+Submission date: 2023-05-15T20:33:24
+Course: COMS E6111 - Advanced Database Systems
+Rating: 5/5
+Feedback counts: agree=6, disagree=0, funny=0
+
+Workload:
+There are three projects (that you do with a partner). They are equally weighted and are 50% of the grade. They are pretty cool assignments and do a good job of supplementing your understanding of the lectures. Most people get 100% on the projects. (Medians were 100%, 100%, 100% and means were 93%, 95%, 97%.)
+
+There is also a midterm and final (non-cumulative). Professor Gravano posts the previous year's tests and he follows a very similar format for each test, so you have a pretty good idea of what's coming on the test. 
+
+I would have to assume most people got A's in the class, and while the projects do take some time, they are very doable.
+
+Review content:
+Professor Gravano is a fantastic professor. He makes the material very digestible, and everything is taught clearly with easy-to-follow slides. Ed posts are answered in a timely manner, and he always answered e-mails I sent with additional questions about assignments or the lectures. (He assigns papers and textbook chapters as additional readings, but no extra knowledge is required beyond what is directly taught in class.)
+
+Professor Gravano is also obviously a very nice and friendly guy. I personally find that it makes a big difference in class when you can tell the professor is rooting for you and wants you to do well. 
+
+Overall, I found the concepts to be very relevant and interesting, and I really enjoyed the material. This is a must take if you are even remotely interested in the topic (and maybe even if you aren't).
+
+--------------------------------------------------------------------------------
+
+Review 4
+Review ID: 83742
+Submission date: 2023-04-16T21:01:35
+Course: COMS E6111 - Advanced Database Systems
+Rating: 4/5
+Feedback counts: agree=16, disagree=10, funny=6
+
+Workload:
+Lighter than most CS classes -- 3 project homeworks, 1 midterm, 1 final.
+
+Review content:
+His lectures are one of the clearest ones at the Columbia CS department. Workload and lecture coverage are pretty light; yet, you learn a lot of things. He is the kind of professor who explains difficult concepts in an easy-to-digest way. Highly recommend.
+
+--------------------------------------------------------------------------------
+
+Review 5
+Review ID: 82093
+Submission date: 2020-05-06T13:06:35
+Course: COMS E6111 - Advanced Database Systems
+Rating: 3/5
+Feedback counts: agree=7, disagree=3, funny=4
+
+Workload:
+3 homeworks -- long but easy. There used to be a midterm but was cancelled due to the pandemic. 1 final.
+
+Review content:
+I took this class during the COVID19 pandemic (Spring 2020). He is obviously a master of the subject and his lectures are clear but they are incredibly boring, there are 3 homeworks and all of them are long but easy. Because of the pandemic, our midterm was pushed continuously until Gravano decided to just cancel the midterm (at the time midterm was 20%, final 30%, hw 50%) and make the grading distribution as follows: final 50%, homework 50%, which is horrible because a single day's performance can decide if you fail this class or not. After a Piazza post and numerous students agreeing that making the final 50% is too much, Gravano graciously(!) changed the distribution of the final to 40% instead of 50%.... Also, there are a lot of grad students in this class and the homework averages were 9.5-10 out of 10 every time even in the pandemic, so make sure you keep up with the homework and follow all of his instructions.
+
+--------------------------------------------------------------------------------
+
+Review 6
+Review ID: 81867
+Submission date: 2020-01-28T02:15:44
+Course: COMS W4111 - Introduction to Databases
+Rating: 5/5
+Feedback counts: agree=3, disagree=0, funny=0
+
+Workload:
+Fairly average for a CS class, projects take more time than you'd expect so definitely start in advance
+
+Review content:
+Really excellent overall professor: clear, well organized, understanding. If you're interested in DB he is a great choice of prof
+
+--------------------------------------------------------------------------------
+
+Review 7
+Review ID: 79576
+Submission date: 2016-12-17T19:28:34
+Course: COMS E6111 - Advanced Database Systems
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+Not too bad. We had three programming projects which took a bit of time, but if you start early you won't have any issues. A midterm and final (not cumulative), neither of which were terribly hard. Of course there's a curve so it's all relative
+
+Review content:
+Solid and enjoyable class. The course essentially surveys different areas of database systems (e.g. information retrieval, OLAP systems, data mining etc), beyond the relational paradigm that is covered in 4111. We typically spent 1-2 lectures on each topic. While that meant we weren't necessarily able to go into too much depth, Prof Gravano does a great job explaining everything and I personally felt like I got a lot out of the class. 
+
+Professor Gravano is really nice, in addition to being a great lecturer. The readings were helpful, but his lectures are really clear and I found them to be most helpful for learning the material. He was very responsive on Piazza too which is always helpful. He seems to care about his students, and did a good job answering questions in class.
+
+Overall, highly recommended course.
+
+--------------------------------------------------------------------------------
+
+Review 8
+Review ID: 79147
+Submission date: 2016-05-13T14:20:57
+Course: COMS W4111 - Introduction to Databases
+Rating: 4/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+Problem Sets (15%) - Not too difficult, although be sure not to make silly errors, since most of the class does well on the problem sets.
+
+Midterm (25%) - The first question requires you to define database terms in at most two sentences - the rest of the exam are free response questions asking you to write relational algebra expressions, write a query, etc.
+
+Final (40%) - Like the midterm, but slightly longer.
+
+Projects (20%, 15% for project 1 and 5% for project 2) - The first one is the longer one and each part is spread out over a couple of months. Definitely start early and pick a good partner, or you will suffer. The second one is much more manageable.
+
+Review content:
+Professor Gravano is an excellent lecturer. His lectures are very clear, and he does a good job of answering questions. He is also very friendly and helpful during office hours and maintains an active presence on Piazza.
+
+The only thing I didn't really enjoy was that he recycled some of the old databases lecture slides, which are sometimes unclear (his own lectures are much more helpful). Definitely show up to class, since the textbook, while helpful, contains more than you need to know and the slides are not very helpful on their own. Also, he offers homework and project grace late days which, while helpful, were not always allowed to be used on certain homework and project parts, which kind of defeats the purpose in some way.
+
+Despite my nitpicking, Gravano is still a great professor!
+
+--------------------------------------------------------------------------------
+
+Review 9
+Review ID: 79125
+Submission date: 2016-05-09T18:21:21
+Course: COMS W4111 - Introduction to Databases
+Rating: 3/5
+Feedback counts: agree=0, disagree=0, funny=0
+
+Workload:
+light
+
+Review content:
+The material is easy. The teacher is acceptable. But be aware: your grades will depend a lot on how CAREFUL you are in following the instructions of homeworks/exams.
+
+--------------------------------------------------------------------------------
+
+Review 10
+Review ID: 29612
+Submission date: 2014-06-04T05:06:27
+Course: COMS E6111 - Advanced Database Systems
+Rating: 3/5
+Feedback counts: agree=1, disagree=0, funny=0
+
+Workload:
+The workload is medium-light. If you are taking some insanity classes like OS or cloud computing, this might be worth using to pad your credits to full time so you don't overstress yourself but still learn a few things -- but again, give other courses some consideration.
+
+Review content:
+This is an acceptable course, but I have mixed feelings about it. Let's establish some baseline. Dr. Gravano is undoubtedly a capable lecturer, able to explain concepts lucidly. He occasionally told jokes that made the classroom laugh (sometimes). I'm pretty certain he genuinely cares for his students. You will almost certainly learn a lot of new and useful stuff while taking this course. Overall, the course was planned and executed well.
+
+If you are on the NLP or ML track â€“ or you have a strong interest in search engines or big data, you should certainly take this course. This course definitely falls squarely in that domain (I mean hey, the free textbook was on the NLP part of Stanford's website...). I suspect the facts you will learn will be very relevant to you. However, if you are on the software track taking this course just because it has good reviews and fulfills a requirement, I'd suggest giving other courses stronger consideration. I don't exactly regret taking this class, but I think I could have chosen better.
+
+Dr. Gravano curves the median to a B+ or A-. You may be thinking â€œSure, I'll just score above average!â€ but in a 90 something class full of smart people and easy assignments and tests, this is tricky to do â€“ and there is a good component of luck involved.
+
+The two tests which comprise 50% of your grade are themselves comprised of about 40% (each) true false questions. That's 20% of your grade roughly!  I felt that some of them were vaguely worded and it's pretty hit or miss if you remember the specific fact the question tests you on.
+
+You'll either need a very good memory or be very planned and careful how you review the lectures, because you really could get tested on any bullet point in them. It's fair and doable, but that's not my style. I'd rather be tested on my ability to apply what I learned to solve problems than my ability to simply remember details about stuff I could recall by referring to the textbook or my notes (neither of which are allowed on the exams).  Oh, and the readings are often straight torture. Thankfully, I don't ever remember seeing a question that was in the reading but not the lecture. Much of the writing was by authors showing off their ability to encrypt simple concepts into Latex strings. Dr. Gravano's lectures blew the textbook out of the water.
+
+The rest of the tests involve manually carrying out an algorithm he discussed in the lecture. The tests are easy, but I'm really not a fan of easy tests because mistakes will cost you a lot more. But that's obviously my opinion... you might think otherwise. 
+
+The HWs (java or python) certainly aren't trivial, but they aren't complicated either. The class generally averaged 9/10 on them with a very small standard deviation. I think I learned more about Python than I did about search algorithms or the subject matter of the class while doing the assignments. The first and last project implemented an algorithm that is probably only a step or two above the complexity of what you would encounter in an undergraduate data structures class at a reasonably competitive school. The second project mostly involved string formatting and learning how to use the API to google's open knowledge database. Personally, I found it pretty tedious. 
+
+This is not to say the assignments can be finished in two days. The API in the second project took forever to figure out, but I'd really rather invest my energy somewhere other than learning an API I won't use again in the foreseeable future. 
+
+In the grand scheme of things, this is not a bad class. Good for some people, less so for others. As you can tell by the other positive reviews, some folks do enjoy it. I see where they are coming from. Some of the things I don't like about the class are a matter of personal taste. I hazard to say you will likely get your tuition's worth on this class. If you are NLP or ML I think you almost certainly will. I'm just saying this class isn't for everyone.
+
+--------------------------------------------------------------------------------
+
+Review 11
+Review ID: 27264
+Submission date: 2012-05-07T23:13:35
+Course: COMS W4111 - Introduction to Databases
+Rating: 5/5
+Feedback counts: agree=7, disagree=1, funny=2
+
+Workload:
+4 equally-weighted homework assignments (15%)
+1 large project + demo (15%)
+1 small project (5%)
+1 midterm (25%)
+1 final (40%)
+
+The homeworks are light and occasionally add to the concepts covered in class. Projects are done in groups of two. The first project has multiple phases and takes place over a large span of time. The second project is short.
+
+The majority of the class obtains perfect or near-perfect marks on the homeworks and projects. The exams will be the differentiating factor.
+
+Review content:
+Professor Gravano is definitely one of the best professors I've had. His lectures are clear, precise, and occasionally humorous. He's very receptive to questions in class and often responds to questions both via e-mail and the discussion board, which is rare in my experience.
+
+He uses slides (available online) for much of the introductory portion of the course, but often switches to the blackboard to work out particular examples. The latter half of the course was taught almost entirely on the blackboard. 
+
+Corresponding book sections are listed for each lecture, but going to class or having a friend to take notes for you is important, as he sometimes he covers more or less material than is presented in the corresponding book chapters. The textbook (Ramakrishnan + Gehrke, 3e) is quite good, despite the many reviews you'll find online saying otherwise.
+
+While you will get a project mentor for your two projects, in reality there will be very little interaction with the TAs unless you seek it.
+
+--------------------------------------------------------------------------------
+
+Review 12
+Review ID: 23566
+Submission date: 2009-12-22T05:35:04
+Course: COMS W4111 - Introduction to Databases
+Rating: 4/5
+Feedback counts: agree=8, disagree=6, funny=0
+
+Workload:
+Two group projects (two teammates) - quite time-consuming, but definitely help you learn the material
+Four homework assignments - tough but fair and good for learning the material (which is useful because these are good indications of exam questions!)
+A midterm and a final - if you attend lectures and review all of the concepts before taking them, you'll be fine. I've heard the curve is great, too.
+
+Review content:
+Professor Gravano is a phenomenal instructor. He presents the material so clearly that at times you'll be bored to death because everything seems so simple! Don't be fooled, though -- this is only because he teaches so well (I made the mistake of being lulled into a state of overconfidence and skipped out on a few lectures, and I'm paying for it now just before the final!). 
+Gravano clearly knows his stuff and can answer any question you might have - if you ever have a doubt, don't hesitate to ask him a question because after he's through explaining, you'll wonder how you were *ever* confused.
+
+--------------------------------------------------------------------------------
+
+Review 13
+Review ID: 21025
+Submission date: 2008-03-04T00:00:00
+Course: COMS W4111 - Introduction to Databases
+Rating: 4/5
+Feedback counts: agree=16, disagree=20, funny=18
+
+Workload:
+Reasonable workload, but group projects are easily do-
+able on one's own.  Homeworks can be tricky and are a fair extension of concepts in class.  Exams are generally pretty difficult, but it shows in the curve.
+
+Review content:
+Professor Gravano is tied for my favorite computer science professor.  He generally follows quality texts in his lectures and easily outperforms them in terms of the ease with which the material is presented.  His homeworks and exams are reasonably challenging but also completely fair -- don't worry if you get a 60% on an exam because it will come out in the curve.
+
+Furthermore, he always knows what he's talking about (more than some professors) as a result of an expansive knowledge of all aspects of databases thus far.  Now that I have gotten to know him better, it seems this stems from a more passionate interest in the subject than I've seen with others in their respective fields and it leads to a genuine desire to help students really master the material.
+
+I would definitely recommend taking the 6111 course if 4111 was at all interesting.
+
+--------------------------------------------------------------------------------
+
+Review 14
+Review ID: 17363
+Submission date: 2006-12-30T00:00:00
+Course: COMS W4111 - Introduction to Databases
+Rating: 2/5
+Feedback counts: agree=2, disagree=4, funny=0
+
+Workload:
+The hw's were doable, the projects only passably difficult, but the tests were horribly difficult - unless you have a good memory, when rote memorization of concepts will make it possible for you to float through.
+
+Review content:
+Prof. Gravano is great as a person, and puts much effort on teaching, but for reasons I can't even try to understand, he also puts great effort in making even the most basic concepts ungraspable and obscure - obscure in the sense that they appear like irrelevant details that won't help you one bit in getting through the course, let alone a job interview.
+
+The first half of the course dealt with DB design and SQL coding, and was relatively easy,
+thanks in great part to the self-explanatory, standard flow charts used for DB design and to the equally obvius SQL code. The second half deals with DB I/O cost analysis, and was difficult enough for Prof. Gravano to turn into - take your pick - Derridean post-modern literary theory or Martian rocket science. Even in the project assignments the most obvious concepts were mangled into research paper theory filler - my project team mate, who sailed through the course, kept wondering why on earth the guy would go to such lenghts to turn the clear and easy into the hermetic and impossible. 
+
+Again, I never had any doubt that Prof. Gravano was putting more than enough effort on the class, considering that as a top scientist on the field he had a busy enough schedule, but the obscurity of his explanations made lectures a tough going, until by the second half he was making jokes about everyone falling asleep. The blank looks he was getting by then contrasted with the sincere interest everyone had on the course material before the midterm, when his challenges and questions started such debates, he had to stop and ask people to quiet down. 
+
+This is one of the few courses in which the difficult textbook proves more useful than the overflowing PP slides or the teacher's talk. The TA I was assigned for the project appeared to get kicks out of taking points for the most trivial mistakes, but then again, it is difficult to blame the teacher for such things - in fact he was the one who had to ask her to take it easy with the grading.
+
+--------------------------------------------------------------------------------
+
+Review 15
+Review ID: 7040
+Submission date: 2003-12-09T00:00:00
+Course: COMS W4111 - Introduction to Databases
+Rating: 3/5
+Feedback counts: agree=3, disagree=1, funny=0
+
+Workload:
+5 homeworks, 2 projects, midterm, final
+
+Review content:
+My opinion: the course is not hard, the prof is good.
+Course covers all the basic db stuff. Most of the material is from the textbook. If you don't know programming you'll have a tough time so make sure you have the prereqs. The first project is a standard web/db app (what most db classes make you do). The second one is a number-cruncher type deal, it sounds kind of complex, but really is easy once you figure out the concepts.
+Gravano is approachable and easy. Great in office hours, explained the 2nd project very clearly, I had no trouble running right into the lab and finishing it up. He also responds promptly to email. All in all, a kind soul like the other review said, tries to help you out as much as possible.
+
+--------------------------------------------------------------------------------
+
+Review 16
+Review ID: 7038
+Submission date: 2003-12-09T00:00:00
+Course: COMS W4111 - Introduction to Databases
+Rating: 3/5
+Feedback counts: agree=4, disagree=3, funny=0
+
+Workload:
+2 projects, 5 homeworks, midterm, final
+
+Review content:
+Here's the bottom line on the prof and the class. The class is more than a standard db offering in terms of workload: you got to do two projects, a web based db app and another theory-type number cruncher (most db classes make you do that one big app as a term project). There's also homeworks, mostly easy, with an occasional twist. If you go to class, do the projects/homework and score above avg in the exams, you're guaranteed a B+. One caution sign I'd post is: don't ignore the prereqs. You *need* to know how to code, and you *need* to know some data structure stuff. Don't screw around on this one, or you'll run into trouble in the projects. Gravano is basically a good guy. He does his best to help you out (even tho he appears touchy in class when cellphones ring, laptops ping etc, and you got to get used to the self-deprecating humor bit.) He's cool in office hours and email too (he gave several important hints on the second project ... this was a *huge* help after I spent like a whole weekend going blind on the numbers.) Overall, low stress class and he's a decent guy.
+
+--------------------------------------------------------------------------------
+
+Review 17
+Review ID: 1707
+Submission date: 2002-01-04T00:00:00
+Course: COMS W4111 - Introduction to Databases
+Rating: 4/5
+Feedback counts: agree=1, disagree=1, funny=0
+
+Workload:
+5 homeworks 1 group project in Java 1 individual project in C++, midterm, final
+
+Review content:
+Really nice Prof. Really good in office hours if you need a concept explained further. Interesting first project, second project in C++ is boring, takes it right out of textbook. The material is reasonably mixed with real world examples and theory. Grading is fair, although midterm and final are overly weighted towards theory.
+
+--------------------------------------------------------------------------------
+
+Review 18
+Review ID: 557
+Submission date: 2000-01-01T00:00:00
+Course: COMS W4111 - Introduction to Databases
+Rating: 4/5
+Feedback counts: agree=4, disagree=2, funny=0
+
+Workload:
+5-6 homeworks with 3 grace days, 1-2 projects (in groups of 2), midterm, final.
+
+Review content:
+One of the kindest souls in the Comp Sci dept. There aren't that many profs that post on the web board as often as he does. His lectures may not be the greatest (in fact, you could do most of the learning by using the textbook and the lecture notes he posts online), but his homeworks and tests are pretty well designed. Has a tendancy to delay assigning homeworks until he has covered the material in class.
+
+--------------------------------------------------------------------------------
